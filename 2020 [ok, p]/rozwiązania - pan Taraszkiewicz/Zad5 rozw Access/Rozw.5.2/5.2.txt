@@ -1,0 +1,8 @@
+SELECT COUNT(*) AS ["Jezyki nieurzedowe"]
+FROM 
+(SELECT DISTINCT jezyk 
+FROM Uzytkownicy 
+WHERE jezyk NOT IN 
+(SELECT jezyk 
+FROM Uzytkownicy 
+WHERE urzedowy="tak"));

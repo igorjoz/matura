@@ -1,0 +1,47 @@
+M2018 r., maj, 1. czêœæ
+
+3.1 - PHP i Java Script
+OK	1. Prawda, bo PHP jest wykonywany przez serwer
+OK	2. Prawda, bo Java Script jest wykonywany przez komputer odwiedzaj¹cego witrynê (klienta)
+OK	3. Fa³sz, bo PHP do funkcjonowania NIE JEST NIEZBÊDNE pobieranie danych od klienta --> czasami pobiera, ale nie jest to ZAWSZE
+****4. Prawda, bo Java Script MO¯E (nie musi) pobieraæ dane zarówno z serwera, jak i od klienta [Node.js pozwala nawet na dzia³anie jako mechanika serwera!]
+
+
+3.2 - Kolory CMYK
+OK	1. Fa³sz, bo pomimo, ¿e CMYK ma mniejsz¹ paletê barw, to plakat przygotowany w RGB mo¿e siê "rozjechaæ" po konwersji na CMYK, dlatego lepiej od razu wykonywaæ pracê w palecie barw CMYK; RGB jest u¿ywany w monitorach; CMYK to model barw do wydruku
+OK	2. Fa³sz, bo RGB ==> R=Red, G=Green, B=Blue
+*S	3. Prawda, bo Yellow(=¯ó³ty) + Magenta(Ró¿owy) --> Czerwony
+OK	4. Fa³sz, bo C w CMYK to Cyan, a nie contrast
+
+CMYK --> Cyan (niebieski / jasnoniebieski), Magenta (ró¿owy / fioletowy), Yellow, Key (blacK); substraktywnye - odejmowanie
+
+C + Y = zielony
+C + M = ciemny niebieski
+M + Y = czerwony
+C + M + Y = czarny
+
+-------------------------
+RGB --> Red, Green, Blue; addytywne - dodawanie
+
+G + B = jasny niebieski
+G + R = ¿ó³ty
+R + B = ró¿owy
+-------------------------
+HSB (HSL, HSV)
+Hue (kolor --> wszystkie kolory têczy - od czerwonego do filoetowego; wyraŸny w stopniach od 0 do 360)
+Saturation (nasycenie- oznacza si³ê koloru, czyli stosunek szaroœci do czystego odcienia; mówi¹c inaczej, okreœla stopieñ nasycenia (czystoœd) barwy od 0% (szary) do 100% (czysty kolor, pe³ne nasycenie))
+Brightness – jasnoœd- okreœla poziom jasnoœci (jaskrawoœci) barwy; czy barwa jest bli¿sza bieli czy czerni; inaczej- okreœla udzia³ bieli w danym kolorze od 0% (czarny) do 100% (bia³y)
+-------------------------
+
+
+3.3 - SQL
+OK	1. Fa³sz, mo¿na równie¿ ustawiæ malej¹co (wystarczy po klauzuli ORDER BY dodaæ DESC (descending - malej¹co))
+OK	2. Prawda, jak sama nazwa mówi, polecenie UPDATE aktualizuje jakieœ dane, czyli mo¿e zmieniæ ich zawartoœæ
+OK	3. Prawda, bo po pierwsze mamy SELECT * (czyli zaznacz wszystko) oraz jeœli w instrukcji LIKE znajd¹ siê warunki, które s¹ zgodne dla ka¿dego wiersza ca³ej tabeli, to zostanie wyœwietlona ca³a tabela
+****4. Prawda, z³¹czenie to: tabela1.pole = tabela2.pole, a wcele nie musi byæ tak, ¿e jakiekolwiek pole z tabeli 1 bêdzie mia³o tak¹ sam¹ wartoœæ, jak jakiekolwiek pole z tabeli 2
+
+
+-------------------------------------------------------------------------------------------
+OK --> dobre zrobione oraz rozumiem
+**** ==> b³¹d
+*S -> sprawdzi³em co wyjdzie z po³¹czenia tych kolorów (nazwy i kolory zna³em)

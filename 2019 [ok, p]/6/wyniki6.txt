@@ -1,0 +1,51 @@
+6.1:
+Oyal Priather
+Ologne D'oud
+Uelques FleuE
+
+6.2:
+rodzina_zapachow	cena	nazwa_p
+aromatyczna	124	Ibrary Ollec D'amore
+orientalna	113	Anille La Tosca
+orientalna lagodna	122	Ndy Warhol S Rose
+kwiatowo-orientalna	103	Arla : Vivace
+cytrusowa	259	Sian Grad
+wodna	146	Ilver Mounaya
+owocowa	154	Ake Perfucturne
+skorzana	112	Ui Mare
+cytrusowo-aromatyczna	178	Re Nostrum,ir
+drzewna	123	Pperlee Bouquet
+pudrowa	139	Ivm Cristal
+kwiatowo-drzewna	104	Rougna
+orientalno-drzewna	138	LackNight
+zielona	406	EOman
+szyprowo-skorzana	158	Uir OtPlace
+kwiatowo-szyprowa	287	Etish Pothal
+szyprowa	226	Usk ti 1888
+kwiatowa	110	Ose Deurmaline
+
+6.3:
+Aison Eranciro
+Arthbey
+Embert Lucas
+Enmith
+Nnick a Kieffo
+
+6.4:
+nazwa_p	po_obnizeniu_cenu
+Ourn Boise	141,95
+Onou Back	222,7
+Pic An	230,35
+Nterl Bambola	292,4
+Ubilatio Champs	381,65
+Ibrary Ollec D'or	489,6
+Ate An	544,85
+Elov & Musc	660,45
+
+6.5:
+nazwa_m	rodzina_zapachow
+Enmith	kwiatowo-orientalna
+Ightce	aromatyczna
+Issmkunstwerke	orientalna
+Nnick a Kieffo	orientalna
+X ICologne	orientalno-drzewna

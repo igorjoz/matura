@@ -1,0 +1,16 @@
+5.1: 63
+
+5.2:
+numer pierwszego dnia ciągu: 448
+numer ostatniego dnia ciągu: 455
+
+5.3: wykres w pliku 5.xlsx, arkusz 5.3
+
+5.4:
+a) na górze wielkość, a pod nimi liczba dni
+0	1	2	3	4	5
+34	102	102	102	100	60
+
+b) 296
+
+c) 286

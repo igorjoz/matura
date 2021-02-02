@@ -1,0 +1,1421 @@
+"id_klienta"	"imie"	"nazwisko"	"prefix_nip"	"NIP"	"wojewodztwo"	"kod"	"miejscowosc"	"ulica"	"nr_domu"
+"AbEl4405"	"Abdiasz"	"Eleryk"	295	"295-255-15-53"	"zachodniopomorskie"	"12-200"	"Pila"	"ul. 3 Maja"	86
+"AbJa18498"	"Abel"	"Japin"	933	"933-436-93-36"	"lubuskie"	"39-200"	"Lublin"	"Al. Marszalka Ferdinanda Focha"	133
+"AbKr3493"	"Abercjusz"	"Krempin"	254	"254-932-42-69"	"mazowieckie"	"74-506"	"Brzeg"	"Al. Zakochanych"	69
+"AbMo14159"	"Abdiasz"	"Modlek"	738	"738-217-37-36"	"mazowieckie"	"62-601"	"Dobsko"	"ul. 11 Listopada"	102
+"AbNa170"	"Abigail"	"Narbut"	107	"107-686-86-33"	"slaskie"	"82-200"	"lodz"	"Al. Hetmanska"	51
+"AbPi16557"	"Abel"	"Pieszczenik"	844	"844-281-25-90"	"slaskie"	"41-250"	"Mielno"	"Pl. Katedralny Imienia Jana Pawla II"	8
+"Absw5467"	"Abigail"	"swiecichowski"	344	"344-445-15-810"	"lodzkie"	"99-350"	"Sobolewo"	"ul. Akacjowa"	57
+"AcKo6153"	"Achilles"	"Kolej"	373	"373-682-69-79"	"lubuskie"	"42-141"	"Golkow"	"ul. Akacjowa"	74
+"AcMu8904"	"Achacy"	"Musterer"	501	"501-114-79-10"	"zachodniopomorskie"	"43-318"	"Klobuck"	"ul. Alojzego"	13
+"AcPi9448"	"Achacjusz"	"Piedech"	524	"524-969-46-15"	"warminsko-mazurskie"	"60-419"	"Krotoszyn"	"Pl. Kilinskiego Jana"	129
+"AcWi15113"	"Achacjusz"	"Wicenski"	781	"781-299-53-30"	"dolnoslaskie"	"95-100"	"Helenowek"	"Pl. Kopernika"	46
+"AdAl5562"	"Adolfina"	"Aleksowitz"	348	"348-274-11-26"	"slaskie"	"91-213"	"Krakow"	"Pl. Orla Bialego"	154
+"AdAz17252"	"Adela"	"Azgier"	875	"875-127-91-91"	"lodzkie"	"05-304"	"Horoszki Duze"	"Os. Jagiellonskie"	105
+"AdBa399"	"Adelajda"	"Baluszewski"	117	"117-637-86-44"	"mazowieckie"	"20-405"	"Warszawa"	"Al. Armii Ludowej"	38
+"AdBr3700"	"Adelina"	"Brycinski"	264	"264-568-43-49"	"slaskie"	"25-735"	"Wroclaw"	"ul. A8"	99
+"AdBu6843"	"Adolfina"	"Buszmann"	405	"405-139-42-41"	"dolnoslaskie"	"37-220"	"Hludno"	"Bulw. Marynarzy Okretow Pogranicza"	6
+"AdCh13603"	"Adria"	"Chlopus"	714	"714-193-56-53"	"mazowieckie"	"32-329"	"Inowroclaw"	"Rynek Glowny"	87
+"AdKa8930"	"Adolfa"	"Karczynowska"	501	"501-969-43-33"	"lodzkie"	"66-400"	"Inowroclaw"	"Al. II Jana Pawla"	40
+"AdKr12120"	"Ada"	"Kruciel"	645	"645-138-59-410"	"mazowieckie"	"20-111"	"Krakow"	"Rondo Zeslancow Syberyjskich"	132
+"AdMa19054"	"Adaukt"	"Marosa"	957	"957-393-56-75"	"malopolskie"	"99-322"	"Bydgoszcz"	"Skw. Kotowicza Jana Stefana (Pulkownika Jana Stefana Kotowicza)"	77
+"AdMa6707"	"Adaukt"	"Maciejkow"	398	"398-795-33-62"	"kujawsko-pomorskie"	"64-610"	"Przeradz Wielki"	"Os. Zachry"	7
+"AdMe7292"	"Ada"	"Merkiewicz"	424	"424-869-52-56"	"mazowieckie"	"09-550"	"Bydgoszcz"	"ul. 28 Czerwca 1956 R."	86
+"AdMu2795"	"Adrianna"	"Murmydlowski"	223	"223-937-38-94"	"swietokrzyskie"	"23-310"	"Poznan"	"Al. zolnierzy I Armii Wojska Polskiego"	68
+"AdNa11476"	"Adrianna"	"Najdzianowicz"	615	"615-336-17-66"	"podkarpackie"	"30-735"	"Warszawa"	"Pl. Mariacki"	91
+"AdRa11043"	"Adria"	"Radoniec"	596	"596-799-32-47"	"zachodniopomorskie"	"43-100"	"Maly Garc"	"ul. Asnyka Adama"	115
+"AdRa12111"	"Adaukt"	"Rajczakowski"	644	"644-736-36-12"	"podkarpackie"	"37-413"	"Suchowola"	"ul. 3 Maja"	99
+"AdRe14212"	"Adela"	"Rebs"	739	"739-987-32-710"	"dolnoslaskie"	"67-210"	"Poznan"	"Bulw. Zacisze"	97
+"AdSe19548"	"Adamina"	"Sekulicz"	979	"979-756-21-810"	"warminsko-mazurskie"	"01-361"	"Bielsko-Biala"	"ul. Armii Krajowej"	77
+"AdSk4813"	"Adalbert"	"Skurat"	314	"314-482-99-61"	"dolnoslaskie"	"41-710"	"lodz"	"Al. swierkowa"	68
+"AdSt18189"	"Adolfa"	"Stamma"	918	"918-846-35-98"	"wielkopolskie"	"25-021"	"Opole"	"Al. Pilsudskiego Jozefa"	5
+"AdWa18073"	"Adrianna"	"Wanke"	913	"913-826-79-78"	"dolnoslaskie"	"02-761"	"Gory Zlotnickie"	"Al. Sikorskiego Wladyslawa (Generala Wladyslawa Sikorskiego)"	19
+"AgAn13347"	"Agenor"	"Angermuller"	701	"701-982-11-81"	"slaskie"	"92-728"	"Bydgoszcz"	"Bulw. Ikara"	141
+"AgCz8358"	"Agrypina"	"Czgowiec"	475	"475-495-73-82"	"malopolskie"	"10-841"	"Bydgoszcz"	"ul. Baltycka"	21
+"AgGo19918"	"Agata"	"Gornisewicz"	996	"996-456-63-83"	"dolnoslaskie"	"99-120"	"Smolak"	"ul. Astronomow"	87
+"AgPi19586"	"Aga"	"Pihulak"	982	"982-539-86-34"	"slaskie"	"05-280"	"Wroclaw"	"Al. Grunwaldzka"	55
+"AgSz2024"	"Agapit"	"Szimpf"	189	"189-721-26-61"	"zachodniopomorskie"	"27-650"	"Zabrze"	"ul. Akacjowa"	47
+"AgWa14418"	"Agenor"	"Wawrzynosek"	751	"751-512-96-310"	"podlaskie"	"99-205"	"Walbrzych"	"Os. Lecha"	105
+"AlAs10937"	"Alicja"	"Asciszewska"	592	"592-625-15-66"	"malopolskie"	"44-300"	"Lipa"	"Pl. Kosciuszki Tadeusza"	62
+"AlBe17122"	"Alojza"	"Belczynski"	869	"869-341-64-43"	"warminsko-mazurskie"	"14-204"	"Brodowa Gora"	"ul. Abrahama Antoniego"	130
+"AlBo1785"	"Alban"	"Borezinska"	179	"179-183-29-43"	"pomorskie"	"08-103"	"Tarnow"	"Al. Solidarnosci"	85
+"AlBo3594"	"Albert"	"Boesa"	259	"259-321-93-26"	"lubuskie"	"31-478"	"Bieniow"	"Pl. zeromskiego Stefana"	112
+"AlCz1396"	"Aldona"	"Czernucha"	163	"163-147-52-91"	"dolnoslaskie"	"08-480"	"Owadow"	"ul. Bajeczna"	110
+"AlCz3315"	"Albina"	"Czwik"	245	"245-327-64-42"	"opolskie"	"20-425"	"Tychy"	"ul. Baczynskiego Krzysztofa Kamila"	112
+"AlDe13194"	"Aleksy"	"Dekucka"	694	"694-559-91-810"	"mazowieckie"	"92-116"	"Jastrzebie-Zdroj"	"Os. Kopernika Mikolaja"	4
+"AlDo16183"	"Alma"	"Dowgalak"	827	"827-275-83-47"	"opolskie"	"73-110"	"Krakow"	"ul. 1 Maja"	84
+"AlHy7333"	"Ali"	"Hychowski"	426	"426-818-34-30"	"dolnoslaskie"	"97-220"	"lodz"	"ul. Agnieszki"	33
+"AlIk6641"	"Aldona"	"Ikeda"	395	"395-934-51-88"	"mazowieckie"	"44-187"	"Lublin"	"Droga Pomorska"	7
+"AlKo6312"	"Albertyna"	"Korcaba"	381	"381-351-38-45"	"lodzkie"	"90-229"	"Rybnik"	"ul. Albanska"	31
+"AlKo667"	"Aleksander"	"Kocor"	129	"129-352-12-410"	"lodzkie"	"05-306"	"Warszawa"	"ul. Asnyka Adama"	65
+"AlMe2515"	"Aleksy"	"Meins"	211	"211-561-29-22"	"dolnoslaskie"	"32-600"	"Sarnowek"	"Pl. Nowy Targ"	136
+"AlSt19429"	"Albrecht"	"Staus"	974	"974-892-79-99"	"lodzkie"	"51-692"	"Krakow"	"Rondo Broniewskiego Wladyslawa"	31
+"AlSt6727"	"Aleksandra"	"Strojk"	399	"399-459-15-89"	"kujawsko-pomorskie"	"86-320"	"Pawlowka"	"Os. Sloneczne"	67
+"AlSz11091"	"Alfonsyna"	"Szmat"	598	"598-965-84-29"	"slaskie"	"41-300"	"Krakow"	"ul. Bajkowa"	6
+"AlSz3923"	"Alicja"	"Szawrocka"	274	"274-237-39-21"	"swietokrzyskie"	"21-100"	"Jaworzno"	"ul. 36 Pulku Piechoty Legii Akademickiej"	153
+"AlZe5263"	"Alma"	"Zenke"	335	"335-477-98-44"	"mazowieckie"	"35-102"	"Warszawa"	"Skw. Kotowicza Jana Stefana (Pulkownika Jana Stefana Kotowicza)"	143
+"AmBi12972"	"Amiceta"	"Bidka"	683	"683-715-55-77"	"mazowieckie"	"71-102"	"Pasek"	"Os. Poludnie"	150
+"AmBo14777"	"Amanda"	"Boyl"	765	"765-965-53-66"	"kujawsko-pomorskie"	"66-614"	"Jelenia Gora"	"Pl. Na Rozdrozu"	112
+"AmCh14296"	"Amanda"	"Chwiesiak"	744	"744-989-22-26"	"mazowieckie"	"84-223"	"Warszawa"	"ul. Baltycka"	22
+"AmCh7118"	"Amiceta"	"Chursowicz"	416	"416-746-46-76"	"slaskie"	"06-456"	"Szczecin"	"ul. 1 Maja"	34
+"AmDu1248"	"Amelia"	"Durzynski"	157	"157-218-77-73"	"opolskie"	"11-041"	"Kobylniki"	"ul. 3 Maja"	36
+"AmJa19801"	"Amon"	"Jambrozek"	992	"992-313-45-37"	"lodzkie"	"75-680"	"Warszawa"	"Al. Witosa Wincentego"	99
+"AmMa1597"	"Amiceta"	"Majran"	172	"172-774-18-63"	"lubuskie"	"17-132"	"Czlopy"	"Al. Zjednoczenia"	39
+"AmMa2748"	"Ambrozy"	"Marszewski"	221	"221-924-54-72"	"zachodniopomorskie"	"00-939"	"Cygany"	"Pl. Mariacki"	70
+"AmSc18676"	"Amanda"	"Schmidtschen"	941	"941-474-14-30"	"malopolskie"	"58-500"	"Stary Dzikow"	"Al. Pilsudskiego Jozefa (Marszalka Jozefa Pilsudskiego)"	102
+"AmSz6523"	"Amos"	"Szyller"	391	"391-188-74-46"	"kujawsko-pomorskie"	"16-050"	"Lesny Dwor"	"Os. Witosa Wincentego"	28
+"AmTo16474"	"Amadeusz"	"Tobulski"	839	"839-947-82-60"	"podlaskie"	"97-415"	"Jastrzebia"	"Al. Niepodleglosci"	30
+"Amzw15084"	"Amon"	"zwonek"	778	"778-944-18-44"	"zachodniopomorskie"	"09-320"	"Sulejowek"	"Rondo Giedroycia Jerzego"	145
+"AnAn7394"	"Andonik"	"Andryszowska"	429	"429-331-59-89"	"podlaskie"	"64-234"	"Czestochowa"	"ul. 4 Dywizji Wojska Polskiego"	71
+"AnBe4870"	"Anastazja"	"Bendaruk"	316	"316-625-92-29"	"mazowieckie"	"17-100"	"Stawek"	"Pl. Wiosny Ludow"	138
+"AnBo8690"	"Anita"	"Boklak"	491	"491-544-86-90"	"podkarpackie"	"19-104"	"Wielki Medromierz"	"Os. Kazimierzowskie"	4
+"AnCi6725"	"Aniela"	"Cierbi"	399	"399-423-12-410"	"slaskie"	"71-001"	"Jastrzebia"	"Al. Grunwaldzka"	36
+"AnDi15349"	"Anastazja"	"Ditel"	791	"791-352-15-410"	"mazowieckie"	"01-910"	"Gonty"	"Skw. 750-Lecia"	25
+"AnFa14964"	"Anita"	"Faryniak"	774	"774-296-59-710"	"swietokrzyskie"	"40-749"	"lodz"	"ul. Akacjowa"	119
+"AnGu1744"	"Aniceta"	"Gurowicz"	177	"177-843-69-28"	"podlaskie"	"64-400"	"Daszyna"	"ul. 11 Listopada"	7
+"AnHo8462"	"Angela"	"Hol"	479	"479-572-92-44"	"wielkopolskie"	"37-723"	"Nowa Wrona"	"Os. Jagiellonskie"	44
+"AnKa11656"	"Angela"	"Kawlas"	623	"623-816-12-64"	"mazowieckie"	"38-311"	"swietochlowice"	"Pl. Hutniczy"	61
+"AnKr11727"	"Angela"	"Krusiec"	626	"626-422-56-58"	"slaskie"	"63-840"	"Bialystok"	"ul. Arsenalska"	115
+"AnMa19569"	"Andron"	"Malgorzata"	981	"981-843-82-58"	"slaskie"	"62-110"	"Ceranow"	"Al. Zaglebia Dabrowskiego"	105
+"AnMu13151"	"Andrzej"	"Mufka"	692	"692-878-34-11"	"slaskie"	"68-113"	"Grudziadz"	"ul. 3 Maja"	28
+"AnNo11931"	"Angelus"	"Nowyj"	636	"636-614-96-36"	"kujawsko-pomorskie"	"83-333"	"Krakow"	"Pl. Nowy Kleparz"	44
+"AnPi9973"	"Anatolia"	"Pisaruk"	546	"546-966-22-73"	"lodzkie"	"98-220"	"Koryta"	"ul. Armii Krajowej"	2
+"AnPy19094"	"Anicet"	"Pychewicz"	958	"958-875-15-42"	"mazowieckie"	"01-353"	"Sztum"	"ul. Baltycka"	88
+"AnRe8028"	"Anicet"	"Regnowski"	458	"458-844-61-67"	"mazowieckie"	"85-300"	"Ujazd"	"Al. Roz"	78
+"AnSa13219"	"Andromeda"	"Sachno"	695	"695-493-21-32"	"wielkopolskie"	"81-154"	"Poznan"	"ul. Asnyka Adama"	110
+"AnSe2062"	"Anatolia"	"Sempruch"	192	"192-145-84-73"	"lubelskie"	"48-303"	"Gdansk"	"ul. Archimedesa"	139
+"AnSi6013"	"Aneta"	"Siostrzynkowski"	367	"367-115-91-66"	"dolnoslaskie"	"81-836"	"Lubominek"	"ul. Aptekarska"	16
+"AnSt1978"	"Anna"	"Strozyk"	187	"187-929-49-93"	"slaskie"	"64-125"	"Radom"	"Pl. Cukrowni"	5
+"AnSt7195"	"Angelus"	"Stepanowicz"	421	"421-277-21-69"	"kujawsko-pomorskie"	"11-500"	"Preczki"	"Os. Zamkowe"	1
+"AnSz4745"	"Anna"	"Szalaga"	311	"311-678-18-11"	"lubuskie"	"03-641"	"Warszawa"	"Pl. Gedymina"	12
+"AnSz4943"	"Anastazja"	"Szperko"	319	"319-959-96-28"	"opolskie"	"98-260"	"Chrapanow"	"ul. Babickiego Jozefa"	19
+"AnWi9220"	"Anastazja"	"Witstok"	513	"513-935-77-85"	"wielkopolskie"	"35-114"	"Lublin"	"Rynek Nowego Miasta"	85
+"ApHu13265"	"Apolonia"	"Hupert"	697	"697-528-37-610"	"zachodniopomorskie"	"93-213"	"Radom"	"ul. 22 Stycznia"	86
+"ArBi8582"	"Arleta"	"Bidzowska"	485	"485-924-39-22"	"wielkopolskie"	"19-104"	"Jaworzno"	"Pl. Wiosny Ludow"	148
+"ArDr2004"	"Ariadna"	"Drotler"	189	"189-138-35-45"	"malopolskie"	"44-200"	"Dmochy-Rogale"	"Al. Jana Pawla II"	81
+"ArKo3606"	"Arkady"	"Kolwas"	259	"259-899-87-11"	"mazowieckie"	"87-645"	"Legnickie Pole"	"Pl. Slowianski"	147
+"ArMr10482"	"Arletta"	"Mrula"	572	"572-147-96-33"	"lubelskie"	"27-400"	"Tobolice"	"Pl. Purkopa Bernarda"	90
+"ArMr17909"	"Arleta"	"Mrozow vel Mrozowski"	906	"906-129-12-90"	"pomorskie"	"26-610"	"Zabrnie Gorne"	"Os. Klimzy"	83
+"ArOp14241"	"Areta"	"Opielowski"	742	"742-381-86-16"	"mazowieckie"	"47-370"	"Szynczyce"	"ul. 11 Listopada"	24
+"ArSi18584"	"Arystarch"	"Sildatk"	936	"936-457-78-23"	"dolnoslaskie"	"30-529"	"Zielona Gora"	"ul. 3 Maja"	75
+"ArSz6585"	"Ariadna"	"Sztoltman"	393	"393-246-67-38"	"wielkopolskie"	"66-007"	"Brzeziny"	"ul. Agaty"	46
+"ArZa11822"	"Arkady"	"Zajdak"	631	"631-735-15-91"	"podkarpackie"	"95-010"	"Sosnowiec"	"ul. Artyleryjska"	62
+"ArZi173"	"Ariel"	"Ziem"	107	"107-718-74-50"	"malopolskie"	"11-036"	"Konczyce"	"ul. Antoniukowska"	22
+"AsCh7732"	"Aspazja"	"Chodenko"	446	"446-497-97-48"	"podkarpackie"	"66-440"	"Jaslo"	"ul. 1 Maja"	119
+"AsIs13129"	"Aspazja"	"Isaakson"	691	"691-877-69-49"	"lubelskie"	"26-804"	"Gdynia"	"Al. Slowackiego Juliusza"	10
+"AsJo14289"	"Asenat"	"Jocko"	744	"744-917-38-62"	"wielkopolskie"	"28-366"	"Katowice"	"ul. Aroniowa"	30
+"AsKa7693"	"Asteria"	"Kalmuk"	445	"445-179-51-91"	"lodzkie"	"33-111"	"Zelczyna"	"Pl. Targalskiego Wladyslawa"	124
+"AsNe13740"	"Asteria"	"Neminiarz"	721	"721-425-46-87"	"kujawsko-pomorskie"	"06-210"	"Sosnowiec"	"ul. Armii Krajowej"	1
+"AsPo8322"	"Asteriusz"	"Polgesek"	473	"473-911-34-610"	"podlaskie"	"87-810"	"Lublin"	"Al. Popieluszki Jerzego (Ksiedza Jerzego Popieluszki)"	139
+"AsSk11771"	"Asteriusz"	"Skrypiczajko"	628	"628-379-27-14"	"lodzkie"	"54-311"	"Bialystok"	"ul. Armii Krajowej"	141
+"AtCe6857"	"Atanazy"	"Cembowska"	405	"405-543-32-45"	"slaskie"	"93-571"	"Gdynia"	"ul. 700-Lecia"	109
+"AtMa3699"	"Atanazja"	"Maniarak"	264	"264-532-67-91"	"opolskie"	"41-503"	"Milinow"	"ul. Admiralska"	134
+"AtSl16374"	"Atanazja"	"Slaz"	835	"835-774-85-94"	"podlaskie"	"41-300"	"Chyze"	"Pl. Kosciuszki Tadeusza"	59
+"AuBe4558"	"Aurelia"	"Bentowski"	302	"302-711-61-610"	"mazowieckie"	"71-886"	"Kluczbork"	"Al. Pilsudskiego Jozefa (Marszalka Jozefa Pilsudskiego)"	57
+"AuBr5040"	"August"	"Brywik"	324	"324-911-76-67"	"lodzkie"	"99-320"	"Guzow-Kolonia"	"Os. Lesniczowka"	36
+"AuCh8303"	"Augusta"	"Chwestowicz"	472	"472-917-93-44"	"mazowieckie"	"85-872"	"Gliwice"	"Al. Jana Pawla II"	107
+"AuDr11799"	"August"	"Dreslerski"	629	"629-594-86-62"	"opolskie"	"98-331"	"lodz"	"Al. Wojska Polskiego"	130
+"AuDr14847"	"Augustyna"	"Droppo"	768	"768-668-89-70"	"zachodniopomorskie"	"41-800"	"Woziwoda"	"ul. Alfreda Nobla"	91
+"Aulo12861"	"Augustyna"	"lobza"	678	"678-643-69-31"	"lubelskie"	"41-200"	"Lwowek"	"Pl. Warynskiego Ludwika"	31
+"Ausm14602"	"Augustyna"	"smikiel"	758	"758-176-17-14"	"podkarpackie"	"07-200"	"Bielsko-Biala"	"ul. 11 Listopada"	141
+"AxDy3648"	"Axel"	"Dymitrus"	262	"262-365-27-15"	"zachodniopomorskie"	"35-604"	"Siemiatycze-Stacja"	"Al. Rzeczypospolitej"	10
+"AxRe18435"	"Axel"	"Rekert"	931	"931-177-51-27"	"lubelskie"	"31-123"	"lodz"	"Al. Pilsudskiego Jozefa (Marszalka Jozefa Pilsudskiego)"	43
+"BaAr12554"	"Bazyl"	"Areszta"	664	"664-827-29-39"	"zachodniopomorskie"	"62-650"	"Poznan"	"ul. Australijska"	113
+"BaBy6849"	"Bartosz"	"Byswianiec"	405	"405-236-45-32"	"slaskie"	"92-701"	"Wystep"	"ul. 3 Maja"	114
+"BaCi231"	"Bazyl"	"Ciemciura"	109	"109-929-87-74"	"wielkopolskie"	"80-850"	"Katowice"	"Os. Pod Lipami"	133
+"BaGr3278"	"Barabasz"	"Grymzel"	243	"243-863-74-33"	"kujawsko-pomorskie"	"40-129"	"Dynak"	"Al. Kopernika Mikolaja"	155
+"BaGr8500"	"Bazyl"	"Grabianowski"	482	"482-487-66-35"	"slaskie"	"17-210"	"Czestochowa"	"Os. Hologowka"	134
+"BaKa10356"	"Batszeba"	"Kanunczyk"	565	"565-455-16-78"	"wielkopolskie"	"14-140"	"Grodek"	"Pl. Kosciuszki Tadeusza"	18
+"BaKo7857"	"Barnaba"	"Kociewicz"	452	"452-782-86-38"	"slaskie"	"47-143"	"Gorki"	"Al. Wlokniarzy"	124
+"BaMy1439"	"Bartolomea"	"Mysliwczyk"	164	"164-761-17-56"	"slaskie"	"22-107"	"Wroclaw"	"Pl. Dworcowy"	88
+"BaOg12515"	"Balbina"	"Oglodzinska"	662	"662-859-31-110"	"kujawsko-pomorskie"	"16-100"	"Pruszkow"	"Al. Marzen"	64
+"BaPi10085"	"Barnaba"	"Pieciula"	553	"553-176-39-86"	"zachodniopomorskie"	"21-400"	"Wolka Terechowska"	"Pl. 1 Maja"	147
+"BaPi10939"	"Batszeba"	"Pisla"	592	"592-632-52-30"	"wielkopolskie"	"70-781"	"Krakow"	"Al. Kompozytorow Polskich"	93
+"BaRy12782"	"Batszeba"	"Rydol"	674	"674-686-31-27"	"mazowieckie"	"27-552"	"Dzialoszyn"	"ul. 22 Stycznia"	92
+"BaSu3667"	"Balbina"	"Sudomirski"	263	"263-231-24-27"	"pomorskie"	"12-100"	"Zabrze"	"Pl. Wolnosci"	25
+"BaSz5932"	"Bartolomea"	"Szlichten"	363	"363-639-36-82"	"slaskie"	"28-142"	"Jastrzebie-Zdroj"	"ul. Asnyka Adama"	3
+"BaSz8147"	"Balcer"	"Szurgut"	465	"465-382-68-91"	"podlaskie"	"20-089"	"Musiejowka"	"Al. Marsz. Pilsudskiego Jozefa"	88
+"BaTo12583"	"Bartolomea"	"Tomesch"	666	"666-165-71-77"	"dolnoslaskie"	"09-152"	"Bytom"	"Al. Niepodleglosci"	52
+"BaTy17427"	"Bazylissa"	"Tyrkiew"	882	"882-978-34-81"	"opolskie"	"93-633"	"Mikolow"	"Al. Schillera Leona"	46
+"BeBe16192"	"Beatrycze"	"Bertisz"	827	"827-496-68-19"	"kujawsko-pomorskie"	"97-540"	"Grodzisko Dolne"	"ul. Arabska"	4
+"BeDy15813"	"Beata"	"Dyndat"	811	"811-552-48-210"	"lubuskie"	"71-451"	"Warszawa"	"Pl. Raczynskiego Edwarda (Prezydenta Edwarda Raczynskiego)"	39
+"BeGe19302"	"Bernardyn"	"Gerepa"	968	"968-865-11-42"	"pomorskie"	"01-716"	"Gdansk"	"ul. 15 Lutego"	149
+"BeGi13628"	"Bertold"	"Giz"	715	"715-236-67-10"	"malopolskie"	"05-402"	"Poznan"	"ul. Admiralska"	9
+"BeGo17568"	"Bernardeta"	"Gorbski"	888	"888-824-49-81"	"mazowieckie"	"31-126"	"Koszalin"	"ul. Armii Krajowej"	128
+"BeGr6449"	"Benedykta"	"Grosweld"	386	"386-825-26-82"	"lubelskie"	"04-041"	"Moltajny"	"Al. Jana Pawla II"	95
+"BeGr9000"	"Berno"	"Gregorzyk"	504	"504-946-25-96"	"dolnoslaskie"	"06-400"	"Gdansk"	"Al. Partyzantow"	111
+"BeHa3926"	"Benita"	"Harezna"	274	"274-369-73-82"	"kujawsko-pomorskie"	"21-025"	"Gliwice"	"ul. Baletowa"	131
+"BeHe14639"	"Beatryks"	"Hektowska"	759	"759-756-54-810"	"dolnoslaskie"	"42-520"	"Monki"	"ul. Armii Krajowej"	115
+"BeHn9763"	"Beda"	"Hnatusko"	537	"537-867-94-83"	"pomorskie"	"31-764"	"lodz"	"Al. Unii Lubelskiej"	92
+"BeJa6450"	"Bernadeta"	"Jaskowiec"	386	"386-828-21-710"	"warminsko-mazurskie"	"21-310"	"Siemiatycze"	"ul. Bardzka"	134
+"BeKi6270"	"Benicjusz"	"Kipka"	378	"378-546-59-32"	"pomorskie"	"54-136"	"Kotomierz"	"ul. Alunowa"	54
+"BeKo3804"	"Bedzimir"	"Kosmeda"	268	"268-911-85-35"	"podkarpackie"	"59-850"	"Gdynia"	"Al. Chopina Fryderyka"	27
+"BeMa16777"	"Bernadetta"	"Manoch"	854	"854-629-65-35"	"mazowieckie"	"67-407"	"Wroclaw"	"Pl. Gwardii Ludowej"	48
+"BeOb8627"	"Benedykta"	"Obertowski"	487	"487-744-78-33"	"podlaskie"	"48-300"	"Michalin"	"Al. Jana Pawla II"	72
+"BePa8958"	"Benon"	"Pawelczak"	502	"502-999-81-64"	"dolnoslaskie"	"37-700"	"Jakubowice"	"Pl. Powstancow slaskich"	80
+"BePr1323"	"Bernadetta"	"Pronski"	159	"159-676-87-68"	"swietokrzyskie"	"83-440"	"Aleksandria Krzywowolska"	"ul. Armii Krajowej"	109
+"BePr5840"	"Beatrycze"	"Przeglo"	359	"359-312-37-62"	"zachodniopomorskie"	"64-920"	"Ustrobna"	"Al. Jana Pawla II"	141
+"BeSa12582"	"Bernard"	"Sarakula"	666	"666-141-69-30"	"malopolskie"	"91-867"	"Golubie"	"ul. Akacjowa"	114
+"BeSa13562"	"Benicjusz"	"Sacla"	712	"712-355-66-78"	"lodzkie"	"40-145"	"swidnica"	"Os. Dywizjonu 303"	153
+"BeSi17143"	"Bernardeta"	"Sindak"	869	"869-762-21-80"	"podkarpackie"	"41-200"	"Gdynia"	"ul. Baranowicka"	133
+"BeSz10000"	"Beata"	"Szewczukiewicz"	548	"548-288-47-40"	"mazowieckie"	"05-410"	"Poznan"	"Os. Rozane"	78
+"BeTa5915"	"Bedzislawa"	"Tasiemski"	362	"362-854-21-27"	"podlaskie"	"42-454"	"Gdansk"	"ul. Anhellego"	47
+"BeTo18519"	"Begina"	"Tolkaczew"	933	"933-998-79-81"	"lodzkie"	"39-434"	"Legnica"	"Pl. Kosciuszki Tadeusza"	3
+"BeWa18627"	"Berenika"	"Waldkiewicz"	938	"938-376-42-45"	"lubelskie"	"63-400"	"Nowa Korytnica"	"Pl. XXX Lecia Prl"	121
+"BeZa3345"	"Benigna"	"Zatka"	246	"246-369-89-92"	"mazowieckie"	"87-408"	"Rybnik"	"ul. Akacjowa"	151
+"BiSi18663"	"Biernat"	"Sirkierski"	939	"939-965-14-710"	"podlaskie"	"07-410"	"Piotrkowice"	"ul. Antylopy"	73
+"BlBo1609"	"Blandyna"	"Bokowa"	173	"173-354-43-11"	"malopolskie"	"60-003"	"Winiary Wislickie"	"ul. Armii Krajowej"	84
+"BlBy5926"	"Blazej"	"Bysina"	363	"363-293-72-92"	"lodzkie"	"84-218"	"Szczecin"	"ul. Andricia Ivo"	109
+"BlPo11698"	"Blandyna"	"Poganis"	625	"625-395-86-53"	"lodzkie"	"72-221"	"Szczecin"	"Pl. Komuny Paryskiej"	79
+"BlSz14956"	"Blanka"	"Szemczynski"	773	"773-995-97-92"	"kujawsko-pomorskie"	"05-120"	"Kielce"	"ul. Armii Krajowej"	75
+"BoBe14454"	"Boleslawa"	"Beizer"	752	"752-848-67-10"	"slaskie"	"35-230"	"Poznan"	"ul. Artylerzystow"	132
+"BoBe14962"	"Boguchwal"	"Belch"	774	"774-249-65-20"	"slaskie"	"62-543"	"Jaworzno"	"ul. Architektow"	66
+"BoBo12721"	"Bohusz"	"Bonderenko"	672	"672-471-35-73"	"slaskie"	"31-398"	"Bialystok"	"ul. Arkonska"	13
+"BoCz18797"	"Bozyslawa"	"Czuczwara"	945	"945-963-43-89"	"lodzkie"	"14-300"	"Krzepice"	"Pl. Lasoty"	30
+"BoDo14433"	"Bozeciecha"	"Dodz"	752	"752-166-79-34"	"zachodniopomorskie"	"07-300"	"Warszawa"	"Al. 1 Maja"	76
+"BoFr4871"	"Borzywoj"	"Fromek"	316	"316-644-12-610"	"swietokrzyskie"	"74-240"	"Mniszki"	"Al. Sienkiewicza Henryka"	112
+"BoGa14493"	"Boncza"	"Gadamer"	754	"754-232-57-88"	"zachodniopomorskie"	"41-707"	"Warszawa"	"ul. 11 Listopada"	34
+"BoGr8895"	"Bogdana"	"Grulka"	499	"499-772-55-59"	"slaskie"	"55-093"	"Nysa"	"Pl. Katedralny"	115
+"BoHe15350"	"Bogumir"	"Henejko"	791	"791-364-76-42"	"kujawsko-pomorskie"	"08-110"	"Wolskie"	"Al. Zbigniewa Herberta"	77
+"BoKi15489"	"Bogusad"	"Kikina"	796	"796-955-69-45"	"lubuskie"	"10-547"	"zuchlow"	"Pl. Staszica Stanislawa"	51
+"BoKo15059"	"Borzywoj"	"Kondracki"	778	"778-123-43-27"	"zachodniopomorskie"	"87-630"	"Jadowniki"	"ul. Aleksandry"	9
+"BoKo7654"	"Bogurad"	"Kolo"	443	"443-426-99-62"	"zachodniopomorskie"	"64-920"	"Chrzanowo"	"Pl. Witosa Wincentego"	73
+"BoKr1889"	"Boleslawa"	"Krema"	184	"184-374-37-96"	"wielkopolskie"	"87-731"	"Bobrowko"	"Al. Schillera Leona"	10
+"BoMa7148"	"Bozeciecha"	"Maciurak"	418	"418-179-58-86"	"slaskie"	"40-531"	"Sakowczyk"	"Os. Piastowskie"	88
+"BoMi10964"	"Bonifacy"	"Miorowska"	593	"593-637-15-27"	"podkarpackie"	"87-200"	"Gajewo"	"Pl. Rostka Jozefa (Doktora Jozefa Rostka)"	149
+"BoRe12912"	"Bozeciecha"	"Reetz"	681	"681-563-68-49"	"warminsko-mazurskie"	"66-429"	"Kalenice"	"Pl. Odrodzenia"	151
+"BoRy9910"	"Bogusz"	"Rybasch"	544	"544-668-81-16"	"mazowieckie"	"32-830"	"Warszawa"	"Bulw. Sloneczny"	136
+"BoSi5443"	"Bozyslawa"	"Sier"	343	"343-531-54-22"	"zachodniopomorskie"	"63-820"	"Brwilno"	"ul. Andersa Wladyslawa"	152
+"BoSm5763"	"Bozeciecha"	"Smytkowski"	356	"356-365-97-62"	"mazowieckie"	"83-140"	"lubienica-Superunki"	"ul. B2"	97
+"BoSt12055"	"Bolebor"	"Strinski"	642	"642-688-69-51"	"slaskie"	"90-219"	"Bydgoszcz"	"Al. Armii Krajowej"	152
+"BoSt18553"	"Boguta"	"Stepowany"	935	"935-258-25-92"	"zachodniopomorskie"	"87-220"	"Debicze"	"Al. Sienkiewicza Henryka"	79
+"BoSt65"	"Boromeusz"	"Stasieczak"	103	"103-698-84-14"	"warminsko-mazurskie"	"89-502"	"Szyszki"	"ul. Akacjowa"	15
+"BoSt7563"	"Borzyslawa"	"Stachniewski"	437	"437-575-31-12"	"pomorskie"	"59-216"	"Lutobrok"	"ul. Banacha Stefana"	14
+"Bosw13735"	"Boguwola"	"swisiulska"	721	"721-122-98-61"	"mazowieckie"	"82-100"	"Wielun"	"ul. Alabastrowa"	122
+"BoSz13970"	"Boguslawa"	"Szpeflicki"	731	"731-282-88-610"	"dolnoslaskie"	"06-300"	"Bukowo"	"Os. Armii Krajowej"	131
+"BoSz876"	"Bohdana"	"Szulca"	139	"139-722-99-48"	"podlaskie"	"07-410"	"Dzierzawy"	"Pl. Nowy"	3
+"BoTa5758"	"Bogusad"	"Tananko"	356	"356-186-92-34"	"slaskie"	"11-430"	"Trzcianka-Kolonia"	"Pl. Szarych Szeregow"	102
+"BoWa19512"	"Boguchwal"	"Warduch"	978	"978-257-17-34"	"pomorskie"	"83-425"	"Warszawa"	"ul. Akwarelowa"	6
+"BoWa2041"	"Bogusad"	"Waisbek"	191	"191-268-58-50"	"zachodniopomorskie"	"65-740"	"Chodorazek"	"ul. 11 Listopada"	95
+"BoZa8838"	"Borzywoj"	"Zachyla"	497	"497-779-69-41"	"mazowieckie"	"28-230"	"Dylagowka"	"ul. 1 Maja"	67
+"BoZi5669"	"Bozymierz"	"Zielowka"	352	"352-563-55-67"	"mazowieckie"	"21-302"	"Bydgoszcz"	"Pl. Nowaka-Jezioranskiego Jana"	15
+"BoZy10972"	"Boguta"	"Zylis"	594	"594-294-52-23"	"podkarpackie"	"82-520"	"Sztum"	"Al. Armii Ludowej"	33
+"BrBu16323"	"Brykcjusz"	"Burtowa"	834	"834-252-27-710"	"mazowieckie"	"26-922"	"Dabrowiec"	"ul. Aroniowa"	58
+"BrGo6343"	"Bronimir"	"Gomber"	382	"382-287-78-48"	"wielkopolskie"	"72-211"	"Bechcice-Wies"	"Pl. Konstytucji 3 Maja"	13
+"BrKy17914"	"Bronislawa"	"Kycik"	906	"906-324-34-67"	"lodzkie"	"43-230"	"lodz"	"Al. Legionow"	22
+"Brlo13335"	"Bronisz"	"lozyczka"	701	"701-593-97-38"	"lodzkie"	"27-580"	"Knurow"	"Os. Kopernika Mikolaja"	17
+"BrSu3409"	"Bronislawa"	"Surobot"	249	"249-866-43-56"	"lubelskie"	"64-200"	"Psary"	"ul. 11 Listopada"	99
+"Brsw423"	"Broniwoj"	"swierzbiolek"	118	"118-868-35-910"	"malopolskie"	"08-101"	"Olszewo"	"ul. Bacewicz Grazyny"	130
+"BrWi15482"	"Brygida"	"Wilnowiska"	796	"796-696-46-84"	"lodzkie"	"04-718"	"Warszawa"	"ul. Bartla Kazimierza"	85
+"BrZa10822"	"Brodzislaw"	"Zawalnik"	586	"586-896-75-45"	"slaskie"	"92-624"	"Kuczyny"	"Pl. swietego Jozefa"	124
+"Brzo12727"	"Bronislawa"	"zolnierczykiewicz"	672	"672-656-44-410"	"lubuskie"	"11-200"	"Jemielna"	"Pl. Zamenhofa Ludwika"	31
+"BuGe11368"	"Budzimir"	"Gerlach"	611	"611-722-67-92"	"kujawsko-pomorskie"	"05-303"	"Radlin"	"Pl. Pilsudskiego Jozefa (Marszalka Jozefa Pilsudskiego)"	37
+"BuWa9338"	"Budzimir"	"Waseznik"	519	"519-241-81-97"	"mazowieckie"	"07-431"	"Jaroslawki"	"Al. Jana Pawla II"	94
+"BuWa971"	"Budzigniew"	"Walaszuk"	144	"144-847-83-26"	"lodzkie"	"04-083"	"Przyborow"	"Al. Kasprowicza Jana"	96
+"BuWi8499"	"Budziwoj"	"Wilkniewski"	482	"482-482-53-42"	"lubelskie"	"33-112"	"swietochlowice"	"ul. 23 Czerwca"	51
+"CaWi9712"	"Carmen"	"Wimiarz"	535	"535-827-11-15"	"slaskie"	"28-210"	"Heliodorowo"	"ul. Amazonitowa"	131
+"CeCh12186"	"Celestyn"	"Chabinski"	647	"647-757-13-50"	"podkarpackie"	"27-225"	"Krotoszyn"	"ul. Asnyka Adama"	29
+"CeDr16014"	"Cecylia"	"Drozdzewicz"	819	"819-945-24-97"	"slaskie"	"36-245"	"Drutarnia"	"ul. Baluckiego Michala"	19
+"CeKa19305"	"Cezaryna"	"Kamkowski"	968	"968-993-24-23"	"malopolskie"	"43-100"	"Legnica"	"Al. Pojednania"	104
+"CeKo8224"	"Cecyliusz"	"Kozaryna"	468	"468-829-14-68"	"slaskie"	"88-133"	"Zawiercie"	"Al. Jarzebinowa"	89
+"CePt3069"	"Celina"	"Ptaszkowski"	235	"235-692-69-29"	"dolnoslaskie"	"14-133"	"Budziwojow"	"Pl. Bema Jozefa (Generala Jozefa Bema)"	135
+"CeSz12346"	"Cezaryna"	"Szarbiewski"	654	"654-754-79-69"	"malopolskie"	"11-430"	"Wyszkow"	"ul. Akacjowa"	109
+"CeSz8241"	"Celestyn"	"Szmuklarz"	469	"469-355-91-69"	"kujawsko-pomorskie"	"73-108"	"Lublin"	"ul. 1 Maja"	13
+"ChDy5222"	"Chociebor"	"Dyblas"	333	"333-685-87-11"	"lubelskie"	"82-433"	"Wielgie"	"Pl. Orawski"	150
+"ChEk6415"	"Chwalimira"	"Ekhaus"	385	"385-418-43-50"	"podlaskie"	"26-930"	"Milikow"	"ul. Bagienna"	26
+"ChFi14329"	"Chwalimir"	"Finkelman"	746	"746-791-93-32"	"warminsko-mazurskie"	"20-056"	"Grabno"	"Al. Wojska Polskiego"	122
+"ChGr2804"	"Charyzjusz"	"Grzebieniuk"	224	"224-523-28-27"	"slaskie"	"66-460"	"Siedlce"	"Pl. Warynskiego Ludwika"	65
+"ChGu10883"	"Chwalibog"	"Gudziewski"	589	"589-524-45-12"	"lodzkie"	"15-657"	"luzna"	"ul. Bankowa"	2
+"ChKa7950"	"Chocieslaw"	"Kazuczyk"	456	"456-144-44-46"	"mazowieckie"	"41-800"	"Krakow"	"Os. Bohaterow II Wojny swiatowej"	37
+"ChKo115"	"Charyzjusz"	"Korpiela"	105	"105-478-53-31"	"slaskie"	"28-300"	"Poznan"	"ul. 1 Maja"	148
+"ChKr4790"	"Chwalislawa"	"Krysi"	313	"313-499-81-210"	"zachodniopomorskie"	"29-100"	"Poznan"	"Os. Dambka Jozefa"	18
+"ChLa17211"	"Chociebor"	"Ladwik"	873	"873-345-97-93"	"mazowieckie"	"39-232"	"Krakow"	"ul. 22 Lipca"	24
+"ChMa14058"	"Chociebor"	"Martyszewski"	734	"734-659-61-37"	"zachodniopomorskie"	"38-200"	"Siedlec"	"Os. Stare Sady"	16
+"ChMa15032"	"Chocieslaw"	"Majurowicz"	776	"776-947-23-65"	"dolnoslaskie"	"43-267"	"Dabrowa Duza"	"Al. Niepodleglosci"	53
+"ChNa6225"	"Chrystian"	"Nardini"	376	"376-734-33-19"	"wielkopolskie"	"01-243"	"Walbrzych"	"Bulw. Jasinskiego Tadka"	104
+"ChTe2013"	"Chociebor"	"Tepieluk"	189	"189-329-98-63"	"dolnoslaskie"	"59-220"	"luzna"	"ul. 3 Maja"	35
+"ChTl17247"	"Chrystian"	"Tloczek"	874	"874-811-18-17"	"slaskie"	"78-326"	"Miaczyn"	"ul. Baczynskiego Krzysztofa Kamila"	24
+"CiBa1646"	"Cieszyslawa"	"Balnozan"	174	"174-825-11-30"	"slaskie"	"45-418"	"Wloclawek"	"Al. Grunwaldzka"	97
+"CiBa2408"	"Ciechomir"	"Balkowski"	206	"206-445-37-20"	"podkarpackie"	"09-151"	"Czlopy"	"ul. Armii Krajowej"	13
+"CiCz8752"	"Cieszyslawa"	"Czernyj"	494	"494-223-92-310"	"kujawsko-pomorskie"	"59-916"	"Jastrzebie-Zdroj"	"ul. Aleje Jerozolimskie"	15
+"CiGr590"	"Cieszygor"	"Grzendzinski"	126	"126-241-68-910"	"mazowieckie"	"01-150"	"Plock"	"Al. Pokoju"	80
+"CiKr11812"	"Cierpislaw"	"Krylowski"	631	"631-286-57-47"	"mazowieckie"	"61-543"	"Stuzno-Kolonia"	"Al. Jerozolimskie"	2
+"CiPo16033"	"Cierpislaw"	"Poddura"	821	"821-586-71-45"	"lodzkie"	"71-791"	"Koszalin"	"Al. Kasprowicza Jana"	65
+"CiSi5366"	"Ciechoslawa"	"Siacek"	339	"339-373-13-91"	"lubelskie"	"33-323"	"Kuchary Koscielne"	"Pl. Staszica Stanislawa"	95
+"CiUr12210"	"Cieszyslaw"	"Uruszewska"	648	"648-892-64-86"	"warminsko-mazurskie"	"95-045"	"Dabrowka"	"ul. Astronautow"	125
+"CyWa10527"	"Cyriaka"	"Wachno"	573	"573-638-55-65"	"slaskie"	"27-530"	"Krakow"	"Os. Zamkowe"	38
+"CzCh15621"	"Czechon"	"Chykinska"	802	"802-879-36-74"	"lubelskie"	"95-030"	"Kulesze-Podawce"	"Al. Niepodleglosci"	116
+"CzGe16319"	"Czcibor"	"Gemeinert"	834	"834-141-86-96"	"slaskie"	"34-145"	"Gluszyca"	"ul. Bartlomieja"	117
+"CzKr16542"	"Czesemir"	"Kramar"	843	"843-577-71-25"	"swietokrzyskie"	"06-400"	"Gdansk"	"Os. Sikorowka"	102
+"CzMa5593"	"Czestogniew"	"Makosz"	349	"349-541-65-17"	"slaskie"	"02-912"	"Baran"	"Al. Sikorskiego Wladyslawa (Generala Wladyslawa Sikorskiego)"	61
+"CzPo9723"	"Czcibor"	"Posko"	536	"536-262-74-23"	"podlaskie"	"11-200"	"zory"	"Os. Zwyciestwa"	35
+"CzSz5619"	"Czestowoj"	"Szewczynko"	351	"351-275-25-110"	"wielkopolskie"	"16-020"	"Dobratycze"	"ul. Baczewskiego Jana"	121
+"CzSz9635"	"Czestowoj"	"Szwogier"	533	"533-212-52-43"	"mazowieckie"	"48-304"	"Kielce"	"Pl. Kosciuszki Tadeusza"	55
+"CzZi19284"	"Czcibora"	"Ziembkowski"	967	"967-961-87-74"	"zachodniopomorskie"	"59-213"	"Warszawa"	"Os. Zlotej Jesieni"	11
+"DaAl19073"	"Dariusz"	"Alexejew"	957	"957-985-62-24"	"podlaskie"	"74-500"	"Rzeszow"	"Al. Jerozolimskie"	38
+"DaBr10531"	"Dagna"	"Bretschnejder"	573	"573-725-57-87"	"lodzkie"	"53-608"	"lodz"	"ul. 11 Listopada"	137
+"DaBu2409"	"Danisz"	"Burdelski"	206	"206-472-81-34"	"kujawsko-pomorskie"	"26-400"	"Murowaniec"	"Pl. Pokoju"	28
+"DaCi5515"	"Dawid"	"Cibuch"	346	"346-115-89-53"	"lodzkie"	"46-325"	"swieradow-Zdroj"	"ul. Andersa Wladyslawa (Generala Wladyslawa Andersa)"	118
+"DaCz13657"	"Dalemir"	"Czoczek"	716	"716-744-87-56"	"zachodniopomorskie"	"44-335"	"Lublin"	"ul. 3 Maja"	117
+"DaCz873"	"Dagna"	"Czyrak"	139	"139-663-52-810"	"slaskie"	"22-106"	"Opole"	"ul. Arctowskiego Henryka"	112
+"DaDy18749"	"Dagmara"	"Dyrdy"	944	"944-496-58-98"	"dolnoslaskie"	"11-040"	"Knieja"	"Al. Niepodleglosci"	62
+"DaEl8912"	"Dadabog"	"Elmis"	501	"501-382-16-64"	"podlaskie"	"15-199"	"Krakow"	"ul. 11 Listopada"	102
+"DaGr3638"	"Dagna"	"Grachowicz"	261	"261-789-66-48"	"pomorskie"	"87-152"	"Bydgoszcz"	"Osada Rybacka"	34
+"DaJe16765"	"Damian"	"Jelita"	854	"854-133-82-81"	"podlaskie"	"84-342"	"Skarzysko-Kamienna"	"ul. Armii Krajowej"	8
+"DaJo6385"	"Dawida"	"Jonew"	383	"383-836-53-35"	"podlaskie"	"80-264"	"Boiska"	"ul. Asnyka Adama"	35
+"DaKa1675"	"Dalila"	"Kaszmirska"	175	"175-731-37-29"	"kujawsko-pomorskie"	"99-400"	"Sulejowek"	"Pl. Hallera Jozefa"	111
+"DaKi5334"	"Dalebor"	"Kiempowicz"	338	"338-223-46-48"	"malopolskie"	"31-007"	"Lublin"	"Droga Kurpiowska"	23
+"DaKo16217"	"Dan"	"Kolaza"	828	"828-395-36-44"	"kujawsko-pomorskie"	"47-330"	"Glazewo-Cholewy"	"ul. Armii Krajowej"	16
+"Dale19245"	"Dajana"	"leske"	966	"966-469-68-16"	"podkarpackie"	"38-350"	"Zawiercie"	"ul. Bandtkich"	16
+"DaMa6623"	"Daria"	"Marcywolski"	394	"394-959-31-92"	"lodzkie"	"52-200"	"Wilkoszyce"	"Os. Bielskie"	82
+"DaNa14142"	"Dan"	"Nastrabas"	737	"737-616-59-10"	"lodzkie"	"26-700"	"Szklarka Myslniewska"	"Pl. Dworcowy"	107
+"DaPa12181"	"Dalia"	"Panczykowski"	647	"647-573-79-90"	"wielkopolskie"	"09-530"	"Zalesie"	"Park im. 3 Dywizji Piechoty"	131
+"DaPa18210"	"Dan"	"Pachnia"	919	"919-894-99-19"	"malopolskie"	"40-527"	"Psary"	"Pl. Henkla Dionizego"	64
+"DaPi12891"	"Danuta"	"Pinczykowski"	679	"679-756-44-66"	"swietokrzyskie"	"85-829"	"Biskupiec"	"Al. Przyjazni"	131
+"DaRo19288"	"Dajana"	"Rozmajta"	968	"968-155-42-17"	"malopolskie"	"38-246"	"Czechowice-Dziedzice"	"ul. Astrow"	13
+"DaSi19655"	"Dariusz"	"Silaff"	985	"985-216-44-12"	"lubelskie"	"03-036"	"Sosnowiec"	"ul. 17 Stycznia"	46
+"DaSt4844"	"Dajana"	"Stieler"	315	"315-674-32-19"	"podlaskie"	"84-352"	"Obrzycko"	"ul. Armatorow"	8
+"DaSt7022"	"Damazy"	"Stryjkowski"	413	"413-238-53-64"	"slaskie"	"80-313"	"Ruda slaska"	"Os. Wichrowe Wzgorze"	37
+"DaSt8231"	"Damazy"	"Steblinski"	468	"468-989-25-86"	"podlaskie"	"21-421"	"Gdansk"	"Al. Grzecznarowskiego Jozefa"	2
+"DaSz1027"	"Damaris"	"Szladow"	146	"146-825-99-46"	"wielkopolskie"	"39-100"	"Kolobrzeg"	"ul. Barlickiego Norberta"	32
+"DaSz19425"	"Dagobert"	"Szapowal"	974	"974-865-23-53"	"lodzkie"	"78-431"	"Orzelek"	"Al. smiglego-Rydza Edwarda (Marszalka Edwarda smiglego-Rydza)"	90
+"DaUr910"	"Dawida"	"Urszulski"	142	"142-741-16-610"	"slaskie"	"26-610"	"Czeremcha"	"ul. Barcicka"	64
+"DaWa10666"	"Damaris"	"Walida"	579	"579-987-74-99"	"kujawsko-pomorskie"	"86-100"	"Bierzglowo"	"Pl. Curie-Sklodowskiej Marii"	47
+"DaWa8999"	"Dajana"	"Wasniczuk"	504	"504-883-92-31"	"pomorskie"	"80-298"	"Wroclaw"	"Al. Warszawska"	25
+"DaWe1653"	"Dariusz"	"Wendyszewska"	175	"175-125-73-90"	"kujawsko-pomorskie"	"11-710"	"Popeszyce"	"Pl. Jana Pawla II"	83
+"DaWo13304"	"Dadabog"	"Wollersdorfer"	699	"699-334-59-38"	"pomorskie"	"64-830"	"Jaslo"	"Os. Jagiellonskie"	57
+"DaZd4484"	"Dawida"	"Zdzierzynski"	298	"298-237-35-82"	"slaskie"	"93-520"	"Starogrod"	"ul. Bacewiczowny Grazyny"	151
+"DeBa18208"	"Dezyderia"	"Bartlowicz"	919	"919-756-51-72"	"mazowieckie"	"19-400"	"Plock"	"ul. Afrodyty"	106
+"DeBi8933"	"Delfin"	"Biczewnik"	502	"502-181-89-84"	"pomorskie"	"29-105"	"Gliwice"	"Pl. Cukrowni"	110
+"DeBo13705"	"Demetria"	"Boczkaj"	718	"718-523-59-53"	"wielkopolskie"	"58-500"	"Brusiek"	"Os. Handlowe"	142
+"DeDz14686"	"Demetria"	"Dziecina"	762	"762-489-75-71"	"mazowieckie"	"26-910"	"Glogow"	"ul. 11 Listopada"	49
+"DeFi18450"	"Dezyderiusz"	"Findura"	931	"931-639-23-42"	"wielkopolskie"	"44-164"	"Konskie"	"ul. Armii Krajowej"	99
+"DeGr13869"	"Delfina"	"Grabienczyk"	726	"726-456-84-71"	"wielkopolskie"	"85-769"	"Przemysl"	"Al. Sikornik"	41
+"DeKa2502"	"Demetria"	"Kajraniec"	211	"211-191-31-18"	"malopolskie"	"19-500"	"Warszawa"	"Szosa Torunska"	36
+"DeKl558"	"Demokryt"	"Kleinbergier"	125	"125-287-77-37"	"zachodniopomorskie"	"63-400"	"Wloclawek"	"Al. Wilanowska"	98
+"DeKo10573"	"Derslaw"	"Kobial"	575	"575-653-82-27"	"podkarpackie"	"87-600"	"Pinczyn"	"Os. Na Wzgorzach"	38
+"DeKu6980"	"Dezyderia"	"Kumiszcze"	411	"411-546-14-82"	"swietokrzyskie"	"87-140"	"Szczecin"	"Os. Wandy"	63
+"DeMa11725"	"Delfin"	"Markopolsky"	626	"626-387-18-18"	"slaskie"	"75-256"	"Krakow"	"Al. Pilsudskiego Jozefa"	31
+"DePu8703"	"Delfin"	"Pucia"	492	"492-138-73-78"	"wielkopolskie"	"60-332"	"Czerniejow"	"ul. Astronomiczna"	98
+"DeSu1995"	"Denis"	"Suboszenko"	188	"188-753-91-71"	"podkarpackie"	"05-180"	"Zbojno"	"ul. Azaliowa"	22
+"DiAj2020"	"Dina"	"Ajnchord"	189	"189-538-43-310"	"swietokrzyskie"	"62-230"	"Ruda slaska"	"ul. Armii Krajowej"	36
+"DiGo16261"	"Diomeda"	"Gostkowski"	831	"831-541-35-38"	"dolnoslaskie"	"43-378"	"Warszawka"	"Pl. Kilinskiego Jana"	6
+"DiOz12275"	"Diana"	"Ozogowicz"	652	"652-537-82-67"	"mazowieckie"	"07-411"	"Bydgoszcz"	"ul. 42 Pulku Piechoty"	59
+"DiPo6129"	"Diana"	"Podmajstrzyk"	372	"372-873-81-95"	"mazowieckie"	"78-220"	"swidnica"	"Al. Pod Kasztanami"	39
+"DiRy10656"	"Diomeda"	"Ryzewski"	579	"579-414-17-410"	"warminsko-mazurskie"	"78-123"	"Zakopane"	"ul. Akacjowa"	142
+"DiSt6586"	"Ditta"	"Stibbe"	393	"393-381-29-87"	"slaskie"	"46-312"	"Warszawa"	"ul. Atutowa"	16
+"DiSy11659"	"Diogenes"	"Sywno"	624	"624-139-58-13"	"podlaskie"	"73-231"	"Tarnowskie Gory"	"Pl. swietego Mikolaja"	122
+"DiWi8911"	"Diomeda"	"Wierucki"	501	"501-349-13-91"	"podlaskie"	"99-300"	"Grudziadz"	"Al. Niepodleglosci"	130
+"DoAb4026"	"Dobrowit"	"Abtan"	278	"278-184-83-63"	"kujawsko-pomorskie"	"87-810"	"Czekaj"	"Pl. Wolnosci"	132
+"DoAj7506"	"Dobieslawa"	"Ajzner"	434	"434-936-97-91"	"podkarpackie"	"25-820"	"Siewierz"	"ul. Andrukiewicza Stanislawa (Ksiedza Stanislawa Andrukiewicza)"	48
+"DoAr19493"	"Dobromila"	"Armada"	977	"977-487-54-60"	"warminsko-mazurskie"	"09-407"	"Grodzisk Wielkopolski"	"ul. Bacholinska"	106
+"DoBo5059"	"Domaslawa"	"Bogdzio"	325	"325-964-15-94"	"lodzkie"	"44-230"	"Krakow"	"ul. 1 Maja"	60
+"DoCh11615"	"Dobrocha"	"Chaplewska"	622	"622-474-41-68"	"opolskie"	"43-502"	"Warszawa"	"ul. Akacjowa"	53
+"DoCi4092"	"Dobrogost"	"Ciemniak"	282	"282-151-79-69"	"opolskie"	"93-219"	"Bydgoszcz"	"Skw. leskiego Zygmunta (Druha Zygmunta leskiego)"	76
+"DoCz315"	"Dolores"	"Czapinski"	115	"115-216-68-24"	"podlaskie"	"07-311"	"Dankowice"	"Szosa Nakielska"	62
+"DoDz12323"	"Dominik"	"Dziewota"	654	"654-124-66-32"	"swietokrzyskie"	"20-368"	"Piekielnik"	"Al. Wojska Polskiego"	30
+"DoGi5797"	"Dominik"	"Gielczewski"	357	"357-241-38-68"	"mazowieckie"	"42-160"	"Golasowice"	"ul. 11 Listopada"	134
+"DoGr7355"	"Dobiemir"	"Gras"	427	"427-825-58-46"	"slaskie"	"18-400"	"Katowice"	"ul. Azaliowa"	115
+"DoHa2807"	"Dobrawa"	"Haup"	224	"224-574-28-18"	"slaskie"	"58-500"	"Obromino"	"Pl. Kopernika Mikolaja"	49
+"DoHo4441"	"Dobrochna"	"Hodyr"	296	"296-834-44-95"	"zachodniopomorskie"	"05-510"	"Pienczykowek"	"ul. Bagno"	33
+"DoJa3676"	"Dobroniega"	"Jarmakow"	263	"263-513-85-33"	"podkarpackie"	"08-400"	"Wolow"	"ul. 16 Pulku Ulanow Wielkopolskich"	141
+"DoJa4090"	"Dobrowoj"	"Jasschke"	282	"282-114-77-22"	"lodzkie"	"42-270"	"Lipowy Most"	"Pl. Blonie-Beszcz"	100
+"DoKa3816"	"Domamir"	"Kawalowski"	269	"269-279-66-67"	"malopolskie"	"81-411"	"Krakow"	"ul. Astrow"	42
+"DoKi17115"	"Dorian"	"Kierlinski"	869	"869-192-48-99"	"kujawsko-pomorskie"	"41-200"	"Ciochowice"	"Pl. Pocztowy"	45
+"DoKo33"	"Dorota"	"Korps"	102	"102-415-46-89"	"opolskie"	"07-304"	"Ciekoty"	"Pl. Powstancow slaskich"	132
+"DoKs6978"	"Donat"	"Ksiezka"	411	"411-497-25-65"	"malopolskie"	"59-330"	"Marcinkowo"	"Pasaz Natolinski"	92
+"DoLi19178"	"Dominika"	"Lisoski"	963	"963-999-64-58"	"wielkopolskie"	"07-300"	"Gryfino"	"Al. Warszawska"	93
+"DoMa11234"	"Domicela"	"Mardziak"	605	"605-379-87-42"	"podkarpackie"	"58-100"	"Huta Minska"	"Al. Wojska Polskiego"	122
+"DoMa8498"	"Dobrogniew"	"Malisius"	482	"482-471-96-34"	"malopolskie"	"87-860"	"Gliwice"	"Pl. Grunwaldzki"	90
+"DoMi8415"	"Dobislawa"	"Mironczuk-Ossowski"	477	"477-666-91-33"	"dolnoslaskie"	"80-453"	"Warszawa"	"Os. Matejki Jana"	108
+"DoMo8573"	"Domaslaw"	"Mosztal"	485	"485-459-79-48"	"podkarpackie"	"67-210"	"Krakow"	"Os. swierczewskiego Karola (Generala Karola swierczewskiego)"	43
+"DoNa14933"	"Dobromila"	"Nagi"	772	"772-873-86-91"	"lubelskie"	"03-762"	"Lubla"	"Al. 1 Maja"	81
+"DoOl7472"	"Dobromira"	"Oleszczek"	433	"433-365-93-910"	"mazowieckie"	"00-904"	"Warszawa"	"ul. Armii Krajowej"	40
+"DoPi17354"	"Dobislawa"	"Pietsz"	879	"879-198-43-75"	"zachodniopomorskie"	"17-111"	"Kornica"	"ul. 1 Maja"	75
+"DoPo17498"	"Dobieslawa"	"Postrowska"	886	"886-348-66-10"	"mazowieckie"	"02-717"	"Radom"	"ul. 11 Listopada"	16
+"DoPo8369"	"Donat"	"Pocent"	475	"475-784-96-21"	"pomorskie"	"91-526"	"lodz"	"Al. Jana Pawla II"	102
+"DoRa4119"	"Dobronieg"	"Rarczynska"	283	"283-341-39-74"	"zachodniopomorskie"	"48-250"	"lodz"	"ul. Armii Krajowej"	110
+"DoRa7632"	"Domamir"	"Ragiel"	442	"442-258-74-32"	"lubelskie"	"57-220"	"Chorzow"	"ul. Architektow"	97
+"DoRe16172"	"Dobrowit"	"Reyniak"	826	"826-659-38-55"	"podlaskie"	"01-553"	"Wiatrowiec"	"Al. smidowicza Jana (Inzyniera Jana smidowicza)"	141
+"DoSi14150"	"Dobrowiest"	"Sihinkiewicz"	737	"737-948-31-25"	"mazowieckie"	"41-500"	"Kedzierzyn-Kozle"	"Al. Zwyciestwa"	11
+"DoSi18430"	"Dobrowoj"	"Siakantaris"	929	"929-922-93-74"	"mazowieckie"	"85-790"	"Brzozowiec"	"ul. Antoniewska"	28
+"DoWe6009"	"Domoslawa"	"Wernd"	366	"366-754-39-90"	"wielkopolskie"	"28-114"	"Krakow"	"Os. Wygoda"	65
+"DoWu5034"	"Domoslaw"	"Wuttig"	324	"324-513-84-60"	"warminsko-mazurskie"	"22-200"	"Guzowatka"	"ul. Artych Sabiny"	84
+"DoZa3614"	"Dobrowoj"	"Zagutka"	261	"261-389-55-11"	"podkarpackie"	"34-652"	"Mirzec"	"Al. Boleslawa Krzywoustego"	26
+"DoZo14603"	"Donata"	"Zosgornik"	758	"758-217-73-54"	"wielkopolskie"	"96-502"	"Gryzyce"	"Os. Centrum D"	60
+"DrCh18604"	"Dragomir"	"Charusta"	937	"937-228-64-28"	"pomorskie"	"01-980"	"lomnica"	"ul. Bajeczna"	81
+"DrDz8143"	"Drogomysl"	"Dzyc"	465	"465-149-99-410"	"pomorskie"	"64-920"	"Pradowka"	"Pl. Nowaka-Jezioranskiego Jana"	4
+"DrGl18643"	"Drogoslaw"	"Glabasnia"	938	"938-822-65-90"	"lodzkie"	"07-440"	"Stanislawow"	"ul. Akacjowa"	6
+"DrKa3807"	"Drogoslawa"	"Kaluzka"	268	"268-994-78-510"	"lodzkie"	"63-300"	"Mycielin"	"ul. 1 Maja"	146
+"DrNi16103"	"Drogoslaw"	"Nicolaus"	823	"823-749-62-210"	"podkarpackie"	"14-411"	"Wojsze"	"Al. Jana Pawla II"	153
+"DuKu19646"	"Duszan"	"Kusznirewko"	984	"984-785-84-22"	"mazowieckie"	"83-132"	"Bialystok"	"ul. 14 Pulku Piechoty"	153
+"DuMe18786"	"Duszan"	"Mecznik"	945	"945-524-29-210"	"pomorskie"	"26-922"	"Jaworzno"	"ul. Amundsena Roalda"	141
+"DuRy9442"	"Duszan"	"Ryl-Krystianowski"	524	"524-919-69-89"	"podkarpackie"	"27-650"	"Krakow"	"ul. Astronautow"	141
+"DyEs7169"	"Dymitriusz"	"Esterajcher"	418	"418-783-21-66"	"podlaskie"	"61-663"	"Boncza"	"ul. Bajkowa"	154
+"DyGl15545"	"Dymitr"	"Glaszuka"	799	"799-151-19-16"	"kujawsko-pomorskie"	"78-450"	"Rawicz"	"Al. Jana Pawla II"	35
+"DyGo4971"	"Dymitr"	"Goncirz"	321	"321-943-38-95"	"wielkopolskie"	"33-133"	"Warszawa"	"Al. Roz"	28
+"DyJa8003"	"Dytrych"	"Jaroz"	458	"458-111-98-38"	"lubelskie"	"21-512"	"Czyzemin"	"ul. 1 Maja"	94
+"DyJo4980"	"Dymitr"	"Jochymczyk"	322	"322-371-49-85"	"slaskie"	"70-892"	"Nowy Dwor Pelplinski"	"Al. Jana Pawla II"	2
+"DyKa16151"	"Dytrych"	"Kaftal"	825	"825-664-71-56"	"dolnoslaskie"	"59-300"	"Radgoszcz"	"ul. Barbary"	107
+"DyPi17645"	"Dymitr"	"Pietrzukowska"	893	"893-266-69-45"	"slaskie"	"05-070"	"Gliwice"	"ul. Asnyka Adama"	56
+"DySe17606"	"Dyzma"	"Secemski"	891	"891-981-41-42"	"podlaskie"	"41-923"	"Ledyczek"	"ul. Baltycka"	20
+"DySt18701"	"Dytrych"	"Sterczuk"	942	"942-256-21-79"	"podkarpackie"	"09-400"	"Czeremcha"	"Rynek Rynek"	39
+"DzDo4005"	"Dzierzykraj"	"Domajda"	276	"276-943-58-12"	"lubelskie"	"87-875"	"Warszawa"	"ul. Arianska"	66
+"DzHu5807"	"Dzierslaw"	"Humbla"	357	"357-668-53-68"	"wielkopolskie"	"26-604"	"Katowice"	"ul. 24 Marca"	123
+"DzKa10424"	"Dzierslawa"	"Kaziemkowska"	568	"568-376-74-41"	"mazowieckie"	"63-830"	"Warszawa"	"Al. Palki Grzegorza"	121
+"DzPe10928"	"Dzierslawa"	"Pesik"	592	"592-261-91-47"	"podlaskie"	"83-300"	"Budy"	"Pl. Obroncow Westerplatte"	74
+"DzWa17703"	"Dzierzykraj"	"Wadielac"	895	"895-544-56-56"	"kujawsko-pomorskie"	"30-318"	"Przemkow"	"Szosa Bydgoska"	99
+"EbWo19565"	"Eberhard"	"Wolasinska"	981	"981-552-57-110"	"dolnoslaskie"	"61-131"	"Szczytno"	"ul. Apteczna"	18
+"EdCh18697"	"Edyta"	"Chryzko"	942	"942-116-87-96"	"lubuskie"	"63-700"	"Czarnozyly"	"ul. Baltycka"	107
+"EdGl8104"	"Edwin"	"Glownia"	463	"463-268-15-74"	"pomorskie"	"07-311"	"Tulkowice"	"ul. Baczynskiego Krzysztofa Kamila"	80
+"EdKn19506"	"Edward"	"Knutelski"	978	"978-132-45-40"	"podkarpackie"	"42-713"	"Ranachow"	"ul. 1 Maja"	106
+"EdKr13808"	"Edyta"	"Kraspin"	724	"724-131-96-52"	"mazowieckie"	"56-200"	"Marki"	"Os. Polisiowka"	130
+"EdKr19609"	"Edgar"	"Krosko"	983	"983-428-37-70"	"mazowieckie"	"47-150"	"Lublin"	"ul. Akademicka"	56
+"EfHe4532"	"Efrem"	"Herens"	301	"301-785-84-62"	"mazowieckie"	"72-342"	"lodz"	"Al. Jaworowa"	15
+"EfPa11004"	"Efrem"	"Parodowska"	595	"595-441-32-88"	"slaskie"	"81-392"	"Przemysl"	"Al. Waszyngtona Jerzego"	42
+"EgCh4304"	"Egbert"	"Chewialkowska"	291	"291-235-36-34"	"mazowieckie"	"57-208"	"Smotryszow"	"ul. 11 Listopada"	116
+"EgSm14063"	"Egon"	"Smoszny"	734	"734-778-16-29"	"slaskie"	"16-140"	"Grodzisk Mazowiecki"	"ul. Akacjowa"	37
+"Egsw11139"	"Egbert"	"swiatonski"	601	"601-897-34-74"	"podlaskie"	"59-300"	"Krakow"	"ul. 5 Marca"	66
+"ElAl12248"	"Eligiusz"	"Altsziller"	651	"651-215-58-90"	"mazowieckie"	"59-335"	"Lubartow"	"ul. Alberta"	105
+"ElCe2534"	"Eligiusz"	"Cendzwill"	211	"211-988-14-29"	"lubelskie"	"42-400"	"Zabrze"	"Al. Wolnosci"	85
+"ElCi15409"	"Eleonora"	"Ciuda"	793	"793-535-52-95"	"podlaskie"	"96-323"	"Ciechanow"	"ul. 28 Czerwca 1956 R."	94
+"ElDr9061"	"Elwira"	"Drewnisz"	506	"506-715-44-45"	"kujawsko-pomorskie"	"71-111"	"Szczecin"	"Pl. Szkolny"	60
+"ElFo14591"	"Elzbieta"	"Foetke"	757	"757-773-77-35"	"mazowieckie"	"84-210"	"Bielsko-Biala"	"Os. Kluka"	119
+"ElKa17244"	"Eligiusz"	"Kapowicz"	874	"874-741-71-58"	"pomorskie"	"63-740"	"Karkoszki"	"Os. Jagiellonskie"	17
+"ElMu2958"	"Elizeusz"	"Muszalik vel Muszalska"	231	"231-625-95-410"	"podlaskie"	"30-864"	"sciborzyce"	"ul. 3 Maja"	139
+"ElOl12758"	"Elzbieta"	"Olejarczuk"	673	"673-766-18-49"	"lodzkie"	"46-220"	"Czestochowa"	"Os. 1000-Lecia"	62
+"ElOr7301"	"Eliza"	"Orlicek"	425	"425-353-82-23"	"zachodniopomorskie"	"62-005"	"Suwalki"	"Targ. Miejskie Flora"	154
+"ElRu5986"	"Eliga"	"Rumminger"	365	"365-884-84-34"	"opolskie"	"13-100"	"Jastrzebie"	"Pl. Wolnosci"	36
+"ElSz9108"	"Eleonora"	"Szimski"	507	"507-883-39-80"	"mazowieckie"	"80-077"	"Krakow"	"Al. Gryfa"	15
+"ElTe15232"	"Eliza"	"Telbanowicz"	786	"786-162-24-80"	"swietokrzyskie"	"91-843"	"Mezenin"	"Al. 3 Maja"	87
+"EmBa11844"	"Emiliana"	"Basowski"	632	"632-641-43-16"	"slaskie"	"47-370"	"Czerwionka-Leszczyny"	"Os. Konstytucji 3 Maja"	101
+"EmBe17341"	"Emerencja"	"Bezenfeld"	878	"878-751-99-85"	"slaskie"	"78-300"	"Kielce"	"Pl. 1 Maja"	125
+"EmBi17424"	"Emilian"	"Bineda"	882	"882-945-46-94"	"malopolskie"	"82-522"	"Sicko"	"ul. Asnyka Adama"	54
+"EmDe6614"	"Emil"	"Derbawczuk"	394	"394-689-37-310"	"lubuskie"	"44-200"	"Grzybowo"	"ul. Archeologow"	74
+"EmKu7078"	"Emiliana"	"Kucinski"	415	"415-379-67-47"	"swietokrzyskie"	"87-301"	"Tarnowskie Gory"	"ul. Andersa Wladyslawa (Generala Wladyslawa Andersa)"	120
+"EmKu7633"	"Emma"	"Kurelek"	442	"442-291-38-83"	"lubelskie"	"57-100"	"Paprotno"	"ul. 1 Maja"	124
+"EmLo5281"	"Emanuel"	"Lorencvogel"	336	"336-245-82-15"	"kujawsko-pomorskie"	"62-810"	"Bielsko-Biala"	"Al. I Armii Wojska Polskiego"	143
+"EmSa8982"	"Emanuel"	"Sabba"	504	"504-168-13-30"	"slaskie"	"02-830"	"Gorki-Izabelin"	"Os. Mozarta Wolfganga Amadeusza"	149
+"EmTe13331"	"Emiliana"	"Tebedzka"	701	"701-538-41-63"	"mazowieckie"	"24-130"	"Skala"	"Os. Kosmonautow"	107
+"Emzu10361"	"Emilia"	"zura"	565	"565-692-72-60"	"swietokrzyskie"	"67-222"	"Rzeszow"	"Os. Czatkowice"	66
+"EnPr153"	"Enoch"	"Predotka"	107	"107-261-84-31"	"pomorskie"	"41-215"	"Piatkowa"	"Pl. Walowy"	35
+"EnSa580"	"Enema"	"Salenek"	125	"125-778-46-73"	"dolnoslaskie"	"05-071"	"Warszawa"	"Al. Wlokniarzy"	153
+"EpAu16180"	"Epifaniusz"	"Aunynia"	827	"827-164-66-69"	"zachodniopomorskie"	"72-210"	"Sokolka"	"Pl. Jana Pawla II"	15
+"EpDa9202"	"Epifan"	"Dapczenski"	513	"513-453-33-78"	"podkarpackie"	"67-400"	"Drzycim"	"ul. 1 Maja"	136
+"EpGo10518"	"Epifaniusz"	"Goslicki"	573	"573-333-27-52"	"mazowieckie"	"26-612"	"Drzewianowo"	"Al. Goplany"	154
+"EpIc15319"	"Epifani"	"Iczalow"	789	"789-253-81-68"	"pomorskie"	"15-509"	"Maslonskie"	"Al. Legionow"	126
+"EpLi14820"	"Epifaniusz"	"Liesius"	767	"767-736-29-18"	"kujawsko-pomorskie"	"78-540"	"Kulesze-Chobotki"	"ul. Akacjowa"	102
+"ErDu8333"	"Erhard"	"Duru"	474	"474-569-81-16"	"lubelskie"	"18-400"	"Poznan"	"ul. Ametystowa"	150
+"ErJe13688"	"Erast"	"Jewdokin"	717	"717-963-68-74"	"wielkopolskie"	"11-600"	"Piensk"	"Pl. Rycerski"	43
+"ErKo6181"	"Erazma"	"Kolpacki"	374	"374-912-63-79"	"pomorskie"	"91-490"	"Brzeziczki"	"ul. 22 Lipca"	53
+"ErNo2819"	"Erast"	"Noremberg"	225	"225-198-63-18"	"slaskie"	"42-200"	"Rybarzowice"	"ul. 22 Stycznia"	29
+"ErSc19590"	"Erast"	"Sczesniok"	982	"982-745-72-32"	"malopolskie"	"80-340"	"Sochaczew"	"Al. Zaglebia Dabrowskiego"	134
+"ErSk19087"	"Ernestyna"	"Skabel"	958	"958-621-76-57"	"zachodniopomorskie"	"91-161"	"Opole"	"Al. Jerozolimskie"	1
+"ErSz6316"	"Eryk"	"Szanoar"	381	"381-431-52-83"	"podlaskie"	"12-200"	"lodz"	"ul. Akacjowa"	78
+"EuCe10499"	"Euzebia"	"Cewa"	572	"572-659-32-10"	"slaskie"	"41-949"	"Szumowo"	"ul. Barcicka"	89
+"EuDr17443"	"Eulalia"	"Dryzba"	883	"883-893-91-35"	"podlaskie"	"05-804"	"Katowice"	"ul. Bardowskiego Piotra"	57
+"EuGe12984"	"Eutropiusz"	"Gezikiewicz"	684	"684-316-34-17"	"mazowieckie"	"02-486"	"lodz"	"ul. Arnsztajnowej Franciszki"	91
+"EuGe15279"	"Euzebia"	"Geus"	787	"787-895-36-52"	"slaskie"	"33-140"	"Wielogora"	"Os. Podzamcze Sek. B"	23
+"EuKa7265"	"Euzebia"	"Karbowniczak"	423	"423-936-98-53"	"malopolskie"	"37-455"	"Ledziny"	"ul. Akacjowa"	12
+"EuKe10506"	"Euchariusz"	"Kedzira"	572	"572-842-57-93"	"slaskie"	"30-065"	"Krynica-Zdroj"	"Al. Solidarnosci"	130
+"EuMi11898"	"Eustachiusz"	"Mitruszanek"	635	"635-234-11-63"	"lubelskie"	"21-560"	"Bobino-Grzybki"	"Al. Armii Ludowej"	152
+"EuSo2709"	"Eulogiusz"	"Sotwin"	219	"219-196-11-53"	"lubelskie"	"28-130"	"Krakow"	"Pl. 3 Marca"	39
+"EuSp8197"	"Eufrozyna"	"Speister"	467	"467-344-96-70"	"mazowieckie"	"89-340"	"Poblocie Male"	"Al. Solidarnosci"	29
+"EuSz2270"	"Euzebia"	"Szile"	199	"199-689-85-52"	"lodzkie"	"81-308"	"Warszawa"	"Al. Jana Pawla II"	59
+"EuTa1374"	"Eudoksjusz"	"Tamiala"	162	"162-388-37-85"	"lubelskie"	"66-500"	"Legnica"	"Pl. Tumski"	7
+"EuTr11631"	"Eufemia"	"Trzykawski"	622	"622-817-25-410"	"mazowieckie"	"62-874"	"Mak"	"ul. Asnyka Adama"	150
+"EuTy2428"	"Eudoksjusz"	"Tymulka"	206	"206-942-49-82"	"warminsko-mazurskie"	"73-102"	"Trzebinia"	"Pl. Zdanowskiego Stanislawa"	53
+"EwBi9379"	"Ewelin"	"Bialy"	522	"522-126-85-77"	"slaskie"	"05-080"	"Ledziny"	"ul. Aleja Roz"	151
+"EwFa16403"	"Ewa"	"Faca"	836	"836-913-77-84"	"opolskie"	"97-318"	"Doluje"	"ul. 1 Dywizji"	35
+"EwGa15156"	"Ewelin"	"Garbarczuk"	782	"782-889-41-81"	"pomorskie"	"98-275"	"Rzeszow"	"ul. Asza Szaloma"	64
+"EwGo15050"	"Ewdokia"	"Gotner"	777	"777-772-16-810"	"slaskie"	"26-230"	"Milejczyce"	"Al. Jana Pawla II"	82
+"EwKa453"	"Ewa"	"Kadzirek"	119	"119-933-32-95"	"lodzkie"	"03-977"	"Poznan"	"ul. Armii Ludowej"	136
+"EwKo11406"	"Ewdokia"	"Kojadynski"	613	"613-138-54-75"	"mazowieckie"	"40-738"	"Hermanowa"	"Al. Lesna"	47
+"EwMa9036"	"Eweryst"	"Martyniok"	505	"505-942-19-43"	"slaskie"	"78-105"	"Kedzierzyn-Kozle"	"Os. Jagiellonskie"	51
+"EwMa9687"	"Ewelina"	"Marakiewicz"	534	"534-862-58-82"	"mazowieckie"	"63-700"	"Mieczniki"	"ul. Agawy"	146
+"EwSk8067"	"Ewdokia"	"Skomurski"	461	"461-537-54-26"	"opolskie"	"16-061"	"Boguszow-Gorce"	"ul. Bartnicza"	83
+"EwZo18853"	"Ewelina"	"Zolenski"	948	"948-352-66-60"	"swietokrzyskie"	"21-426"	"Zawiercie"	"Al. Kobylinskiego Floriana"	82
+"FaBu16006"	"Fabia"	"Bukas"	819	"819-595-19-96"	"zachodniopomorskie"	"62-410"	"Wroclaw"	"Al. Jana Pawla II"	13
+"FaEr5772"	"Faust"	"Erliczek"	356	"356-642-58-90"	"podkarpackie"	"98-290"	"Brwinow"	"ul. Babiego Lata"	11
+"FaGi15016"	"Faust"	"Gierle"	776	"776-334-29-34"	"wielkopolskie"	"63-800"	"Krakow"	"Pl. Chopina Fryderyka"	88
+"FaKo15533"	"Fabia"	"Kowatko"	798	"798-751-84-70"	"slaskie"	"86-005"	"Lublin"	"Pl. Wolnosci"	126
+"FaWd13663"	"Faustyn"	"Wdycz"	717	"717-286-35-41"	"kujawsko-pomorskie"	"03-189"	"Tarnowskie Gory"	"Pl. Jana Pawla II"	145
+"FeDy11905"	"Felicja"	"Dymarczuk"	635	"635-448-86-910"	"lodzkie"	"38-232"	"Kedzierzyn-Kozle"	"Pl. Lotnikow"	142
+"FePo2431"	"Feliksa"	"Poniz"	207	"207-137-31-81"	"malopolskie"	"26-300"	"Ostrow"	"ul. 4 Dywizji Wojska Polskiego"	148
+"FeSa11517"	"Felicysym"	"Sasanowicz"	617	"617-297-73-410"	"mazowieckie"	"10-227"	"sniczany"	"ul. 3 Maja"	61
+"FeZa982"	"Felicja"	"Zajfret"	145	"145-193-81-34"	"pomorskie"	"46-034"	"Glowaczow"	"Pl. Dabrowskiego Henryka (Generala Henryka Dabrowskiego)"	121
+"FiBo11229"	"Fidelis"	"Borczyca"	605	"605-145-37-43"	"mazowieckie"	"80-863"	"Wrzosowka"	"ul. 11 Listopada"	148
+"FiDz6431"	"Filipina"	"Dziorda"	385	"385-891-97-13"	"lubelskie"	"60-685"	"Siemiatycze"	"Pl. Rembowskiego Aleksandra"	134
+"FiFr11294"	"Filomena"	"Frojniak"	607	"607-578-75-99"	"wielkopolskie"	"01-687"	"Gdynia"	"Os. Pod Lipami"	146
+"FiHo8230"	"Filomena"	"Horacz"	468	"468-955-96-74"	"mazowieckie"	"23-100"	"Olkusz"	"Os. Sady"	28
+"FiKa6645"	"Filomena"	"Kassynowicz"	396	"396-136-33-37"	"mazowieckie"	"32-410"	"Warszawa"	"Al. Wyzwolenia"	154
+"FiLi18560"	"Filomena"	"Lietzak"	935	"935-451-84-43"	"mazowieckie"	"43-600"	"Tarlow"	"ul. Astrow"	6
+"FiPy10297"	"Filomena"	"Pyplawiec"	563	"563-411-37-51"	"malopolskie"	"85-790"	"Gliwice"	"Pl. Grunwaldzki"	58
+"FiRu7037"	"Filipina"	"Ruszkawski"	413	"413-783-48-26"	"mazowieckie"	"03-343"	"Majdan Krolewski"	"Pl. Dunikowskiego"	127
+"FiSl4956"	"Filomena"	"Sluzak"	321	"321-545-65-34"	"swietokrzyskie"	"61-455"	"Bydgoszcz"	"Al. Grzecznarowskiego Jozefa"	67
+"FiZa7972"	"Filomena"	"Zastrozny"	456	"456-725-71-71"	"opolskie"	"16-310"	"Smolarnia"	"Stacja Metra Plac Wilsona"	92
+"Fizo17273"	"Filipina"	"zozinska"	875	"875-972-55-310"	"zachodniopomorskie"	"39-442"	"Poznan"	"ul. Augustianska"	88
+"FlAn8123"	"Florenty"	"Andruchewicz"	463	"463-966-97-97"	"slaskie"	"39-200"	"Szczecin"	"ul. Baltycka"	96
+"FlCh2574"	"Flawia"	"Chuldziak"	213	"213-954-46-98"	"mazowieckie"	"78-104"	"Maszewko"	"Al. Waltera-Janke Zygmunta (Generala Zygmunta Waltera-Janke)"	122
+"FlCz16460"	"Florian"	"Czwatszka"	839	"839-341-23-81"	"mazowieckie"	"52-207"	"Tychy"	"Al. Mickiewicza Adama"	28
+"FlDo11389"	"Florencjusz"	"Dotterweich"	612	"612-544-41-21"	"malopolskie"	"70-763"	"Krakow"	"Os. Jagiellonskie"	32
+"FlGa13756"	"Flawia"	"Garncarek"	721	"721-742-53-62"	"mazowieckie"	"62-006"	"Krasne"	"ul. Alfreda Nobla"	51
+"FlGn12379"	"Florentyn"	"Gnonska"	656	"656-526-57-30"	"mazowieckie"	"06-521"	"Warszawa"	"ul. Antyczna"	67
+"FlLa5765"	"Flawiusz"	"Laleko"	356	"356-395-94-38"	"slaskie"	"18-507"	"swieciechowa"	"ul. Asnyka Adama"	82
+"FlMa13136"	"Flawiusz"	"Maindok"	692	"692-191-99-56"	"mazowieckie"	"85-434"	"Sieniawa"	"ul. Artylerzystow"	102
+"FlMa13185"	"Florentyn"	"Manowicz"	694	"694-332-45-70"	"dolnoslaskie"	"47-225"	"Bachow"	"Pl. Neptuna"	147
+"FlPr8293"	"Flawia"	"Przedzakowski"	472	"472-563-52-88"	"mazowieckie"	"46-200"	"Kolobrzeg"	"Al. Sienkiewicza Henryka"	20
+"FlRy2585"	"Flawia"	"Ryduchowski"	214	"214-358-68-17"	"lodzkie"	"41-806"	"Peczek"	"ul. 1 Maja"	59
+"FlSm19613"	"Flawian"	"Smogonowicz"	983	"983-472-85-51"	"podkarpackie"	"00-671"	"Kolobrzeg"	"ul. Andersa Wladyslawa (Generala Wladyslawa Andersa)"	37
+"FlSt19953"	"Floryn"	"Stepniewicz vel Izak"	997	"997-786-13-25"	"warminsko-mazurskie"	"41-936"	"Stawiszyn"	"ul. 1 Maja"	67
+"FlSu13048"	"Floryn"	"Sulzenko"	686	"686-725-69-66"	"wielkopolskie"	"76-153"	"Szowsko"	"Pl. Panny Marii"	118
+"FlSz15604"	"Flawian"	"Sztenbart"	802	"802-388-73-18"	"lubelskie"	"66-100"	"Marianow"	"ul. Baczynskiego Krzysztofa Kamila"	15
+"FoDo17451"	"Fortunata"	"Dolbow"	884	"884-234-62-46"	"slaskie"	"42-284"	"Warszawa"	"Os. Gwarkow"	26
+"FoWa4136"	"Fortunat"	"Wajur"	283	"283-769-73-36"	"dolnoslaskie"	"01-354"	"Sosnica"	"Os. Rzeczypospolitej"	53
+"FrAg19563"	"Franciszek"	"Agonek"	981	"981-485-78-11"	"slaskie"	"42-216"	"Bydgoszcz"	"Rondo De Gaullea Charlesa (Generala Charlesa De Gaullea)"	68
+"FrDz16751"	"Fryderyka"	"Dzionniak"	853	"853-292-92-84"	"slaskie"	"05-800"	"Psary"	"Rynek lazarski"	139
+"FrPr16075"	"Franciszek"	"Prudcow"	822	"822-827-64-17"	"swietokrzyskie"	"17-300"	"Wygoda"	"Ogrod Dendrologiczny Kownasa Stefana (Dendrologiczny Profesora Stefana Kownasa)"	148
+"FrSl8000"	"Fryderyka"	"Slalski"	457	"457-895-51-11"	"podlaskie"	"87-300"	"Witkowo Drugie"	"Bulw. Beniowskiego Maurycego"	96
+"GaAm11795"	"Gaudencja"	"Ambramowicz"	629	"629-474-34-70"	"podkarpackie"	"62-420"	"Kepa Chwalowska"	"ul. 11 Listopada"	93
+"GaBl14466"	"Gallina"	"Blazejszczyk"	753	"753-191-13-24"	"wielkopolskie"	"11-410"	"Krakow"	"ul. Agrestowa"	153
+"GaBu921"	"Galla"	"Budolek"	143	"143-276-58-91"	"lubelskie"	"68-200"	"Osiek"	"ul. 11 Listopada"	123
+"GaDe9520"	"Gardenia"	"Derdej"	527	"527-569-44-94"	"zachodniopomorskie"	"76-032"	"Warszawa"	"ul. Baborowska"	58
+"GaDz17366"	"Gajusz"	"Dzinisz"	879	"879-736-61-70"	"zachodniopomorskie"	"80-298"	"Wojcieszyce"	"Al. Pilsudskiego Jozefa (Marszalka Jozefa Pilsudskiego)"	82
+"GaFl10083"	"Gabor"	"Flent"	552	"552-957-67-56"	"slaskie"	"03-683"	"Slucz"	"Pl. Kosciuszki Tadeusza"	136
+"GaFr16894"	"Gall"	"Franszczuk"	859	"859-197-43-95"	"warminsko-mazurskie"	"03-167"	"Poznan"	"Al. Wiazowa"	83
+"GaGo12801"	"Galla"	"Goscieniec"	675	"675-742-14-410"	"slaskie"	"70-204"	"Kozniewo-lysaki"	"ul. 3 Maja"	53
+"GaKo4826"	"Gallina"	"Kosowicki"	314	"314-871-76-96"	"mazowieckie"	"60-175"	"Wola"	"Pl. Wielkiego Kazimierza"	16
+"GaKr18330"	"Gardenia"	"Kranioch"	925	"925-837-35-74"	"warminsko-mazurskie"	"16-100"	"Szczytno"	"Pl. Kolbego Maksymiliana Marii (swietego Maksymiliana Marii Kolbego)"	29
+"GaLo1510"	"Gawryla"	"Loteczka"	167	"167-745-67-28"	"opolskie"	"98-331"	"Olsztyn"	"Os. Centrum E"	145
+"GaPr7256"	"Galla"	"Przygudzki"	423	"423-711-31-44"	"podkarpackie"	"80-361"	"Warszawa"	"ul. Andersena Hansa Christiana"	73
+"GaSe6116"	"Gallina"	"Selmoser"	372	"372-457-12-55"	"swietokrzyskie"	"14-330"	"Czechy"	"Al. Politechniki"	137
+"Gasl8439"	"Gardenia"	"slepacka"	478	"478-536-62-60"	"kujawsko-pomorskie"	"05-650"	"Krakow"	"Al. I Armii Wojska Polskiego"	7
+"GaWa6241"	"Gallina"	"Wasinta"	377	"377-485-28-32"	"mazowieckie"	"62-308"	"Kluczbork"	"ul. Banacha Stefana"	57
+"GeBe16866"	"Georgia"	"Berus"	857	"857-951-75-82"	"zachodniopomorskie"	"04-211"	"Trzebinia"	"Pl. Dominikanski"	139
+"GeCh552"	"Germanik"	"Chabiniok"	125	"125-175-55-12"	"mazowieckie"	"66-500"	"lodz"	"Skw. Pana Tadeusza"	56
+"GeDa15292"	"German"	"Daiksler"	788	"788-352-82-45"	"lubelskie"	"73-222"	"Rybnik"	"Os. Piastowskie"	16
+"GeGo10970"	"Gertruda"	"Gonsala"	593	"593-996-94-69"	"opolskie"	"21-421"	"lodz"	"Al. Niepodleglosci"	131
+"GeKa11184"	"Gerard"	"Kasorzak"	603	"603-153-47-40"	"lubelskie"	"98-410"	"Budzynek"	"Rynek Rynek"	80
+"GeKo13210"	"Gedeon"	"Korajda"	695	"695-273-91-90"	"slaskie"	"18-500"	"Warszawa"	"Pl. Bohaterow Getta"	17
+"GeKu15551"	"Gedeon"	"Kudrewicz"	799	"799-315-79-53"	"pomorskie"	"31-628"	"Stary Dzierzkowek"	"Al. Niepodleglosci"	19
+"GeLe5592"	"Gebhard"	"Legien"	349	"349-537-87-39"	"lodzkie"	"32-600"	"Dabrowa Gornicza"	"ul. Axentowicza Teodora"	46
+"GeLi13029"	"Georgia"	"Lipieniecki"	685	"685-975-95-52"	"slaskie"	"89-240"	"Mikolajewice"	"Pl. Konstytucji"	73
+"GeLi1710"	"Geraldyna"	"Lisniew"	176	"176-758-65-90"	"zachodniopomorskie"	"27-641"	"Kurzacze"	"Os. Matejki Jana"	60
+"GeMa19363"	"Gerwazy"	"Marcelina"	972	"972-613-49-58"	"wielkopolskie"	"05-070"	"Gleboczek"	"Al. Witosa Wincentego"	81
+"GeSa9786"	"Germanik"	"Sagurna"	538	"538-758-47-410"	"warminsko-mazurskie"	"58-301"	"Ostrowite"	"ul. 3 Maja"	38
+"GeSk15854"	"Gertruda"	"Skrochalczuk"	812	"812-972-46-40"	"slaskie"	"42-470"	"Grodzisk Mazowiecki"	"Pl. Pilsudskiego Jozefa"	149
+"GeSw11750"	"Gerarda"	"Swierbolewska"	627	"627-331-72-71"	"mazowieckie"	"59-970"	"Szczecin"	"ul. 3 Maja"	92
+"GeWa17289"	"Gerarda"	"Walasiewicz"	876	"876-613-69-54"	"slaskie"	"25-727"	"Karolinki"	"Al. Nowaka-Jezioranskiego Jana"	5
+"GeWe8651"	"Gerarda"	"Wenslauskas"	489	"489-161-69-10"	"podkarpackie"	"67-210"	"Nowe Marzy"	"ul. B3"	108
+"GeWi9815"	"Geraldyna"	"Witllinger"	539	"539-924-31-33"	"podlaskie"	"47-280"	"Kurpie"	"Os. Przyjazni"	8
+"GiPo13923"	"Gizela"	"Porwal"	728	"728-496-28-54"	"podkarpackie"	"07-320"	"Elblag"	"ul. 1 Maja"	89
+"GnSt5397"	"Gniewosz"	"Strezos"	341	"341-471-72-56"	"mazowieckie"	"46-300"	"Benice"	"Al. Niepodleglosci"	7
+"GoCi907"	"Gosciwit"	"Cirow"	142	"142-558-42-14"	"slaskie"	"05-307"	"swidnica"	"ul. Armii Ludowej"	103
+"GoHa6856"	"Goscislawa"	"Halapacz"	405	"405-531-87-51"	"warminsko-mazurskie"	"18-421"	"Kielce"	"ul. Akacjowa"	57
+"GoKo11703"	"Goscirad"	"Koscielniak"	625	"625-532-65-78"	"lodzkie"	"05-071"	"Nowogard"	"ul. Barkowska"	102
+"GoKu3"	"Gotfryd"	"Kupszak"	101	"101-165-49-58"	"dolnoslaskie"	"09-300"	"Liszkowo"	"Al. Glowna"	48
+"Gola1801"	"Gotard"	"lacuga"	179	"179-822-22-83"	"lodzkie"	"02-165"	"Poznan"	"Os. 2 Pulku Lotniczego"	116
+"GoMo7983"	"Goliat"	"Mogilenicki"	457	"457-172-33-43"	"warminsko-mazurskie"	"58-100"	"Bialystok"	"ul. Barlinecka"	118
+"GoTr19384"	"Godzislawa"	"Trzonkowski"	973	"973-468-36-94"	"swietokrzyskie"	"38-222"	"Rokitno Szlacheckie"	"ul. Askenazego Szymona"	99
+"GrDr11387"	"Gracja"	"Drzyzgula"	612	"612-536-71-36"	"mazowieckie"	"80-299"	"Sochaczew"	"Os. Dywizjonu 303"	18
+"GrKr11211"	"Grzegorz"	"Kralkowski"	604	"604-359-73-67"	"lubelskie"	"87-510"	"Jakubowizna"	"ul. 3 Maja"	3
+"GrLe1608"	"Gracja"	"Lel"	173	"173-285-56-93"	"mazowieckie"	"13-324"	"Murzynowo"	"Os. Wichrowe Wzgorze"	96
+"GrMi15988"	"Gracja"	"Midek"	818	"818-838-95-59"	"opolskie"	"08-307"	"Kopiec"	"Al. Armii Krajowej"	136
+"GrOs3132"	"Grzymislawa"	"Osowiecki"	237	"237-835-51-21"	"kujawsko-pomorskie"	"98-105"	"Gdynia"	"ul. Annopol"	53
+"GrPu9481"	"Gracja"	"Puksal"	525	"525-997-74-15"	"lubuskie"	"07-303"	"Kamienna Gora"	"ul. Armii Krajowej"	55
+"GrSt1449"	"Grzymislawa"	"Stryzyk"	164	"164-993-92-31"	"slaskie"	"97-524"	"Podladzin"	"Os. Na Stoku"	92
+"Grsw10896"	"Greta"	"swias"	589	"589-913-47-40"	"wielkopolskie"	"60-573"	"Maslowice"	"Pl. Konstytucji 3 Maja"	31
+"GrSz10949"	"Gracja"	"Szwertfeger"	592	"592-918-26-99"	"zachodniopomorskie"	"60-818"	"Gdansk"	"ul. Akacjowa"	26
+"GuBl12835"	"Gustawa"	"Blicka"	677	"677-385-62-98"	"mazowieckie"	"26-660"	"Rzeszow"	"Os. Centrum C"	74
+"GwBi19077"	"Gwidon"	"Bigosuwska"	958	"958-274-61-98"	"podkarpackie"	"67-210"	"Olsztyn"	"Os. Dabrowszczakow"	75
+"GwLe14244"	"Gwalbert"	"Lesmiara"	742	"742-519-45-22"	"zachodniopomorskie"	"05-071"	"Klonorejsc"	"ul. Aleksandrowicza Juliana"	15
+"HaGl18432"	"Hanna"	"Glimarz"	929	"929-986-45-96"	"wielkopolskie"	"64-734"	"Podgrzybowskie"	"Os. Sportowe"	36
+"HaKn14617"	"Halszka"	"Knauber"	758	"758-817-59-27"	"lodzkie"	"81-324"	"Mikolajki"	"ul. 10 Maja"	95
+"HaMa15143"	"Halka"	"Macijak"	782	"782-526-43-67"	"kujawsko-pomorskie"	"57-550"	"Olszyniec"	"Al. Wojska Polskiego"	37
+"HeBa7571"	"Heloiza"	"Balersztadt"	437	"437-924-17-51"	"dolnoslaskie"	"17-132"	"Kogutki"	"ul. 700 Lecia"	22
+"HeBo10258"	"Herminia"	"Bonalowska"	561	"561-874-58-41"	"slaskie"	"59-300"	"Lublin"	"ul. Asnyka Adama"	136
+"HeCh12660"	"Herkulan"	"Cholojczuk"	668	"668-811-12-14"	"pomorskie"	"08-311"	"Bydgoszcz"	"Rynek Nowego Miasta"	139
+"HeCz18117"	"Hermenegilda"	"Czeder"	915	"915-789-36-88"	"slaskie"	"06-400"	"Lubin"	"Pl. Kosciuszki Tadeusza"	67
+"HeFa1178"	"Hermes"	"Faflak"	154	"154-442-18-72"	"malopolskie"	"32-660"	"Gdynia"	"Os. Sadkow"	133
+"HeFr4801"	"Hermina"	"Freuszof"	313	"313-797-96-59"	"podkarpackie"	"72-342"	"Bielsko-Biala"	"Os. Grunwaldzkie"	4
+"HeGr10410"	"Hermenegild"	"Grycik"	567	"567-711-15-23"	"swietokrzyskie"	"16-515"	"Poznan"	"Pl. Bernardynski"	147
+"HeGu14390"	"Helmut"	"Gusztow"	749	"749-196-86-50"	"slaskie"	"45-773"	"Nowe Jaroszowice"	"ul. Agaty"	27
+"HeIw12740"	"Herman"	"Iwertowski"	673	"673-161-24-65"	"kujawsko-pomorskie"	"50-436"	"Jadwigowo"	"Pl. Axentowicza Teodora"	139
+"HeKa6717"	"Heloiza"	"Kaszlaga"	399	"399-275-47-25"	"slaskie"	"54-043"	"Kazimierzowo"	"Os. Na Stoku"	144
+"HeNe19665"	"Hermenia"	"Newill"	985	"985-754-58-910"	"podkarpackie"	"50-900"	"Sosnowiec"	"ul. Ametystowa"	101
+"HePa14485"	"Herman"	"Pawelczak"	753	"753-947-77-52"	"swietokrzyskie"	"88-320"	"Pruszkow"	"Pl. Czerwca 1976 Roku"	43
+"HePa3389"	"Hermenia"	"Pandyna"	248	"248-345-68-84"	"mazowieckie"	"12-114"	"Jaslo"	"Os. Na Wzgorzach"	29
+"HePr1912"	"Hermina"	"Przysiezny"	185	"185-476-38-39"	"mazowieckie"	"38-200"	"Lipsko"	"Os. Bohaterow II Wojny swiatowej"	34
+"HeTa10691"	"Heliodor"	"Tanan"	581	"581-791-98-41"	"lubelskie"	"60-660"	"lodz"	"ul. Bankowa"	30
+"HeTu13124"	"Herman"	"Tuslanowski"	691	"691-732-39-99"	"podkarpackie"	"05-190"	"Warszawa"	"ul. 22 Stycznia"	112
+"HeWa1339"	"Herakliusz"	"Walnowska"	161	"161-286-81-38"	"opolskie"	"62-817"	"Kepa"	"Al. Jana Pawla II"	36
+"HeWi2097"	"Heloiza"	"Wiasetek"	193	"193-173-81-22"	"slaskie"	"87-704"	"Famulki Brochowskie"	"ul. Autostrada Poznanska"	140
+"HeWo13593"	"Heliasz"	"Worenc"	713	"713-835-38-52"	"slaskie"	"05-120"	"Bolmin"	"Os. Jagiellonskie"	96
+"HeWo17263"	"Heloiza"	"Wojdesiewicz"	875	"875-629-68-86"	"zachodniopomorskie"	"40-288"	"Warszawa"	"Pl. Kosciuszki"	135
+"HeZe14333"	"Hermenegild"	"Zein"	746	"746-913-37-59"	"lodzkie"	"64-117"	"Solec"	"ul. 1 Maja"	147
+"HiBi8314"	"Hiacynta"	"Biermajer"	473	"473-534-25-18"	"mazowieckie"	"05-075"	"Czestochowa"	"ul. Apteczna"	12
+"HiCh13814"	"Hieronim"	"Chutornenko"	724	"724-237-58-59"	"dolnoslaskie"	"07-323"	"Chorzow"	"ul. Akacjowa"	123
+"HiCz19521"	"Hilaria"	"Czauner"	978	"978-547-75-91"	"pomorskie"	"42-600"	"Legnica"	"Bulw. Im. Marsz. Jozefa Pilsudskiego"	80
+"HiNa8877"	"Hilary"	"Najmeg"	499	"499-149-66-12"	"zachodniopomorskie"	"27-225"	"lazow"	"Park 3 Maja"	99
+"HiRo3751"	"Hiacynt"	"Rompski"	266	"266-444-99-65"	"slaskie"	"27-641"	"Dabrowa-Zablotne"	"ul. 22 Stycznia"	102
+"HoDr19724"	"Honorat"	"Draguniewicz"	987	"987-921-71-49"	"mazowieckie"	"61-335"	"Lekarcice"	"Pl. Wolnosci"	6
+"HoGe9069"	"Horacjusz"	"Geppard"	506	"506-843-37-79"	"zachodniopomorskie"	"22-554"	"Sandomierz"	"ul. Akacjowa"	54
+"HoGr16709"	"Horacjusz"	"Grzeszyk"	851	"851-835-59-58"	"slaskie"	"02-812"	"Zawadka"	"Al. Armii Ludowej"	81
+"HoKi16664"	"Honorata"	"Kibicz"	848	"848-855-32-99"	"mazowieckie"	"03-347"	"Poznan"	"ul. Astrowa"	26
+"HoKo16963"	"Hortensja"	"Kocialowski"	862	"862-978-44-70"	"pomorskie"	"71-371"	"Jaworzno"	"Pl. Solidarnosci"	135
+"Hosc18393"	"Hortensja"	"sciazka"	928	"928-561-14-28"	"lodzkie"	"26-617"	"Brzeg"	"Park im. Dabrowskiego Jaroslawa"	97
+"HuPi5844"	"Hugon"	"Pieszkin"	359	"359-488-74-70"	"slaskie"	"08-130"	"lodz"	"Os. Rusa"	46
+"HuPl8614"	"Hugon"	"Plotniok"	487	"487-192-63-17"	"malopolskie"	"28-130"	"Zawiercie"	"ul. Alabastrowa"	145
+"Husl13911"	"Hugon"	"sliskowski vel sliski"	728	"728-167-99-74"	"opolskie"	"20-091"	"Wola Popowa"	"ul. Architektow"	10
+"HuWi12944"	"Humbert"	"Wieszorek"	682	"682-513-78-69"	"mazowieckie"	"26-601"	"Waliszewo"	"ul. Balladyny"	5
+"HuWo8086"	"Huberta"	"Wolas"	462	"462-329-92-510"	"slaskie"	"00-237"	"Gdansk"	"Al. Jana Pawla II"	129
+"IdPo8053"	"Idalia"	"Podbalicka"	459	"459-792-43-610"	"lodzkie"	"11-410"	"Pila"	"Al. Wojska Polskiego"	130
+"IdSz14509"	"Ida"	"Szarzewicz"	754	"754-695-14-59"	"slaskie"	"32-210"	"Podkrolowek"	"Pl. Nankiera Biskupa"	102
+"IfSy14395"	"Ifigenia"	"Sykutowski"	749	"749-481-21-18"	"kujawsko-pomorskie"	"43-318"	"Szczecin"	"ul. 1 Maja"	129
+"IfSz17624"	"Ifigenia"	"Szobor"	892	"892-497-73-26"	"podkarpackie"	"95-070"	"Krakow"	"Droga Kreta"	61
+"IgBi12728"	"Igor"	"Bilenc"	672	"672-681-61-59"	"mazowieckie"	"85-544"	"Brodniczka"	"ul. Archeologow"	43
+"IgMa4474"	"Ignacja"	"Martyniw"	297	"297-812-15-61"	"podkarpackie"	"20-358"	"Nowa Bordzilowka"	"Rynek Rynek"	154
+"IlBi15071"	"Ilia"	"Bielakow"	778	"778-528-62-49"	"wielkopolskie"	"46-200"	"Malewo"	"Droga Mazowiecka"	150
+"IlKo1116"	"Ilia"	"Kochmaniewicz"	151	"151-758-23-35"	"mazowieckie"	"32-086"	"Czaplinek"	"ul. Arkonska"	136
+"IlKu1274"	"Ilza"	"Kurszek"	157	"157-999-75-55"	"dolnoslaskie"	"00-649"	"Brzezna"	"Al. Sikornik"	103
+"IlPr5670"	"Ildefons"	"Pryjomko"	352	"352-594-23-41"	"dolnoslaskie"	"33-311"	"Chruszczobrod"	"ul. Azaliowa"	28
+"IlWi13979"	"Ildefons"	"Wiewiarska"	731	"731-669-24-45"	"podlaskie"	"32-700"	"Brynica"	"ul. Antyczna"	44
+"InCz7184"	"Ingrida"	"Czarnakowicz"	419	"419-572-89-54"	"slaskie"	"15-460"	"Wroclaw"	"ul. Asnyka Adama"	47
+"InGi18566"	"Ingrida"	"Gielczuk"	935	"935-712-74-30"	"slaskie"	"89-200"	"Gdynia"	"ul. Amatorska"	99
+"InKu15388"	"Ingeborga"	"Kusimo"	792	"792-656-94-67"	"wielkopolskie"	"71-219"	"Krakow"	"Al. Brzozowa"	115
+"InMu4810"	"Ingrida"	"Muszocki"	314	"314-282-48-24"	"malopolskie"	"61-031"	"lodz"	"Pl. Drzewny"	1
+"InNo11916"	"Ingeborga"	"Noman"	636	"636-135-23-21"	"slaskie"	"62-303"	"Stasin"	"ul. Babinicza"	112
+"InRa7635"	"Ingrid"	"Raulewicz"	442	"442-486-59-70"	"podkarpackie"	"42-454"	"Olsztyn"	"Pl. Mistrzow"	43
+"InRo16359"	"Ingrid"	"Roziel"	835	"835-258-75-60"	"malopolskie"	"06-126"	"Rzeszow"	"Pl. Konstytucji 3 Maja"	76
+"InSo8749"	"Ingrid"	"Sopaczynska"	494	"494-121-17-83"	"lodzkie"	"88-100"	"Jelenia Gora"	"ul. Barkowska"	132
+"IrDr2094"	"Irina"	"Dresluk"	193	"193-114-92-71"	"zachodniopomorskie"	"08-307"	"Budy Przytockie"	"ul. Adamskiego Stanislawa (Ksiedza Biskupa Stanislawa Adamskiego)"	149
+"IrHa8257"	"Irma"	"Haska"	469	"469-954-56-210"	"pomorskie"	"84-217"	"Bialystok"	"Os. Szkolne"	134
+"IrKa12092"	"Irena"	"Kaluszek"	644	"644-172-77-92"	"dolnoslaskie"	"23-460"	"Krzyzowki"	"ul. Akacjowa"	55
+"IrKo11599"	"Irma"	"Kowsadowicz"	621	"621-769-57-99"	"pomorskie"	"43-344"	"Warszawa"	"ul. Akacjowa"	98
+"IrLi18083"	"Irma"	"Linnas"	914	"914-286-65-30"	"zachodniopomorskie"	"39-200"	"Plewno"	"ul. 11 Listopada"	124
+"IrMa5070"	"Irina"	"Malusial"	326	"326-411-26-22"	"slaskie"	"33-310"	"Blotnica Strzelecka"	"Os. Orla Bialego"	7
+"IrNi7672"	"Irena"	"Niespiol"	444	"444-139-48-81"	"zachodniopomorskie"	"05-400"	"Szczecin"	"ul. Altanowa"	37
+"IrPr1977"	"Irina"	"Prudel"	187	"187-891-37-24"	"mazowieckie"	"31-113"	"Milcz"	"Al. Debowa"	113
+"IrSz16879"	"Irina"	"Szrnecinska"	858	"858-539-87-97"	"lodzkie"	"32-087"	"Gliwice"	"ul. Balladyny"	56
+"IsMe19194"	"Isaura"	"Metych"	964	"964-828-71-38"	"lodzkie"	"32-828"	"Lublin"	"Al. Waszyngtona Jerzego"	150
+"IsPo2558"	"Ismena"	"Poburka"	213	"213-113-72-84"	"malopolskie"	"93-018"	"Galkowice-Ocin"	"ul. Aniola Franciszka"	63
+"IsSm19410"	"Ismena"	"Smiechowski"	974	"974-437-38-40"	"lubelskie"	"60-456"	"Warszawa"	"Al. Piastow"	74
+"IsTu9731"	"Ismena"	"Tuczylowska"	536	"536-514-11-41"	"wielkopolskie"	"65-142"	"Gdynia"	"ul. Alpejska"	46
+"ItGu19816"	"Ita"	"Guzak"	992	"992-928-48-61"	"lubelskie"	"11-034"	"Nowy Dwor Mazowiecki"	"ul. 11 Listopada"	134
+"ItJa10623"	"Ita"	"Jampisch"	577	"577-725-97-59"	"slaskie"	"64-910"	"Sulejowek"	"Os. Sikorskiego Wladyslawa (Generala Wladyslawa Sikorskiego)"	92
+"IwHi14312"	"Iwan"	"Hiero"	746	"746-236-78-610"	"slaskie"	"03-541"	"Krakow"	"Pl. Nowy Rynek"	131
+"IwKa5339"	"Iwetta"	"Kalszan"	338	"338-345-68-36"	"warminsko-mazurskie"	"58-303"	"Jastrzebie-Zdroj"	"ul. 3 Maja"	99
+"IwPi7955"	"Iwan"	"Pijko"	456	"456-358-88-18"	"warminsko-mazurskie"	"95-083"	"Myslowice"	"ul. Agrestowa"	89
+"IwSa3220"	"Iwa"	"Sacharek"	242	"242-233-33-28"	"dolnoslaskie"	"15-591"	"Gromadka"	"Os. Piastowskie"	16
+"IwWo3914"	"Iwo"	"Wonogrodzka"	273	"273-835-57-79"	"dolnoslaskie"	"87-700"	"Strzalkowo"	"ul. Bankowa"	138
+"IzDr3491"	"Izydor"	"Drosdz"	254	"254-845-36-68"	"podlaskie"	"58-570"	"Lublin"	"Pl. Wojska Polskiego"	137
+"IzIc678"	"Izabella"	"Iczonow"	129	"129-911-27-48"	"warminsko-mazurskie"	"06-400"	"Bielsk Podlaski"	"Os. Hutnicze"	78
+"IzMa18400"	"Izabella"	"Mateszew"	928	"928-839-89-66"	"zachodniopomorskie"	"37-400"	"Myslowice"	"Al. Armii Ludowej"	145
+"IzNi6866"	"Izydor"	"Nizniakowska"	405	"405-848-21-110"	"warminsko-mazurskie"	"01-958"	"Wroclaw"	"ul. Antoniukowska"	62
+"JaBu14527"	"Jagoda"	"Bultrawicz"	755	"755-575-28-25"	"mazowieckie"	"09-451"	"Korniaktow Poludniowy"	"Al. Warszawska"	52
+"JaCz5063"	"Jaromir"	"Czapakowska"	326	"326-185-25-910"	"podkarpackie"	"73-110"	"Myslowice"	"ul. Barokowa"	95
+"JaDo5375"	"Jarogniew"	"Dogalska"	339	"339-531-44-38"	"mazowieckie"	"41-400"	"Rybnik"	"Al. Jana Pawla II"	141
+"JaEl405"	"Jakobina"	"Elza"	117	"117-999-57-68"	"lodzkie"	"47-200"	"Pluzniczka"	"ul. 8 Pulku Ulanow"	86
+"JaFi16031"	"Janina"	"Fiodo"	821	"821-515-35-69"	"slaskie"	"59-600"	"Biskupice"	"ul. 1 Maja"	72
+"JaFu13097"	"Jan Chryzostom"	"Furko"	689	"689-298-91-510"	"dolnoslaskie"	"00-785"	"Szafranki"	"Pl. Wiosny Ludow"	90
+"JaGr11876"	"Jarema"	"Graumueller"	634	"634-291-75-90"	"lodzkie"	"32-300"	"Smoligow"	"Droga Mazurska"	140
+"JaHe4290"	"Jakobina"	"Heberlein"	289	"289-591-29-66"	"lubelskie"	"21-505"	"Narty"	"ul. Arcta Bohdana"	89
+"JaJe5020"	"Jan Chryzostom"	"Jedrysiak"	324	"324-149-27-85"	"mazowieckie"	"63-700"	"Podkampinos"	"ul. Akacjowa"	57
+"JaKi478"	"Jaclaw"	"Kieszutko"	121	"121-829-15-87"	"wielkopolskie"	"21-109"	"Jastrzebie-Zdroj"	"ul. 23 Stycznia"	9
+"JaKo2353"	"Jakobina"	"Kokiec"	204	"204-483-26-810"	"lodzkie"	"78-320"	"Chorazyce"	"Pl. Komuny Paryskiej"	122
+"JaKu11068"	"Jagoda"	"Kulukajtys"	597	"597-979-64-510"	"wielkopolskie"	"09-522"	"Wezina"	"Pl. Papieza Jana Pawla II"	82
+"JaKu16498"	"Janislaw"	"Kudelek"	842	"842-253-12-38"	"lodzkie"	"98-300"	"zakowek"	"ul. Arystofanesa"	82
+"JaLe11231"	"Jarema"	"Len"	605	"605-249-17-28"	"slaskie"	"87-222"	"Warszawa"	"Pl. swietego Floriana"	49
+"JaMi113"	"Jacek"	"Micke"	105	"105-433-13-86"	"warminsko-mazurskie"	"68-343"	"Dabie"	"Al. Solidarnosci"	138
+"JaMi14416"	"January"	"Miescier"	751	"751-357-26-10"	"pomorskie"	"32-120"	"Bielsko-Biala"	"Pl. Grunwaldzki"	25
+"JaPi19910"	"Jasmina"	"Pietrukojc"	996	"996-291-62-50"	"dolnoslaskie"	"05-520"	"Raciaz"	"ul. Barabasz"	53
+"JaPr12372"	"Jacenty"	"Prawdzic-Lewicki"	656	"656-174-94-97"	"kujawsko-pomorskie"	"61-834"	"Sieciaszka Trzecia"	"ul. Abramowicka"	6
+"JaSa9570"	"Jagna"	"Sacki"	529	"529-666-88-310"	"kujawsko-pomorskie"	"58-308"	"Lgota Murowana"	"Al. Marsz. Pilsudskiego Jozefa"	119
+"JaSk18354"	"Jagoda"	"Skoberla"	926	"926-679-66-94"	"lodzkie"	"38-100"	"Krotoszyn"	"Al. Jana Pawla II"	78
+"JaSz2577"	"Jaclaw"	"Szafranalis"	214	"214-152-42-84"	"wielkopolskie"	"58-116"	"Drygaly"	"ul. Astrow"	142
+"JaWe2483"	"Jarmila"	"Welkowska"	209	"209-168-59-20"	"kujawsko-pomorskie"	"42-221"	"Rzeszow"	"ul. Akademicka"	93
+"JeGr12781"	"Jewdocha"	"Grzywaczowski"	674	"674-681-21-99"	"lubelskie"	"33-180"	"Ostrow Wielkopolski"	"Pl. Kosciuszki Tadeusza"	67
+"JePo16734"	"Jeremiasz"	"Posanow"	852	"852-716-13-72"	"wielkopolskie"	"35-330"	"Tanina"	"Al. Nikifora Krynickiego"	38
+"JeZi7311"	"Jeroslawa"	"Ziemislawski"	425	"425-716-34-93"	"wielkopolskie"	"45-434"	"Korab"	"ul. 1 Maja"	78
+"JoDr1522"	"Jowita"	"Dratwa"	168	"168-244-66-84"	"wielkopolskie"	"53-402"	"Krakow"	"Os. Jagiellonskie"	60
+"JoHu11452"	"Jozefa"	"Huminiecki"	614	"614-675-72-33"	"pomorskie"	"41-902"	"Warszawa"	"Al. Legionow"	31
+"JoLe1245"	"Joachim"	"Ledzwin"	157	"157-137-74-60"	"wielkopolskie"	"81-520"	"Brzozowa"	"ul. Armii Krajowej"	133
+"Jolu8332"	"Jozef"	"lukacz"	474	"474-419-17-710"	"swietokrzyskie"	"48-300"	"Katowice"	"Os. Gryniow"	9
+"JoMo11568"	"Joachim"	"Mortyn"	619	"619-522-33-88"	"warminsko-mazurskie"	"37-700"	"Kuflew"	"Pl. Politechniki"	41
+"JoNo13270"	"Jonatan"	"Noganski"	697	"697-769-54-48"	"kujawsko-pomorskie"	"22-122"	"Pruszkow"	"Os. Zielone"	60
+"JoNo1508"	"Jolanda"	"Nowatzki"	167	"167-668-81-64"	"malopolskie"	"43-503"	"Krzczonow-Skalka"	"ul. Andrzeja Kmicica"	115
+"JoOr16525"	"Joachima"	"Orzakowski"	842	"842-935-56-55"	"lubelskie"	"91-402"	"Borow Polski"	"Al. Matejki Jana"	144
+"JoPr3114"	"Jowita"	"Proszowski"	237	"237-132-87-18"	"lubelskie"	"16-503"	"Zielecice"	"ul. Baltycka"	27
+"JoSc14220"	"Joachima"	"Schedler"	741	"741-443-66-54"	"dolnoslaskie"	"41-909"	"Rudka"	"Os. Wandy"	103
+"JoSz6210"	"Joachima"	"Szumiel"	376	"376-221-67-63"	"mazowieckie"	"23-235"	"Lisy"	"Os. XX-Lecia"	36
+"JoWy4033"	"Jonasz"	"Wyrzkiewicz"	278	"278-473-21-41"	"lodzkie"	"52-414"	"Piaski"	"Pl. Wilsona"	108
+"JoZi6567"	"Jozefa"	"Zimnik"	392	"392-575-76-96"	"podlaskie"	"98-300"	"Ornontowice"	"Os. Dywizjonu 303"	84
+"JuOp17234"	"Justyn"	"Opyrchlo"	874	"874-195-36-19"	"dolnoslaskie"	"35-211"	"Przemysl"	"Al. Jerozolimskie"	131
+"JuRo4480"	"Julietta"	"Rodakowski"	297	"297-976-66-76"	"mazowieckie"	"20-452"	"Rzeszow"	"ul. Ananasowa"	82
+"JuSa9335"	"Jurand"	"Sastawna"	519	"519-144-69-110"	"mazowieckie"	"42-216"	"Glogow"	"ul. 6 Sierpnia"	14
+"KaBe16332"	"Karena"	"Berezecki"	834	"834-423-14-55"	"wielkopolskie"	"93-115"	"Trzebania"	"Pl. Pilsudskiego Jozefa"	42
+"KaBo3535"	"Karola"	"Bohszczak"	256	"256-871-74-84"	"zachodniopomorskie"	"70-200"	"Kluczbork"	"ul. 11 Listopada"	67
+"KaBr11129"	"Kacper"	"Brokman"	601	"601-651-47-91"	"slaskie"	"91-049"	"Nosalewo"	"Al. Pilsudskiego Jozefa"	89
+"KaCh2056"	"Karol"	"Chlebanowski"	191	"191-833-86-93"	"mazowieckie"	"62-640"	"Krakow"	"ul. Antoniukowska"	87
+"KaDa2318"	"Kalistrat"	"Darnas"	202	"202-794-86-63"	"mazowieckie"	"56-209"	"Olsztyn"	"Os. Na Wzgorzach"	81
+"KaGa14580"	"Kajetan"	"Gawlia"	757	"757-283-22-77"	"lodzkie"	"14-330"	"Bydgoszcz"	"Rynek Rynek"	92
+"KaGl5667"	"Kajetan"	"Glencner"	352	"352-468-23-69"	"podlaskie"	"87-890"	"Nowogardek"	"Al. Kosciuszki Tadeusza"	15
+"KaGr1486"	"Karolina"	"Greborkiewicz"	166	"166-658-48-71"	"slaskie"	"14-405"	"Legnica"	"Al. Wyscigowa"	148
+"KaGr2247"	"Karena"	"Grut"	198	"198-899-94-97"	"slaskie"	"30-698"	"Trojanow"	"Al. Solidarnosci"	135
+"KaHa15995"	"Kanut"	"Hasenpusch"	818	"818-958-28-810"	"lubelskie"	"16-200"	"Wiesiolka"	"ul. Andrzeja"	86
+"KaKl13999"	"Kacper"	"Klemiato"	732	"732-514-66-30"	"mazowieckie"	"37-700"	"Szczecin"	"Al. Pilsudskiego Jozefa (Marszalka Jozefa Pilsudskiego)"	35
+"KaKo1512"	"Kastor"	"Kobala"	167	"167-819-21-77"	"dolnoslaskie"	"83-110"	"Nysa"	"ul. 11 Listopada"	47
+"KaKo19207"	"Karol"	"Kospecki"	965	"965-338-85-54"	"wielkopolskie"	"97-510"	"Myslowice"	"ul. 11 Listopada"	56
+"KaKo5437"	"Kasjan"	"Kolka"	343	"343-446-18-60"	"wielkopolskie"	"14-200"	"Dobrowoda"	"Al. Marszalka Ferdinanda Focha"	123
+"KaKo8968"	"Kajus"	"Kozdeba"	503	"503-552-22-59"	"mazowieckie"	"87-700"	"Sochaczew"	"ul. 28 Czerwca 1956 R."	73
+"Kala2092"	"Karolina"	"landach"	192	"192-925-93-42"	"podkarpackie"	"86-005"	"Rybnik"	"Al. Grunwaldzka"	92
+"KaLa7832"	"Katarzyna"	"Laniew"	451	"451-638-79-95"	"malopolskie"	"24-120"	"Warszawa"	"Al. Roz"	113
+"KaMa7845"	"Katarzyna"	"Matyrko"	452	"452-328-31-94"	"podkarpackie"	"63-140"	"Wroclaw"	"Pl. Teatralny"	124
+"KaNa8465"	"Kajus"	"Namiesnik"	479	"479-788-79-49"	"mazowieckie"	"37-626"	"Katowice"	"ul. Arsenalska"	52
+"KaRo10652"	"Kasjana"	"Rogenbuch"	578	"578-912-18-710"	"podkarpackie"	"23-304"	"Brzostek"	"ul. Andersena Christiana"	7
+"KaSk13785"	"Kasper"	"Skolicki"	722	"722-851-13-26"	"lodzkie"	"09-400"	"Glusk"	"ul. 3 Maja"	116
+"KaSz19370"	"Kallina"	"Szmiel"	972	"972-939-15-32"	"mazowieckie"	"72-130"	"Usarzow"	"Pl. Partyzantow"	82
+"KaWy13198"	"Katarzyna"	"Wycior"	694	"694-656-35-91"	"opolskie"	"20-459"	"Grudziadz"	"Stacja Kolejowa"	23
+"KaZe5285"	"Karola"	"Zebialowicz"	336	"336-419-57-25"	"lodzkie"	"30-739"	"Wazne Mlyny"	"ul. Arciszewskich"	146
+"KeFr671"	"Kesja"	"Friedza"	129	"129-526-36-11"	"slaskie"	"66-443"	"Ilawa"	"Al. Piastow"	68
+"KiEn12157"	"Kilian"	"Engelhorn"	646	"646-675-62-64"	"lubelskie"	"16-503"	"Borek Stary"	"ul. Akacjowa"	94
+"KiFa3510"	"Kir"	"Fanara"	255	"255-762-79-61"	"zachodniopomorskie"	"01-153"	"Ostroleka"	"Al. Jerozolimskie"	22
+"KiKl16032"	"Kiryl"	"Kleszczka"	821	"821-524-15-46"	"zachodniopomorskie"	"09-401"	"Witkowice"	"Os. Akademickie"	31
+"KiKu17378"	"Kira"	"Kurjat"	881	"881-229-88-64"	"mazowieckie"	"20-045"	"Mlogoszyn"	"Al. Konstytucji 3 Maja"	53
+"KiLe10519"	"Kira"	"Lelewski"	573	"573-342-81-56"	"mazowieckie"	"86-060"	"Kolobrzeg"	"ul. Afganska"	59
+"KlBu2885"	"Klaudian"	"Burdzin"	227	"227-586-11-510"	"wielkopolskie"	"37-455"	"Gdynia"	"Al. Powstancow Wielkopolskich"	115
+"KlDe12738"	"Klementyna"	"Deranek"	673	"673-142-63-89"	"zachodniopomorskie"	"62-817"	"Pulkowice"	"Planty Jana Kazimierza"	5
+"KlDz19640"	"Klaudia"	"Dziurdzikowski"	984	"984-672-92-95"	"swietokrzyskie"	"63-600"	"Przyborowo"	"Pl. Zwyciestwa"	31
+"KlHe7045"	"Klement"	"Hersztowski"	413	"413-952-47-39"	"lubelskie"	"26-001"	"Maruszyna"	"ul. Astrow"	134
+"KlJa4539"	"Klaudiusz"	"Jarmoszewski"	301	"301-951-76-24"	"mazowieckie"	"97-225"	"Dabrowa Gornicza"	"ul. Akacjowa"	51
+"KlKo10606"	"Klara"	"Kolmykow"	576	"576-957-14-94"	"kujawsko-pomorskie"	"51-637"	"Romanowo"	"Al. Jana Pawla II"	63
+"KlKo17634"	"Klaudyna"	"Kozieko"	892	"892-853-29-11"	"mazowieckie"	"73-130"	"Radom"	"ul. Altanowa"	101
+"KlLa650"	"Klaudyna"	"Landmann"	128	"128-574-44-15"	"mazowieckie"	"17-123"	"Goszowice"	"ul. 6 Sierpnia"	130
+"KlLi12146"	"Kleopatra"	"Lichoszerst"	646	"646-185-34-65"	"lubelskie"	"89-400"	"Lisewo Koscielne"	"ul. Admiralska"	135
+"KlRi11825"	"Kleopatra"	"Rindejko"	631	"631-797-44-64"	"wielkopolskie"	"26-200"	"Krzesinowek"	"ul. Akwenowa"	78
+"Klsl2160"	"Klementyna"	"sledziejowski"	195	"195-523-54-38"	"wielkopolskie"	"46-100"	"Warszawa"	"Al. Niepodleglosci"	131
+"KlSo12862"	"Klemencja"	"Soleniuk"	678	"678-679-45-99"	"dolnoslaskie"	"78-650"	"Warszawa"	"Pl. Zamkowy"	73
+"Klze12526"	"Klementyna"	"zeleznicki"	663	"663-761-12-66"	"slaskie"	"42-248"	"Opoczno"	"Pl. Dworcowy"	106
+"KoBo15488"	"Konstans"	"Bonjor"	796	"796-926-74-31"	"wielkopolskie"	"21-211"	"Wylazlowo"	"Os. Armii Krajowej"	56
+"KoDr6992"	"Konradyna"	"Droza"	412	"412-155-65-95"	"mazowieckie"	"24-105"	"Konstancin-Jeziorna"	"Pl. Wolnosci"	54
+"KoEj11"	"Koleta"	"Ejber"	101	"101-396-17-13"	"kujawsko-pomorskie"	"05-119"	"Wroclaw"	"Rynek Rynek"	21
+"KoFa9033"	"Kornel"	"Faulhamer"	505	"505-794-73-39"	"lubuskie"	"08-110"	"Warszawa"	"Pl. Wagnera"	60
+"KoFi1031"	"Korneli"	"Ficzyk"	147	"147-159-98-67"	"swietokrzyskie"	"64-729"	"Sadkow Szlachecki"	"Al. Pokoju"	87
+"KoFr11351"	"Koleta"	"Fronczuk"	611	"611-139-49-410"	"slaskie"	"98-300"	"Kopanina"	"ul. 3 Warszawskiego Pulku Pontonowego"	60
+"KoHa9730"	"Korneliusz"	"Hauszmer"	536	"536-495-43-85"	"slaskie"	"19-300"	"Chorzepowo"	"ul. 3 Maja"	80
+"KoHo679"	"Konstantyn"	"Holowka"	129	"129-933-47-56"	"malopolskie"	"38-400"	"labunie"	"Pl. Przymierza"	125
+"KoJe3107"	"Kolombina"	"Jeliaszkiewicz"	236	"236-892-19-61"	"mazowieckie"	"60-449"	"Polomia"	"Park zolnierzy zywiciela"	136
+"KoKa16220"	"Koleta"	"Katlowska"	828	"828-546-49-26"	"swietokrzyskie"	"31-103"	"Nowa Wies"	"Os. Zlotego Wieku"	56
+"KoKa544"	"Konstanty"	"Kasmyk"	124	"124-747-81-82"	"lodzkie"	"20-122"	"Plawno"	"Al. Kosciuszki Tadeusza"	56
+"KoKi19185"	"Konrad"	"Kiryluk"	964	"964-293-92-81"	"lodzkie"	"80-367"	"Paczkowo"	"Rynek Rynek"	40
+"KoLu15183"	"Kolombina"	"Luczek"	783	"783-943-13-55"	"slaskie"	"10-562"	"Warszawa"	"ul. Akacjowa"	9
+"KoNa7975"	"Konstancja"	"Nakonczyk"	456	"456-863-29-32"	"slaskie"	"22-130"	"Zimnik"	"Os. Bielskie"	104
+"KoRi6298"	"Konrad"	"Ritt"	379	"379-829-15-23"	"warminsko-mazurskie"	"99-100"	"Pruszkow"	"Al. Spacerowa"	99
+"KoRy2690"	"Kordula"	"Ryniejski"	218	"218-276-71-73"	"warminsko-mazurskie"	"32-340"	"Przemysl"	"ul. Badestinusa Jerzego (Ksiedza Jerzego Badestinusa)"	19
+"KoSe19134"	"Konrad"	"Selmerowska"	961	"961-932-66-92"	"opolskie"	"66-440"	"Miechow"	"Al. Wyzwolenia"	24
+"KoSt7910"	"Konradyna"	"Straha"	454	"454-596-18-410"	"warminsko-mazurskie"	"87-602"	"Chrapowo"	"ul. Aliancka"	81
+"KoSz11978"	"Kordula"	"Szarmanski"	638	"638-549-64-65"	"podlaskie"	"61-478"	"Skladziste"	"Rynek Rynek"	121
+"KoWa15927"	"Konstancja"	"Wanasz"	816	"816-679-95-34"	"opolskie"	"51-616"	"Zemborzyce Dolne"	"ul. Andersa Wladyslawa (Generala Wladyslawa Andersa)"	143
+"KoWi13539"	"Kolombina"	"Wiehrowska"	711	"711-412-49-85"	"warminsko-mazurskie"	"97-350"	"Katowice"	"Al. Armii Ludowej"	35
+"KrBe14059"	"Krystian"	"Berganski"	734	"734-717-94-76"	"slaskie"	"73-115"	"Wolka leczeszycka"	"Al. 3 Maja"	23
+"KrBi2481"	"Krystyna"	"Biszczan"	208	"208-969-61-310"	"wielkopolskie"	"19-213"	"Radom"	"Pl. Armii Krajowej"	25
+"KrBl19304"	"Krzesislawa"	"Blizniakowska"	968	"968-967-35-91"	"mazowieckie"	"11-220"	"Krakow"	"ul. Bacha Jana Sebastiana"	11
+"KrFi12771"	"Kryspina"	"Fiszgala"	674	"674-396-94-77"	"mazowieckie"	"43-190"	"Dabrowa Gornicza"	"Al. Kosciuszki Tadeusza"	65
+"KrFr246"	"Krzesislaw"	"Francica"	111	"111-796-71-110"	"zachodniopomorskie"	"62-541"	"Buczkow"	"ul. Armii Krajowej"	122
+"KrGa3368"	"Krystyna"	"Gatter"	247	"247-287-81-94"	"warminsko-mazurskie"	"43-370"	"Szczecin"	"Pl. Lecha"	103
+"KrGl10757"	"Krystyn"	"Glanec"	584	"584-464-85-73"	"slaskie"	"30-376"	"Przemysl"	"ul. 11 Listopada"	32
+"KrHe8387"	"Krystyna"	"Herosimczuk"	476	"476-557-33-98"	"warminsko-mazurskie"	"85-791"	"Laskowszczyzna"	"ul. Astronomiczna"	114
+"KrKr11160"	"Kryspin"	"Krzepilko"	602	"602-484-87-85"	"slaskie"	"44-203"	"Warszawa"	"ul. Barcicka"	136
+"KrKr1478"	"Kryspina"	"Krela"	166	"166-284-35-48"	"pomorskie"	"04-343"	"Hipolitow"	"Rynek Rynek"	112
+"KrNi2061"	"Krzysztofa"	"Niarychla"	191	"191-994-99-70"	"zachodniopomorskie"	"60-129"	"Wloclawek"	"ul. Alojzjanow"	126
+"KrOb2460"	"Krystian"	"Obadowski"	208	"208-179-91-25"	"dolnoslaskie"	"56-100"	"Bialystok"	"Droga Kujawska"	73
+"KrPa15108"	"Krzysztofa"	"Patkaniowski"	781	"781-118-33-34"	"dolnoslaskie"	"96-500"	"Tanowo"	"ul. Barlickiego"	70
+"KrRo7283"	"Krystiana"	"Rossman"	424	"424-555-24-73"	"slaskie"	"59-220"	"Juszczyna"	"Al. Pokoju"	70
+"KrWa1682"	"Krzesislawa"	"Walecikiewicz"	175	"175-852-18-90"	"lubelskie"	"00-419"	"Niezychowko"	"Szosa Bydgoska"	26
+"KsBu17719"	"Ksenofont"	"Butzlaw"	896	"896-248-33-36"	"slaskie"	"33-380"	"Warszawa"	"Pl. Zamkowy"	64
+"KsCh13208"	"Ksawery"	"Charab"	694	"694-957-54-71"	"podlaskie"	"26-617"	"Krotoszyn"	"ul. Baltycka"	1
+"KsDo15001"	"Ksenofont"	"Doniziak"	775	"775-731-81-15"	"mazowieckie"	"87-810"	"Gdynia"	"Droga Pomorska"	90
+"KsGi13302"	"Ksawery"	"Gierzban"	699	"699-214-69-35"	"swietokrzyskie"	"59-200"	"Ruda slaska"	"Pl. Wolnosci"	60
+"KsKo5459"	"Ksymena"	"Koluczek"	343	"343-995-58-39"	"slaskie"	"44-105"	"Zielona Gora"	"Pl. Brama Portowa"	42
+"KsOb12418"	"Ksenia"	"Oberbek"	657	"657-753-13-67"	"pomorskie"	"70-646"	"Domaradz"	"ul. Arciszewskiego Krzysztofa"	100
+"KuGa5387"	"Kurt"	"Gausel"	339	"339-963-46-48"	"mazowieckie"	"31-420"	"Warszawa"	"Pl. Grunwaldzki"	34
+"KuSt3118"	"Kunegunda"	"Stundzik"	237	"237-277-44-72"	"mazowieckie"	"39-225"	"Rzeszow"	"Pl. Brama Portowa"	14
+"KwBr19898"	"Kwiryn"	"Breditzka"	995	"995-797-38-16"	"swietokrzyskie"	"43-602"	"Czerwionka-Leszczyny"	"Stacja Metra Marymont"	24
+"KwGo14248"	"Kwiryna"	"Golmento"	742	"742-777-56-48"	"lodzkie"	"80-392"	"Chalupki"	"Al. Kochanowskiego Jana"	74
+"Kwla1009"	"Kwiryn"	"lapczanski"	146	"146-217-69-75"	"lodzkie"	"41-810"	"Poznan"	"Pl. Zbawiciela"	43
+"KwPa5394"	"Kwiryna"	"Papiorak"	341	"341-385-91-110"	"wielkopolskie"	"62-610"	"Korytowo"	"Pl. Zamkowy"	17
+"LaBa12616"	"Laurentyna"	"Balawendor"	667	"667-323-44-88"	"podkarpackie"	"87-620"	"Rogienice Wielkie"	"Al. Jana Pawla II"	39
+"LaDo17101"	"Laurentyna"	"Dolgorucka"	868	"868-719-39-98"	"slaskie"	"85-790"	"Bykowo"	"ul. Antyczna"	125
+"LaFe10608"	"Lambert"	"Felich"	577	"577-232-75-48"	"lodzkie"	"21-560"	"Koziminy-Stachowo"	"Al. Legionow"	28
+"LaKa8924"	"Laura"	"Karius"	501	"501-752-32-54"	"warminsko-mazurskie"	"32-060"	"Repki"	"Al. Powstancow Wielkopolskich"	94
+"LaKl11142"	"Laza"	"Klosok"	601	"601-939-59-810"	"malopolskie"	"19-404"	"Dabrowka"	"ul. A2"	134
+"LaKo2233"	"Lambert"	"Kocanda"	198	"198-555-35-45"	"slaskie"	"30-499"	"Budzyn"	"Pl. Jana"	32
+"laMe4356"	"lazarz"	"Mergiel"	293	"293-133-74-64"	"lodzkie"	"85-792"	"Kopaliny"	"Os. Zgody"	63
+"laSa6551"	"lazarz"	"Saudzinska"	391	"391-873-49-64"	"lubelskie"	"06-450"	"Choiny"	"Skw. Kotowicza Jana Stefana (Pulkownika Jana Stefana Kotowicza)"	68
+"laSe14327"	"lazarz"	"Seftel"	746	"746-747-17-71"	"wielkopolskie"	"30-694"	"Milosna"	"Al. Prymasa Tysiaclecia"	152
+"laSi17112"	"ladyslaw"	"Siemienianko"	868	"868-971-91-20"	"wielkopolskie"	"97-319"	"Gozdowiec"	"Al. Wielkopolska"	4
+"laUs3919"	"lazarz"	"Uscislowicz"	274	"274-136-65-710"	"swietokrzyskie"	"20-801"	"Czarnkow"	"ul. 1 Maja"	56
+"LaWa13971"	"Laurentyna"	"Wakl"	731	"731-287-11-68"	"lodzkie"	"43-262"	"Poznan"	"ul. Baczynskiego Krzysztofa Kamila"	126
+"LeAn2482"	"Lew"	"Andrak"	209	"209-155-66-25"	"wielkopolskie"	"35-010"	"lapy"	"Rynek Rynek"	89
+"LeBa5939"	"Lechoslaw"	"Bacum"	363	"363-794-85-38"	"swietokrzyskie"	"37-740"	"Buk"	"Al. Niepodleglosci"	143
+"LeBe9031"	"Leander"	"Bezglembuk"	505	"505-765-78-25"	"podkarpackie"	"91-074"	"Poznan"	"ul. 3 Maja"	12
+"LeBr15374"	"Lena"	"Bronkiewicz"	792	"792-146-89-25"	"dolnoslaskie"	"46-200"	"Borkowice"	"Os. Kolorowe"	30
+"LeBz15436"	"Lea"	"Bzdulski"	794	"794-816-64-110"	"kujawsko-pomorskie"	"49-340"	"Olkusz"	"Os. Ligasy"	148
+"LeCh11168"	"Lechoslawa"	"Cheleniak"	602	"602-597-82-60"	"mazowieckie"	"88-230"	"Prezyna"	"Pl. Mazurski"	2
+"LeDr18756"	"Leoncjusz"	"Drozdur"	944	"944-713-74-90"	"wielkopolskie"	"75-801"	"Owczary"	"Skw. 3 Batalionu Pancernego AK Golski"	91
+"LeDz8654"	"Leopold"	"Dzwiniel"	489	"489-365-82-52"	"warminsko-mazurskie"	"27-600"	"Koszoly"	"ul. Axentowicza Teodora"	76
+"LeFa10650"	"Lea"	"Fausek"	578	"578-828-54-27"	"wielkopolskie"	"22-304"	"Bydgoszcz"	"Pl. Koczego Leona"	98
+"LeFe6058"	"Leonid"	"Ferberg"	369	"369-194-12-66"	"dolnoslaskie"	"82-100"	"Zwonowice"	"ul. Albatrosa"	72
+"LeGi7383"	"Leopard"	"Gilnicz"	428	"428-942-49-410"	"dolnoslaskie"	"23-145"	"Ciborz"	"ul. 3 Maja"	89
+"LeGr8446"	"Leopard"	"Gramen"	478	"478-761-49-11"	"mazowieckie"	"97-438"	"Gdansk"	"ul. Abramowicza Adama (Ksiedza Adama Abramowicza)"	71
+"LeIn610"	"Leonarda"	"Indiasz"	126	"126-851-11-57"	"opolskie"	"31-126"	"Warszawa"	"Pl. Evry"	145
+"LeJe5769"	"Leonid"	"Jenrolik"	356	"356-551-45-97"	"mazowieckie"	"97-570"	"Krakow"	"ul. Barbary"	65
+"LeKu11307"	"Leontyna"	"Kurcianowska"	608	"608-343-39-85"	"slaskie"	"08-410"	"Zamoscie-Kolonia"	"ul. Alpejska"	81
+"LeLe4998"	"Leodegar"	"Lechuniak"	323	"323-194-38-90"	"lodzkie"	"26-080"	"Walentowo"	"Pl. Dabrowskiego Jana Henryka (Generala Jana Henryka Dabrowskiego)"	76
+"LeLi2531"	"Leon"	"Linstaedt"	211	"211-977-12-38"	"mazowieckie"	"41-902"	"Tarnowskie Gory"	"Al. Jana Pawla II"	73
+"LeMa1560"	"Lew"	"Maciwoda"	169	"169-883-55-72"	"zachodniopomorskie"	"22-235"	"Stanislawowo"	"Al. 1 Maja"	79
+"LeMi18100"	"Leontyna"	"Miekowicz"	915	"915-111-87-810"	"zachodniopomorskie"	"71-177"	"Laseczno"	"Pl. Sloneczny"	79
+"LeMu3544"	"Leopard"	"Musur"	257	"257-235-66-50"	"lodzkie"	"06-406"	"Mala"	"ul. Barbary"	25
+"LeNa3990"	"Leszek"	"Naciuk"	276	"276-445-42-36"	"podkarpackie"	"01-432"	"Gieduty"	"Pl. Targ Sienny"	25
+"LeOg14870"	"Leopolda"	"Ogorczak"	769	"769-646-65-73"	"pomorskie"	"05-071"	"sliwnica"	"ul. 15 Lutego"	104
+"LePi10214"	"Leoncjusz"	"Piglak"	559	"559-463-14-15"	"kujawsko-pomorskie"	"99-200"	"Bialystok"	"ul. A6"	133
+"LePi1092"	"Lea"	"Piepier"	149	"149-846-97-63"	"dolnoslaskie"	"38-213"	"Pradzew"	"ul. Augusta Stanislawa"	83
+"LePl8921"	"Leopold"	"Pliwecka"	501	"501-586-87-610"	"malopolskie"	"87-806"	"Mikolow"	"ul. Armii Krajowej"	34
+"LePr10848"	"Lew"	"Praworski"	587	"587-889-37-36"	"warminsko-mazurskie"	"05-850"	"Konopiska"	"Os. Sikorskiego Wladyslawa (Generala Wladyslawa Sikorskiego)"	86
+"LeRa4950"	"Lenart"	"Rayss"	321	"321-354-91-910"	"mazowieckie"	"87-851"	"Opole"	"Pl. Walecznych"	148
+"LeSz18231"	"Lewin"	"Szurgalewicz"	921	"921-749-94-56"	"podlaskie"	"10-280"	"Szustek"	"Pl. Witosa Wincentego"	113
+"LeSz793"	"Leopoldyna"	"Sztalmierski"	135	"135-685-54-65"	"swietokrzyskie"	"27-530"	"Lublin"	"ul. Bacha"	83
+"LeTa3104"	"Leonarda"	"Tadaszczak"	236	"236-873-33-66"	"wielkopolskie"	"30-611"	"Lublin"	"Pl. Kilinskiego Jana"	66
+"LeWa710"	"Leonard"	"Walkuszewski"	131	"131-963-35-75"	"lodzkie"	"15-190"	"Poznan"	"Os. Zwyciestwa"	46
+"LeWe10335"	"Lewin"	"Wesper"	564	"564-775-65-28"	"lubelskie"	"64-920"	"Ciechanow"	"Al. Wyzwolenia"	69
+"lezy5175"	"lekomir"	"zymielo"	331	"331-549-86-67"	"malopolskie"	"41-813"	"lodz"	"Pl. Pokoju"	79
+"Lezy8709"	"Leopoldyna"	"zychora"	492	"492-417-68-54"	"wielkopolskie"	"87-820"	"Wilczewo"	"Grobla Sienna"	142
+"LiBa5958"	"Libert"	"Bajorynski"	364	"364-988-13-89"	"warminsko-mazurskie"	"42-208"	"Piatnica Wloscianska"	"Al. Pilsudskiego Jozefa"	144
+"LiBe19945"	"Ligia"	"Beyza"	997	"997-432-25-33"	"mazowieckie"	"27-532"	"Warszawa"	"Os. Przyjazni"	134
+"LiFr5452"	"Liza"	"Friedriszyk"	343	"343-752-96-53"	"dolnoslaskie"	"44-335"	"lodz"	"ul. Armii Krajowej"	38
+"LiGe16426"	"Liwiusz"	"Gengiel"	837	"837-863-54-67"	"slaskie"	"75-007"	"Plosnia"	"Al. Niepodleglosci"	94
+"LiKl14477"	"Liberat"	"Klejpa"	753	"753-542-66-14"	"podlaskie"	"83-251"	"Wroclaw"	"ul. Adwokacka"	76
+"LiKr13039"	"Liza"	"Krasnik-Gorzelska"	686	"686-334-27-81"	"dolnoslaskie"	"98-200"	"Owiesno"	"ul. Armii Krajowej"	151
+"LiKr1897"	"Ligia"	"Krukwa"	184	"184-811-78-10"	"kujawsko-pomorskie"	"44-310"	"Bukowina Bobrzanska"	"Droga Olchowa"	118
+"LiLi9847"	"Liboriusz"	"Litsch"	542	"542-267-15-58"	"pomorskie"	"38-700"	"Borysik"	"Al. Na Skarpie"	153
+"Lilo10160"	"Lilianna"	"loclega"	557	"557-211-56-17"	"opolskie"	"17-312"	"Krzymowskie"	"ul. Altanowa"	1
+"LiMo3068"	"Liwiusz"	"Mogacka"	235	"235-636-65-910"	"mazowieckie"	"21-007"	"Wolka Wolyniecka"	"Os. Bohaterow II Wojny swiatowej"	121
+"LiOl11601"	"Lilian"	"Oldek"	621	"621-833-86-610"	"wielkopolskie"	"35-509"	"Tulowice"	"ul. Aragonska"	134
+"LiPa5757"	"Liliana"	"Pazdzierniok"	356	"356-182-76-78"	"dolnoslaskie"	"37-433"	"Gdansk"	"ul. Barona Jana"	111
+"LiSw10286"	"Lilianna"	"Swaton"	562	"562-926-35-83"	"lubelskie"	"93-370"	"Bukowiec"	"Os. Belk"	142
+"LoBo10450"	"Longinus"	"Bozarnik"	569	"569-631-57-84"	"podkarpackie"	"83-330"	"Pechratka Mala"	"ul. Akacjowa"	110
+"LoBr11675"	"Longin"	"Brycko"	624	"624-669-29-70"	"slaskie"	"62-200"	"Gliwice"	"Al. Marcinkowskiego Jerzego"	126
+"LoPr8945"	"Longina"	"Prylinski"	502	"502-444-16-23"	"lubelskie"	"38-406"	"Jaworzno"	"ul. Albanska"	149
+"LoVi5778"	"Loda"	"Vinohradnik"	356	"356-765-12-81"	"podlaskie"	"31-998"	"Ruda slaska"	"Rynek Rynek"	145
+"LoWa9521"	"Loda"	"Wasarzewska"	527	"527-582-13-310"	"wielkopolskie"	"93-249"	"Zawiercie"	"Al. Pilsudskiego Jozefa (Marszalka Jozefa Pilsudskiego)"	133
+"LuAn12298"	"Lubor"	"Antonkowicz"	653	"653-211-79-87"	"swietokrzyskie"	"22-413"	"Mielno"	"ul. Apteczna"	17
+"LuAr11789"	"Lucylla"	"Arendz"	629	"629-181-78-68"	"slaskie"	"63-760"	"leki Strzyzowskie"	"ul. Bankowa"	33
+"LuAr19542"	"Ludmila"	"Aras"	979	"979-585-97-85"	"wielkopolskie"	"62-420"	"Kurnatowice"	"ul. Bankowcow"	87
+"luBa16164"	"lucjan"	"Bachleda zarski"	826	"826-437-85-84"	"dolnoslaskie"	"83-250"	"Olesin"	"ul. Banachiewicza Tadeusza"	36
+"LuBu4015"	"Lucjol"	"Burdzak"	277	"277-511-38-52"	"slaskie"	"14-420"	"Gdynia"	"ul. Architektow"	80
+"LuCz733"	"Lucja"	"Czylwa"	132	"132-653-61-310"	"slaskie"	"41-214"	"Wielowies"	"ul. 9 Maja"	69
+"LuDr4951"	"Lutomir"	"Drogis"	321	"321-364-39-24"	"warminsko-mazurskie"	"26-332"	"Lublin"	"Pl. Mlynarskiego Emila"	14
+"LuGl7407"	"Lubomierz"	"Glegol"	429	"429-933-72-71"	"slaskie"	"64-120"	"Czestochowa"	"ul. 3 Maja"	110
+"LuKa6624"	"Ludwika"	"Kapatka"	394	"394-994-26-46"	"mazowieckie"	"06-520"	"Witki"	"ul. Astrow"	122
+"LuKi4311"	"Luba"	"Kierzek"	291	"291-444-41-40"	"podlaskie"	"98-235"	"Rzeszow"	"ul. Bardzka"	10
+"LuKl6260"	"Lutogniew"	"Klejonocki"	378	"378-248-36-51"	"wielkopolskie"	"04-882"	"Borowy Mlyn"	"Pl. Drzewny"	146
+"LuKo13726"	"Lucja"	"Kozybski"	719	"719-726-53-94"	"malopolskie"	"88-100"	"Szymanki"	"ul. 700 Lecia"	11
+"LuNi15920"	"Luba"	"Nierenberg"	816	"816-293-36-54"	"slaskie"	"85-809"	"Leszczanka"	"ul. 1 Maja"	103
+"LuPa9999"	"Lubosza"	"Palgon"	548	"548-287-84-84"	"slaskie"	"78-450"	"Warszawa"	"ul. 3 Maja"	83
+"LuPo6335"	"Ludoslaw"	"Podgrodka"	382	"382-189-17-34"	"lodzkie"	"59-820"	"Dzierzazno Wielkie"	"Al. Jana Pawla II"	138
+"LuRy14284"	"Lubogost"	"Ryconiak"	744	"744-587-54-49"	"lubelskie"	"98-290"	"Straszydle"	"ul. 11 Listopada"	59
+"LuSp14211"	"Lucjusz"	"Spiegla"	739	"739-911-78-40"	"dolnoslaskie"	"44-274"	"lowiska"	"Pl. Drzymaly Michala"	63
+"LuSu18075"	"Ludoslaw"	"Suryga"	913	"913-828-99-80"	"opolskie"	"42-400"	"Gdynia"	"Pl. Pokoju"	7
+"LuSz843"	"Lutomir"	"Szymczok"	137	"137-897-86-86"	"wielkopolskie"	"37-700"	"Krakow"	"Os. Zamkowe"	116
+"lut-30"	"Lubomila"	"Tyrkiew"	399	"399-495-59-56"	"dolnoslaskie"	"64-050"	"Ostroleka"	"ul. Bandtkiego Jerzego Samuela"	54
+"LuWi2027"	"Lutomysl"	"Wierychlo"	189	"189-777-52-72"	"swietokrzyskie"	"19-200"	"Wroclaw"	"ul. Ballestremow"	55
+"LuZe9746"	"Ludomir"	"Zemblik"	537	"537-228-78-65"	"lubelskie"	"71-377"	"Bialaczow"	"ul. Ametystowa"	11
+"MaAs19416"	"Manfreda"	"Asadzka"	974	"974-598-58-26"	"kujawsko-pomorskie"	"74-202"	"Jastrzebie-Zdroj"	"Rondo Jana Pawla II"	123
+"MaBa7973"	"Maksym"	"Bames"	456	"456-782-68-29"	"lodzkie"	"89-502"	"Krakow"	"Al. swietej Barbary"	87
+"MaBi18719"	"Maksymilian"	"Biczan"	943	"943-134-31-23"	"lodzkie"	"61-324"	"Wegleszyn-Debina"	"Os. Rusnaki"	86
+"MaBi3471"	"Makary"	"Bizynowicz"	253	"253-661-23-45"	"mazowieckie"	"07-303"	"Dabrowa Gornicza"	"ul. Andersa Wladyslawa"	41
+"MaBo297"	"Manfreda"	"Boguslawski vel Dobrosla"	114	"114-349-67-310"	"podlaskie"	"41-200"	"Rybnik"	"Al. Politechniki"	46
+"MaBu1796"	"Marcjanna"	"Burlaczenko"	179	"179-561-28-36"	"wielkopolskie"	"63-910"	"Rzuchow"	"ul. 1 Maja"	152
+"MaCh16216"	"Maura"	"Chuda"	828	"828-391-23-49"	"pomorskie"	"70-881"	"Olsztyn"	"Al. Jana Pawla II"	78
+"MaCh7119"	"Maslaw"	"Chwila"	416	"416-839-14-65"	"mazowieckie"	"26-004"	"Hermanowa"	"Os. Batorego Stefana"	19
+"MaCi18646"	"Marlena"	"Ciemniak"	938	"938-956-94-41"	"mazowieckie"	"00-176"	"Warszawa"	"Rynek Rynek"	74
+"MaCu1119"	"Marzanna"	"Curzydlo"	151	"151-933-83-26"	"slaskie"	"96-230"	"Wrzesiny"	"Al. Na Skarpie"	69
+"MaDa5534"	"Malina"	"Darlej"	346	"346-727-61-97"	"dolnoslaskie"	"62-025"	"Potoczyzna"	"ul. Bachmacka"	119
+"MaDe6679"	"Manfreda"	"Dewil"	397	"397-674-59-70"	"lodzkie"	"06-460"	"Stary Sacz"	"Os. Nowe Osiedle"	36
+"MaDi12388"	"Martyn"	"Diela"	656	"656-728-46-31"	"podlaskie"	"66-010"	"Chojna"	"Os. Lecha"	34
+"MaGa13269"	"Madlena"	"Gaschk"	697	"697-643-15-49"	"zachodniopomorskie"	"43-196"	"Gdynia"	"ul. Baczynskiego Krzysztofa"	146
+"MaGi16122"	"Marta"	"Giecoszek"	824	"824-474-14-64"	"warminsko-mazurskie"	"66-633"	"Warszawa"	"ul. Baczynskiego Krzysztofa Kamila"	125
+"MaGi17245"	"Marceli"	"Giewa"	874	"874-761-88-76"	"opolskie"	"80-178"	"slaskowo"	"ul. Armii Ludowej"	86
+"MaGr7582"	"Maja"	"Gryggiel"	438	"438-489-83-18"	"slaskie"	"00-498"	"Pierzchno"	"Rondo Czyzynskie"	19
+"MaJe13070"	"Matylda"	"Jek"	687	"687-622-81-45"	"zachodniopomorskie"	"95-045"	"Duczymin"	"Pl. Wolnosci"	109
+"MaJe2069"	"Marcelina"	"Jerzynek"	192	"192-311-96-63"	"swietokrzyskie"	"43-346"	"lodz"	"ul. 1 Maja"	109
+"MaJu17420"	"Maslaw"	"Junas"	882	"882-815-54-90"	"lubelskie"	"17-315"	"Namyslow"	"Osada Rybacka"	149
+"MaJu18022"	"Magdalena"	"Juzwikiewicz"	911	"911-631-11-110"	"opolskie"	"26-806"	"Pieckowo"	"Os. Oswiecenia"	2
+"MaKa16280"	"Manfred"	"Kannewiszer"	832	"832-236-82-30"	"wielkopolskie"	"59-220"	"Lublin"	"Pl. Narutowicza Gabriela"	36
+"MaKa4236"	"Marita"	"Kamios"	287	"287-569-89-61"	"kujawsko-pomorskie"	"41-902"	"Nowa Rokitnica"	"Pl. Olimpijczyka Nowary Henryka"	87
+"MaKl14103"	"Marika"	"Klepkowski"	736	"736-183-48-65"	"lodzkie"	"02-828"	"Korlino"	"Al. Wojska Polskiego"	124
+"MaKo12112"	"Marta"	"Kobycz"	644	"644-772-17-67"	"dolnoslaskie"	"78-600"	"Krakow"	"ul. Asnyka Adama"	20
+"MaKo14464"	"Maryla"	"Kopanajko"	753	"753-166-61-32"	"slaskie"	"32-400"	"Zdzieszowice"	"ul. Adwentowicza Karola"	39
+"MaKo6250"	"Matron"	"Kokocki"	377	"377-699-12-13"	"slaskie"	"35-330"	"Mostowka"	"Os. Skalne"	86
+"MaKr16659"	"Maria"	"Kreglowska"	848	"848-813-24-54"	"kujawsko-pomorskie"	"60-688"	"Samuszyn"	"ul. 1 Maja"	155
+"MaKu19821"	"Martyna"	"Kuklik"	993	"993-288-89-65"	"wielkopolskie"	"09-400"	"swidnica"	"Al. Cieplinskiego lukasza"	61
+"MaOp6277"	"Marlena"	"Opania"	378	"378-787-77-36"	"mazowieckie"	"96-330"	"Gdansk"	"Al. Pilsudskiego Jozefa (Marszalka Jozefa Pilsudskiego)"	52
+"MaOs1226"	"Mansfet"	"Oswaldowski"	156	"156-135-84-49"	"malopolskie"	"64-130"	"Wegleniec"	"ul. Abrahama"	32
+"MaPi11278"	"Mauryn"	"Piestrycowska"	606	"606-953-45-20"	"lodzkie"	"44-102"	"Chlapowo"	"Pl. Zdanowskiego Stanislawa"	77
+"MaPr14522"	"Malwin"	"Pruschko"	755	"755-423-35-510"	"kujawsko-pomorskie"	"09-450"	"Warszawa"	"Pl. Wilsona Thomasa Woodrowa (Prezydenta Thomasa Woodrowa Wilsona)"	6
+"MaPr18860"	"Magnus"	"Praczyk"	948	"948-612-79-17"	"lodzkie"	"97-371"	"Bydgoszcz"	"ul. Aleksandrowska"	11
+"MaPr3061"	"Manswet"	"Prelowski"	235	"235-255-29-69"	"mazowieckie"	"05-120"	"Anetow"	"ul. Armii Krajowej"	72
+"MaPr6850"	"Marianna"	"Pronko"	405	"405-262-82-38"	"lodzkie"	"97-505"	"Jozefow"	"Pl. Przymierza"	125
+"MaRe11295"	"Martynian"	"Rekiel"	607	"607-658-92-32"	"warminsko-mazurskie"	"10-511"	"Wierzeja"	"Al. Niepodleglosci"	120
+"MaRy1312"	"Marcin"	"Rychterski"	159	"159-359-89-75"	"slaskie"	"74-404"	"Oswiecim"	"ul. 1 Maja"	51
+"MaSc7882"	"Maura"	"Schmelzer"	453	"453-866-73-710"	"mazowieckie"	"96-500"	"Kamieniec"	"ul. 1 Maja"	83
+"MaSo11952"	"Marcelin"	"Soltasinski"	637	"637-552-84-68"	"wielkopolskie"	"78-200"	"Gdynia"	"Al. Solidarnosci"	115
+"MaSt11980"	"Martynian"	"Stefanczuk"	638	"638-637-37-56"	"lubuskie"	"80-172"	"Krakow"	"ul. 29 Stycznia"	129
+"MaSw1716"	"Marcela"	"Swiazdek"	176	"176-937-83-21"	"slaskie"	"19-500"	"Bialystok"	"Al. Wolnosci"	35
+"MaSw18940"	"Marceli"	"Swierzowski"	952	"952-663-63-88"	"pomorskie"	"64-920"	"Gdansk"	"Al. Szajnowicza-Iwanowa Jerzego"	80
+"MaSz11249"	"Marzena"	"Szpular"	605	"605-991-48-82"	"wielkopolskie"	"06-420"	"Boryszew"	"ul. 11 Listopada"	50
+"MaSz15852"	"Magda"	"Szafranalis"	812	"812-895-59-23"	"podkarpackie"	"76-024"	"Zbaszyn"	"Pl. Jagiellonski"	110
+"MaSz2931"	"Marzena"	"Sztapkowska"	229	"229-715-44-82"	"dolnoslaskie"	"30-394"	"Dobra"	"Os. Zwyciestwa"	125
+"MaSz5365"	"Materna"	"Szwaboczynski"	339	"339-282-79-50"	"podlaskie"	"58-300"	"Warszawa"	"ul. 1 Maja"	118
+"MaSz6178"	"Marietta"	"Szaminos"	374	"374-795-24-23"	"swietokrzyskie"	"42-100"	"Cieladz"	"ul. 1000-Lecia"	1
+"MaSz7279"	"Marta"	"Szczudzik"	424	"424-487-37-61"	"kujawsko-pomorskie"	"39-231"	"lysa Gora"	"ul. Andersa Wladyslawa (Generala Wladyslawa Andersa)"	103
+"MaTa18245"	"Mamert"	"Tanenbaum"	922	"922-346-97-44"	"dolnoslaskie"	"38-103"	"Debica"	"ul. 1 Dywizji"	102
+"MaTa19823"	"Maryla"	"Taborowski"	993	"993-373-15-36"	"lubelskie"	"20-828"	"Osina"	"Os. Kosmonautow"	52
+"MaTe19143"	"Marietta"	"Teider"	962	"962-464-93-34"	"zachodniopomorskie"	"28-313"	"Rusocin"	"Pl. Zgody"	88
+"MaTu7751"	"Manuela"	"Turzanski"	447	"447-224-34-27"	"zachodniopomorskie"	"21-550"	"Gdansk"	"Al. Parkowa"	90
+"MaUz18238"	"Machabeusz"	"Uzyczyn"	922	"922-133-38-39"	"mazowieckie"	"99-200"	"lomianki"	"ul. Astronomow"	52
+"MaVo17264"	"Maksymin"	"Volkman"	875	"875-638-57-62"	"mazowieckie"	"11-410"	"Mielno"	"ul. Antoniny"	95
+"MaWa10878"	"Malgorzata"	"Wadega"	589	"589-411-89-37"	"lubuskie"	"97-505"	"Jakubka"	"ul. 3 Maja"	24
+"MaWi12603"	"Marzanna"	"Wiedermeier"	666	"666-784-14-10"	"lubelskie"	"11-100"	"Rzeszow"	"Pl. Gedymina"	88
+"MaWt44"	"Marita"	"Wturski"	102	"102-838-87-28"	"swietokrzyskie"	"36-245"	"Chrzypsko Male"	"Al. Prymasa Tysiaclecia"	86
+"MaZa8513"	"Maryna"	"Zawaliuch"	482	"482-928-56-72"	"mazowieckie"	"83-212"	"Strekowizna"	"ul. Asnyka Adama"	7
+"MaZa9182"	"Maria"	"Zajman"	512	"512-482-33-76"	"lodzkie"	"70-440"	"Ruda slaska"	"Bulw. Czerwienski"	72
+"MaZa9997"	"Martyna"	"Zamacinski"	548	"548-149-93-45"	"zachodniopomorskie"	"30-532"	"Milejowice"	"Al. Hallera Jozefa (Generala Jozefa Hallera)"	76
+"MaZj4770"	"Marta"	"Zjafka"	312	"312-748-48-67"	"lodzkie"	"64-117"	"Wroclaw"	"Os. Kalinowe"	145
+"MeMu7565"	"Mechtylda"	"Mukucka"	437	"437-643-65-510"	"podkarpackie"	"55-120"	"Gliwice"	"ul. Akacjowa"	13
+"MePi13668"	"Mecimir"	"Piszczalka"	717	"717-393-21-49"	"podlaskie"	"32-086"	"Krotoszyn"	"ul. 3 Maja"	14
+"MePo13820"	"Melania"	"Polubok"	724	"724-431-12-37"	"dolnoslaskie"	"01-587"	"Studzienice"	"ul. Angielska Grobla"	43
+"MePo4055"	"Metoda"	"Poczobut"	279	"279-241-24-80"	"lodzkie"	"15-288"	"Poznan"	"ul. Bartnicza"	59
+"MeRa13737"	"Melania"	"Raniczek"	721	"721-255-98-27"	"lubelskie"	"66-441"	"Swory"	"ul. 8 Marca"	10
+"Mesw383"	"Mechtylda"	"swiarowska"	116	"116-996-59-61"	"lubelskie"	"42-280"	"Bialystok"	"Os. Kwiatowe"	94
+"MeZo4159"	"Melania"	"Zoralska"	284	"284-549-97-60"	"opolskie"	"50-329"	"Legnica"	"Pl. zwirki i Wigury"	123
+"MiBa1683"	"Mira"	"Badolska"	175	"175-891-85-29"	"opolskie"	"30-499"	"Wronow"	"ul. Andersena Jana Christiana"	8
+"MiCy5857"	"Miriam"	"Cymbalik"	359	"359-932-14-92"	"lubuskie"	"03-977"	"Kruszynki"	"ul. Akacjowa"	147
+"MiDu16783"	"Miromir"	"Dudanowska"	854	"854-855-82-35"	"mazowieckie"	"20-097"	"Hukowicze"	"Al. Witosa Wincentego"	9
+"MiFa9479"	"Michal"	"Farbsztein"	525	"525-873-17-12"	"slaskie"	"87-101"	"lobdowo"	"Al. Niepodleglosci"	118
+"MiGa4218"	"Mirogniew"	"Garnusz"	287	"287-121-12-44"	"mazowieckie"	"99-307"	"Warszawa"	"Al. PCK"	10
+"MiGo17597"	"Mironieg"	"Godziemba-Dambski"	891	"891-461-42-43"	"kujawsko-pomorskie"	"18-423"	"Wlodzislaw"	"ul. Argentyna"	19
+"MiGo19030"	"Minodora"	"Gogalska"	956	"956-369-23-52"	"malopolskie"	"09-400"	"Radom"	"Pl. Wyszynskiego Stefana (Kardynala Stefana Wyszynskiego)"	129
+"MiGr19603"	"Milena"	"Grzesto"	983	"983-252-28-77"	"lodzkie"	"62-620"	"Krakow"	"Rynek Glowny"	26
+"MiGu14173"	"Mieszko"	"Guszek"	738	"738-677-49-49"	"wielkopolskie"	"19-420"	"Kmiczyn"	"Al. Wlokniarzy"	11
+"MiHa3476"	"Mironiega"	"Haynrych"	254	"254-232-99-73"	"mazowieckie"	"09-402"	"Poznan"	"ul. Barbary"	110
+"MiJe7676"	"Mieczyslawa"	"Jezaszek"	444	"444-239-19-10"	"lodzkie"	"20-323"	"Gdansk"	"ul. Aleja Roz"	118
+"MiKo14398"	"Miloslawa"	"Kordulecka"	749	"749-637-77-58"	"slaskie"	"41-940"	"Wozniki"	"ul. Akademicka"	64
+"MiKo669"	"Miromir"	"Konarczyk"	129	"129-442-97-36"	"slaskie"	"24-340"	"Samogoszcz"	"Pl. Przymierza"	117
+"MiKo9829"	"Milogost"	"Kokec"	541	"541-535-15-74"	"wielkopolskie"	"07-410"	"Helenow"	"Al. Na Stadion"	54
+"MiKr19963"	"Mieczyslawa"	"Kromiec"	998	"998-285-71-19"	"warminsko-mazurskie"	"06-300"	"Nysa"	"Al. Jana Pawla II"	12
+"MiMa12134"	"Miron"	"Machanik"	645	"645-729-92-64"	"lodzkie"	"70-892"	"Barwice"	"Al. Wojska Polskiego"	147
+"MiNi4239"	"Mironieg"	"Niebodajew"	287	"287-682-84-310"	"pomorskie"	"66-306"	"Nowy Dwor Mazowiecki"	"ul. Augustianska"	42
+"MiNi5855"	"Miroslawa"	"Niewierz"	359	"359-875-26-23"	"dolnoslaskie"	"08-400"	"Krakow"	"Al. Palki Grzegorza"	108
+"MiPa3313"	"Miranda"	"Pancarowicz"	245	"245-267-11-42"	"dolnoslaskie"	"99-140"	"lodz"	"ul. Antoniego Jozefa Madalinskiego"	94
+"MiPe411"	"Miligost"	"Pelo"	118	"118-297-44-28"	"mazowieckie"	"41-303"	"Warszawa"	"ul. Baczynskiego Krzysztofa Kamila"	134
+"MiSl8898"	"Mieszko"	"Slabik"	499	"499-942-54-51"	"mazowieckie"	"41-710"	"Wroblewo"	"Al. Solidarnosci"	72
+"MiTe7680"	"Mieczyslaw"	"Tezcan"	444	"444-457-15-56"	"lodzkie"	"16-402"	"Warszawa"	"Pl. Pokoju"	116
+"MiTo12284"	"Micheasz"	"Toczmanowicz"	652	"652-731-45-810"	"lodzkie"	"57-256"	"Koszalin"	"ul. Aleksandrowska"	128
+"MiWa2128"	"Mila"	"Wachwicz"	194	"194-292-64-94"	"malopolskie"	"94-202"	"Rogozki"	"Al. Wedla Emila"	119
+"MiWy16049"	"Milowit"	"Wyciszczak"	822	"822-152-26-75"	"slaskie"	"93-138"	"Debowo"	"Os. Sadkow"	149
+"MiZd504"	"Mironieg"	"Zdradzisz"	122	"122-962-88-66"	"zachodniopomorskie"	"81-116"	"Wanikajmy"	"ul. Baczynskiego Krzysztofa Kamila"	36
+"Molo10889"	"Morzyslaw"	"lodz"	589	"589-647-29-10"	"lodzkie"	"02-781"	"Rybnik"	"ul. 3 Maja"	155
+"MoRu11737"	"Modesta"	"Rumanski"	626	"626-821-93-47"	"podlaskie"	"15-156"	"Katowice"	"Os. Kosmonautow"	34
+"MoTe13555"	"Modesta"	"Tetslaff"	712	"712-163-67-75"	"slaskie"	"62-110"	"Wloclawek"	"Os. Konstytucji 3 Maja"	151
+"MsBi2700"	"Mscigniew"	"Birant"	218	"218-814-71-41"	"swietokrzyskie"	"00-116"	"Krapkowice"	"ul. Bakonczycka"	35
+"MsCy14780"	"Mscislaw"	"Cyganik"	766	"766-149-41-32"	"slaskie"	"83-220"	"Warszawa"	"ul. Augustianska"	123
+"MsHe3287"	"Mscislawa"	"Heidyczek"	244	"244-145-73-85"	"lubelskie"	"43-251"	"Czekarzewice Pierwsze"	"ul. Asfaltowa"	74
+"MsNi9653"	"Mscibor"	"Niemasik"	533	"533-547-53-40"	"warminsko-mazurskie"	"80-455"	"Bydgoszcz"	"ul. 3 Maja"	85
+"MsPo16165"	"Msciwoj"	"Popik"	826	"826-462-51-75"	"dolnoslaskie"	"42-270"	"Bydgoszcz"	"Rynek Rynek"	137
+"MsRo8896"	"Mscislaw"	"Rozlowski"	499	"499-819-56-26"	"mazowieckie"	"44-338"	"Warszawa"	"Al. Wojska Polskiego"	128
+"MsWa2685"	"Mscislawa"	"Wanad"	217	"217-942-75-85"	"podkarpackie"	"00-676"	"Gajkow"	"Rynek Rynek"	21
+"MyKa249"	"Myslibor"	"Karmel"	111	"111-913-13-95"	"opolskie"	"05-500"	"lodz"	"ul. Arabska"	97
+"NaDz17239"	"Nadzieja"	"Dzikot"	874	"874-485-18-36"	"lubelskie"	"89-310"	"Chyki-Debiaki"	"Al. Wyszynskiego Stefana (Ksiedza Kardynala Stefana Wyszynskiego)"	137
+"NaGe3769"	"Natalia"	"Ges"	267	"267-444-71-55"	"zachodniopomorskie"	"94-251"	"Warszawa"	"Pl. Targowy"	86
+"NaGo11221"	"Nadbor"	"Goede"	604	"604-749-38-54"	"dolnoslaskie"	"90-613"	"Poznan"	"Pl. Grodnicki"	26
+"NaMa1502"	"Napoleon"	"Malasek"	167	"167-522-39-83"	"mazowieckie"	"27-640"	"Facimiech"	"Al. Dabska"	100
+"NaOz7708"	"Natalis"	"Ozubowski"	445	"445-571-71-53"	"warminsko-mazurskie"	"62-400"	"zegowo"	"ul. 1 Maja"	58
+"NaPa14865"	"Namyslaw"	"Parzewicz"	769	"769-526-96-81"	"wielkopolskie"	"13-111"	"Ponetow Gorny"	"Al. Roz"	90
+"NaPa17110"	"Nadbor"	"Parcialowicz"	868	"868-955-11-310"	"mazowieckie"	"06-126"	"Zuzowy"	"Schr. Samotnia"	27
+"NaRa3890"	"Naum"	"Raclaf"	273	"273-139-11-28"	"slaskie"	"87-801"	"Dabrowa Gornicza"	"Pl. Mazurski"	105
+"NaWu1958"	"Nahum"	"Wujcicki"	187	"187-151-32-310"	"slaskie"	"65-224"	"Zaborze"	"Pl. Warynskiego Ludwika"	120
+"NeBa12174"	"Nelly"	"Baciok"	647	"647-378-13-75"	"lodzkie"	"41-300"	"Tychy"	"Pl. Targowy"	3
+"NeCi10219"	"Nemezjusz"	"Cierpiela"	559	"559-621-69-610"	"mazowieckie"	"11-420"	"Pila"	"ul. 11 Listopada"	105
+"NeSa15914"	"Nemezjusz"	"Sadurski"	815	"815-934-81-610"	"kujawsko-pomorskie"	"96-320"	"Stargard Szczecinski"	"Al. swietej Barbary"	3
+"NiCh3271"	"Ninogniew"	"Chlopik"	243	"243-699-65-47"	"mazowieckie"	"53-018"	"leczyna"	"ul. Asnyka Adama"	45
+"NiDu5068"	"Nina"	"Dudziakiewicz"	326	"326-341-88-56"	"lubelskie"	"62-872"	"Folusz"	"ul. 3 Maja"	123
+"NiFo13805"	"Niegomir"	"Folier"	723	"723-857-42-74"	"warminsko-mazurskie"	"14-202"	"Rakcice"	"Park Im. Kasprowicza Jana"	128
+"NiKi16284"	"Niemir"	"Kimula"	832	"832-371-59-17"	"wielkopolskie"	"09-140"	"Motkowice"	"Os. Na Skarpie"	69
+"NiKo16324"	"Nimfa"	"Koczot"	834	"834-256-59-99"	"mazowieckie"	"81-626"	"Dlugoleka"	"ul. Augustynika Grzegorza (Ksiedza Grzegorza Augustynika)"	30
+"NiKr1399"	"Nina"	"Kresin"	163	"163-189-65-55"	"dolnoslaskie"	"14-200"	"Bialystok"	"Al. Pilsudskiego Jozefa"	69
+"NiKu13574"	"Nikanor"	"Kukolas"	712	"712-943-34-97"	"wielkopolskie"	"01-447"	"Tychy"	"ul. Armii Ludowej"	150
+"NiLa765"	"Nikodem"	"Labzik"	134	"134-556-79-75"	"malopolskie"	"16-427"	"Pila"	"ul. 11 Listopada"	66
+"Nile8205"	"Niezamysl"	"lempiewska"	467	"467-571-94-70"	"swietokrzyskie"	"86-182"	"Siemierz"	"Al. Tysiaclecia"	49
+"NiSi2797"	"Niegoslawa"	"Silkin"	224	"224-257-68-39"	"wielkopolskie"	"07-120"	"Miedzyborz"	"Os. Armii Krajowej"	23
+"NiSm973"	"Niegomir"	"Smigalski"	144	"144-856-76-56"	"zachodniopomorskie"	"93-025"	"Krakow"	"Al. Stanow Zjednoczonych"	30
+"NiSz9526"	"Niecislaw"	"Szpankowski"	527	"527-661-93-45"	"dolnoslaskie"	"49-306"	"Glodowo"	"ul. Baczynskiego Krzysztofa Kamila"	61
+"NiWe2067"	"Nina"	"Wedolski"	192	"192-245-64-82"	"mazowieckie"	"04-206"	"Warszawa"	"ul. Akacjowa"	125
+"NoBa7819"	"Norberta"	"Baldzikowski"	451	"451-285-79-87"	"dolnoslaskie"	"02-968"	"Duninopol"	"Os. Kolorowe"	17
+"NoBi2140"	"Noemi"	"Bilinski"	194	"194-747-86-89"	"mazowieckie"	"06-420"	"Czapla"	"ul. 17 Marca"	4
+"NoLa16331"	"Nora"	"Labeda"	834	"834-413-92-29"	"slaskie"	"51-167"	"Sloboda"	"Al. Jana Pawla II"	110
+"NoMi16750"	"Nonna"	"Miloch"	853	"853-281-79-78"	"dolnoslaskie"	"78-325"	"Kamienica Polska"	"ul. 17 Stycznia"	68
+"NoPi11533"	"Nora"	"Pietysz"	618	"618-124-43-86"	"dolnoslaskie"	"38-200"	"Barycz Stara"	"Pl. Koscielny"	59
+"NoRa9567"	"Nora"	"Rawdanis"	529	"529-558-51-33"	"zachodniopomorskie"	"41-706"	"lazice"	"Pl. Pokoju"	25
+"NoRe18522"	"Norbert"	"Rechlewski"	934	"934-138-14-27"	"lubelskie"	"22-510"	"Ruda slaska"	"ul. Agrestowa"	49
+"NoWa3696"	"Norbert"	"Wancisz"	264	"264-361-98-85"	"dolnoslaskie"	"48-300"	"Wroclaw"	"Al. Jana Pawla II"	154
+"OdDa10673"	"Odil"	"Danielewski"	581	"581-322-65-49"	"wielkopolskie"	"87-811"	"Debica"	"Pl. 20 Pazdziernika"	134
+"OdNi15209"	"Oda"	"Niczyporek"	785	"785-311-53-43"	"slaskie"	"89-240"	"Bartodzieje"	"ul. Asnyka Adama"	76
+"OdPa12383"	"Odilla"	"Parnach"	656	"656-589-84-49"	"dolnoslaskie"	"30-428"	"Slupia Wielka"	"ul. 3 Maja"	145
+"OdSc18060"	"Odilla"	"Schwauna"	913	"913-259-88-26"	"warminsko-mazurskie"	"38-700"	"Gdynia"	"Os. Wladyslawa lokietka"	127
+"OdSz2237"	"Odila"	"Szmondrowski"	198	"198-695-52-40"	"pomorskie"	"59-220"	"Zabrze"	"ul. Bacewicz Grazyny"	28
+"OfDu13760"	"Ofelia"	"Dulebowski"	721	"721-931-55-83"	"kujawsko-pomorskie"	"04-878"	"Lublin"	"Al. Ujazdowskie"	38
+"OkWa1387"	"Oktawiusz"	"Wabrdalik"	162	"162-857-81-610"	"lubelskie"	"38-543"	"lodz"	"Os. Sloneczne"	20
+"OkWi14550"	"Oksana"	"Wintuszka"	756	"756-288-15-35"	"podlaskie"	"84-110"	"Rozaniec"	"ul. Banachiewicza Tadeusza (Profesora Tadeusza Banachiewicza)"	79
+"OlDa11423"	"Olimpia"	"Dauldzis"	613	"613-636-93-34"	"slaskie"	"05-660"	"Polomia"	"Al. Jachowicza Stanislawa"	15
+"OlHa7700"	"Olech"	"Habna"	445	"445-374-38-96"	"mazowieckie"	"26-110"	"Gradki"	"ul. Akacjowa"	74
+"Olla241"	"Olimpia"	"lagoszowiec"	111	"111-556-96-40"	"zachodniopomorskie"	"64-904"	"losiniec"	"ul. Agrestowa"	128
+"OlMa1764"	"Olga"	"Maron"	178	"178-473-52-45"	"wielkopolskie"	"28-136"	"luka"	"Al. Walickiego Franciszka"	56
+"OlUr11204"	"Olga"	"Urywkow"	604	"604-248-33-19"	"warminsko-mazurskie"	"35-322"	"Krynica-Zdroj"	"ul. Bachusa"	133
+"OlWa17151"	"Olech"	"Wasilkowski"	869	"869-965-12-28"	"malopolskie"	"78-200"	"Wolow"	"ul. 11 Listopada"	38
+"OlWe4435"	"Olimpia"	"Wegnerska"	296	"296-611-75-36"	"kujawsko-pomorskie"	"40-316"	"Czechowice-Dziedzice"	"Al. Korfantego Wojciecha"	81
+"OnSo17564"	"Onufry"	"Sojcher"	888	"888-687-53-29"	"lodzkie"	"16-503"	"lomza"	"Pl. Wyzwolenia"	52
+"OrSk5836"	"Orfeusz"	"Skolut"	358	"358-915-87-80"	"lodzkie"	"80-178"	"Bielsko-Biala"	"Al. Grunwaldzka"	126
+"OrZa6187"	"Orchidea"	"Zalecialo"	375	"375-278-11-19"	"lodzkie"	"31-466"	"Poznan"	"ul. 22 Lipca"	26
+"OsTr9674"	"Oswalda"	"Treger"	534	"534-443-79-65"	"pomorskie"	"51-180"	"Branica"	"Al. Jana Pawla II"	35
+"OtBo19081"	"Otniel"	"Boboski"	958	"958-483-25-39"	"pomorskie"	"11-230"	"Podkowa Lesna"	"Os. Pitki"	95
+"OtKa1054"	"Otniel"	"Karzyszko"	148	"148-311-45-31"	"podlaskie"	"32-087"	"Bernardow"	"ul. Baczynskiego"	12
+"OtKa7328"	"Otylia"	"Kawatyszyn"	426	"426-524-87-90"	"lodzkie"	"06-406"	"Starczewo"	"Al. Jerozolimskie"	95
+"OtPr5685"	"Otto"	"Przewdzienk"	353	"353-278-81-25"	"lodzkie"	"74-320"	"Warszawa"	"Al. Komandosow"	115
+"OtSk628"	"Otton"	"Skoskiewicz"	127	"127-681-35-94"	"warminsko-mazurskie"	"26-220"	"Wojny-Szuby Szlacheckie"	"Os. 1000-Lecia"	37
+"OtZa10728"	"Otton"	"Zamroziewicz"	583	"583-369-23-55"	"podlaskie"	"37-626"	"Paszowice"	"Pl. Wolnosci"	155
+"PaBa1898"	"Pakoslaw"	"Batenko"	184	"184-833-29-97"	"slaskie"	"17-132"	"Bydgoszcz"	"Pl. Zbawiciela"	131
+"PaBo16383"	"Pantaleon"	"Bogen"	836	"836-166-64-40"	"pomorskie"	"41-219"	"Kuszyna"	"ul. 28 Czerwca 1956 R."	13
+"PaCh18157"	"Pakoslaw"	"Charbros"	917	"917-497-46-91"	"dolnoslaskie"	"43-100"	"Pila"	"ul. Astrow"	2
+"PaDu1093"	"Pakoszlaw"	"Duda"	149	"149-882-11-28"	"podlaskie"	"08-112"	"Ulkowy"	"ul. 3 Maja"	152
+"PaDw10732"	"Paloma"	"Dworzanczyk"	583	"583-611-26-48"	"zachodniopomorskie"	"63-112"	"Gdynia"	"Pl. Grodnicki"	100
+"PaGo16421"	"Paloma"	"Godniek"	837	"837-582-71-43"	"slaskie"	"98-200"	"lodz"	"ul. Augustowska"	77
+"PaJa7281"	"Paloma"	"Jarazna"	424	"424-537-77-22"	"mazowieckie"	"02-271"	"losie"	"ul. 1 Maja"	83
+"PaLe7630"	"Pamela"	"Legianowska"	442	"442-242-31-410"	"lodzkie"	"96-200"	"Krobielewo"	"ul. Bardowskiego Piotra"	141
+"PaMa12201"	"Pakoslaw"	"Mamczok"	648	"648-554-71-91"	"podlaskie"	"08-124"	"Nowy Przykop"	"ul. Akademicka"	85
+"PaMi10798"	"Paloma"	"Miszkow"	586	"586-135-73-50"	"opolskie"	"59-220"	"Opole"	"Al. Grunwaldzka"	112
+"PaMy7800"	"Pawel"	"Mytyk"	449	"449-547-19-62"	"wielkopolskie"	"21-530"	"Lubin"	"Os. Bohaterow Tobruku"	143
+"PaPl11377"	"Pawel"	"Plezner"	612	"612-252-73-84"	"mazowieckie"	"31-566"	"Czerwonka"	"ul. Akacjowa"	97
+"PaPr13060"	"Paulina"	"Prudel"	687	"687-259-98-41"	"mazowieckie"	"72-200"	"Wilkopedzie"	"Pl. Przyjazni"	147
+"PaSa8395"	"Pawel"	"Samala"	476	"476-995-88-96"	"mazowieckie"	"87-133"	"Ligota Wielka"	"ul. 1 Maja"	33
+"PaSo17256"	"Pafnucy"	"Soluba"	875	"875-291-93-91"	"malopolskie"	"23-300"	"Gdynia"	"Al. Jana Pawla II"	33
+"PeBa4328"	"Pelagiusz"	"Balbirer"	291	"291-834-42-11"	"lodzkie"	"42-160"	"Zabrze"	"ul. Barlickiego Norberta"	78
+"PeBi5425"	"Pekoslaw"	"Biwan"	342	"342-721-31-810"	"swietokrzyskie"	"01-496"	"Bialystok"	"ul. 1 Maja"	26
+"PeCz16870"	"Perpetua"	"Czubkiewicz"	858	"858-283-15-12"	"podkarpackie"	"41-810"	"Wroclaw"	"ul. Armii Krajowej"	5
+"PeDr14496"	"Perpetua"	"Dragonczuk"	754	"754-318-34-45"	"lubelskie"	"43-503"	"Jastrzebia"	"ul. 9 Maja"	24
+"Pesl15625"	"Petronia"	"slanina"	802	"802-965-28-310"	"lodzkie"	"87-731"	"Stary Bukowiec"	"ul. Balonowa"	48
+"PiCh1936"	"Pius"	"Chlap"	186	"186-538-12-83"	"wielkopolskie"	"51-200"	"Smerek"	"Pl. Koscielny"	134
+"PiGl5928"	"Pia"	"Gleaser"	363	"363-368-51-910"	"mazowieckie"	"02-822"	"Poswietne"	"Pl. Sikorskiego Wladyslawa (Generala Wladyslawa Sikorskiego)"	104
+"PiSl8479"	"Pia"	"Slodowski"	481	"481-655-27-28"	"wielkopolskie"	"16-404"	"Tymianki-Szklarze"	"Al. zolnierzy I Armii Wojska Polskiego"	152
+"PlHo1220"	"Placyd"	"Horka"	155	"155-777-56-110"	"wielkopolskie"	"58-500"	"lodz"	"Al. Goplany"	155
+"PlPa7059"	"Placydia"	"Pazdzierny"	414	"414-537-43-16"	"swietokrzyskie"	"99-400"	"Piaskowo"	"Pl. zeromskiego Stefana"	142
+"PlWy10669"	"Placydia"	"Wygledala"	581	"581-194-33-76"	"lodzkie"	"39-200"	"Stony"	"Pl. Slowianski"	4
+"PoLi9362"	"Porfirion"	"Libucki"	521	"521-296-38-52"	"kujawsko-pomorskie"	"28-210"	"Walbrzych"	"ul. 23 Pazdziernika"	37
+"PoSk4216"	"Pompejusz"	"Skrzypon"	286	"286-977-16-27"	"pomorskie"	"99-140"	"Wolka Lesiewska"	"ul. A6"	153
+"PrBo19223"	"Przybygniew"	"Bonzi"	965	"965-853-56-32"	"wielkopolskie"	"93-134"	"Warszawa"	"Os. Centrum A"	153
+"PrKa5944"	"Pryska"	"Kangier"	364	"364-484-35-56"	"mazowieckie"	"62-850"	"Miedzychod"	"ul. 3 Maja"	150
+"PrKo8282"	"Przybygniew"	"Korsztajn"	472	"472-172-67-17"	"mazowieckie"	"34-113"	"Rybnik"	"Al. Glowna"	47
+"PrKu9415"	"Probus"	"Kuczdak"	523	"523-848-43-57"	"warminsko-mazurskie"	"52-214"	"Walentynow"	"Pl. Chrobrego Boleslawa"	81
+"PrLi9444"	"Prosimir"	"Litoszko"	524	"524-935-25-18"	"warminsko-mazurskie"	"21-450"	"Brzeg"	"ul. Andaluzyjska"	13
+"PrMa10535"	"Priam"	"Marczol"	573	"573-925-79-51"	"slaskie"	"58-580"	"Kielce"	"Al. Debowa"	32
+"PrMi12356"	"Prakseda"	"Mikuro"	655	"655-295-73-77"	"warminsko-mazurskie"	"18-516"	"Plock"	"Os. Sportowe"	3
+"PrMi686"	"Protazy"	"Mincger"	131	"131-252-23-58"	"mazowieckie"	"04-185"	"Zajaczki Bankowe"	"Os. Oswiecenia"	4
+"PrMi8458"	"Przemil"	"Michaniec"	479	"479-312-43-47"	"mazowieckie"	"03-157"	"Koszalin"	"Pasaz Karadzica Vuka"	94
+"PrNe1640"	"Prosimir"	"Neczera"	174	"174-543-26-12"	"warminsko-mazurskie"	"15-684"	"Krakow"	"Pl. Wyszynskiego Stefana (Kardynala Stefana Wyszynskiego)"	121
+"PrOs18407"	"Pryska"	"Oszman"	928	"928-926-34-67"	"mazowieckie"	"30-398"	"Zabrze"	"ul. Artemidy"	110
+"PrOs900"	"Przedbor"	"Osiczek"	142	"142-198-18-69"	"lodzkie"	"43-318"	"Tolow"	"Al. Grunwaldzka"	94
+"PrPo16837"	"Przybyslaw"	"Poltorzecki"	856	"856-895-63-90"	"malopolskie"	"57-541"	"Wydutki"	"Pl. Zdrojowy"	23
+"PrPy18134"	"Przybyslawa"	"Pytylak"	916	"916-645-23-95"	"warminsko-mazurskie"	"90-740"	"Przemysl"	"Rynek Rynek"	125
+"PrRi19276"	"Przybyrad"	"Rissmann"	967	"967-665-96-14"	"lubelskie"	"15-549"	"Warszawa"	"Pl. Wolnosci"	106
+"PrSl12952"	"Pryscylla"	"Slowiow"	682	"682-922-53-81"	"wielkopolskie"	"32-305"	"lodz"	"ul. 26 Marca"	132
+"PrSp18193"	"Pryscylla"	"Spawlawska"	918	"918-986-33-60"	"mazowieckie"	"59-630"	"Bydgoszcz"	"ul. Aluminiowa"	148
+"PrSt3721"	"Przybyslawa"	"Stahnke"	265	"265-265-61-76"	"podlaskie"	"51-501"	"Poznan"	"ul. Admiralska"	123
+"PrSz2680"	"Przybyslawa"	"Szendiuch"	217	"217-824-65-45"	"malopolskie"	"42-100"	"Katarzynin"	"ul. Atlantydy"	143
+"PrTa684"	"Przedbor"	"Tallat"	131	"131-223-24-42"	"lodzkie"	"26-605"	"Ostrow Mazowiecka"	"ul. Anilinowa"	21
+"PuBe12394"	"Pulcheria"	"Benkies"	656	"656-914-31-65"	"zachodniopomorskie"	"76-150"	"Bydgoszcz"	"Pl. Majdanek"	97
+"PuBo19939"	"Pudecjanna"	"Boldyga"	997	"997-164-43-68"	"pomorskie"	"15-664"	"Chwaliszew"	"Pl. Bohaterow Getta"	42
+"PuKo839"	"Pudens"	"Koldus"	137	"137-771-16-13"	"zachodniopomorskie"	"14-420"	"Mielno"	"Al. Wojska Polskiego"	95
+"PuMu7323"	"Pulcheria"	"Mudkiewicz"	426	"426-394-92-12"	"warminsko-mazurskie"	"66-443"	"Chorzow"	"ul. Armii Krajowej"	135
+"PuSi19760"	"Pudens"	"Siebyla"	989	"989-673-54-41"	"wielkopolskie"	"43-230"	"lodz"	"Os. Opolskiego Wladyslawa (Ksiecia Wladyslawa Opolskiego)"	11
+"RaAw17700"	"Radzislaw"	"Awdijczuk"	895	"895-394-25-20"	"mazowieckie"	"62-541"	"Otwock"	"Skw. Solidarnosci Walczacej"	33
+"RaBa9861"	"Radzimir"	"Barycki"	542	"542-853-43-19"	"mazowieckie"	"42-207"	"Bielsko-Biala"	"ul. Afrodyty"	103
+"RaDe342"	"Radoslaw"	"Denig"	115	"115-751-35-110"	"lodzkie"	"40-693"	"Sosnowiec"	"Al. Wojska Polskiego"	116
+"RaDy12426"	"Radzimir"	"Dylion"	658	"658-212-53-97"	"dolnoslaskie"	"56-200"	"Rzeczyca Okragla"	"Pl. Borna Maxa"	97
+"RaFe12187"	"Radziwoj"	"Feliksiak"	647	"647-794-39-66"	"dolnoslaskie"	"32-086"	"Glinno"	"ul. Agrestowa"	9
+"RaGa1057"	"Radomir"	"Garuszewska"	148	"148-519-59-610"	"slaskie"	"90-209"	"Nowa Grobla"	"Pl. Mickiewicza Adama"	30
+"RaGr2792"	"Racimir"	"Grundzik"	223	"223-885-82-610"	"lodzkie"	"21-560"	"Gdansk"	"Al. Jarzebinowa"	28
+"RaGr280"	"Rainer"	"Greczulewicz"	113	"113-551-91-910"	"slaskie"	"88-140"	"Rzeszow"	"Skw. Kosciuszki Tadeusza"	54
+"RaKo133"	"Rafal"	"Konstancjak"	106	"106-528-54-60"	"mazowieckie"	"44-300"	"Warszawa"	"Pl. Aliantow"	94
+"RaKo4753"	"Raissa"	"Kozlec"	311	"311-963-51-51"	"slaskie"	"02-124"	"Tarczyn"	"Al. Pracy"	55
+"RaKo8977"	"Radomila"	"Kolacuch"	503	"503-847-47-56"	"kujawsko-pomorskie"	"80-180"	"Szczecin"	"Al. Jerozolimskie"	14
+"RaKu7196"	"Racibor"	"Kuczabo"	421	"421-283-31-61"	"kujawsko-pomorskie"	"05-402"	"Bachorzec"	"Os. Zlota Podkowa"	28
+"RaKu7826"	"Radowid"	"Kurczoba"	451	"451-521-12-57"	"malopolskie"	"26-065"	"Szczecin"	"ul. Antenowa"	132
+"RaMa19967"	"Radziwoj"	"Machuderski"	998	"998-496-99-83"	"slaskie"	"82-450"	"Bagienice"	"ul. Armii Czerwonej"	130
+"RaMa5462"	"Rajmunda"	"Matczynski"	344	"344-181-32-60"	"podlaskie"	"42-421"	"lodz"	"Pl. 1 Maja"	114
+"RaMi13818"	"Racibor"	"Mistarz"	724	"724-346-97-95"	"dolnoslaskie"	"96-513"	"Nysa"	"Pl. 1000 Lecia"	126
+"RaMo16574"	"Radomila"	"Morecki"	844	"844-988-98-42"	"slaskie"	"04-862"	"Jerzykowice Male"	"Al. zwirki Franciszka"	153
+"RaMo7709"	"Raissa"	"Mostienczuk"	445	"445-577-28-15"	"opolskie"	"26-807"	"Czaplinek"	"ul. Akacjowa"	78
+"RaPe13644"	"Radzislawa"	"Perlow"	715	"715-847-84-10"	"mazowieckie"	"40-601"	"Dabrowa"	"ul. Bakalarska"	123
+"RaRa16409"	"Radomila"	"Rawluk"	837	"837-186-27-910"	"lubelskie"	"27-400"	"Poznan"	"Pl. Matejki Jana"	12
+"RaSz16528"	"Ramona"	"Szuderowicz"	843	"843-181-81-23"	"lodzkie"	"70-106"	"Milkow"	"ul. Anczyca Wladyslawa Ludwika"	70
+"RaSz8793"	"Radzislawa"	"Szycitowski"	495	"495-851-49-56"	"zachodniopomorskie"	"26-704"	"Ruda slaska"	"ul. Armii Krajowej"	88
+"RaTy19003"	"Racimir"	"Tyrlicz"	955	"955-184-35-55"	"slaskie"	"61-854"	"Cetun"	"Al. Slowianska"	14
+"RaWl3116"	"Rainer"	"Wlislo"	237	"237-195-71-30"	"zachodniopomorskie"	"05-504"	"Konopiska"	"ul. Barona Jana"	12
+"ReCz15341"	"Rena"	"Czerchawy"	791	"791-113-45-42"	"podlaskie"	"09-146"	"Prusowy Borek"	"Os. Bereki"	155
+"ReMa6677"	"Rena"	"Matkowski"	397	"397-567-83-84"	"slaskie"	"05-190"	"Czestochowa"	"Al. Armii Ludowej"	25
+"ReMi12271"	"Rena"	"Misida"	652	"652-321-75-910"	"dolnoslaskie"	"27-570"	"Ustron"	"Os. Wyzwolenia"	74
+"RoAn9277"	"Roksana"	"Andrudzkiewicz"	516	"516-258-66-71"	"kujawsko-pomorskie"	"12-220"	"Kielce"	"ul. Augustowska"	93
+"RoAr13742"	"Rozalia"	"Arslanow"	721	"721-444-68-14"	"pomorskie"	"81-120"	"Monki"	"ul. 6 Sierpnia"	113
+"RoBo17051"	"Roksana"	"Bodaronek"	866	"866-657-15-53"	"lubelskie"	"22-235"	"Warszawa"	"Park zolnierzy zywiciela"	80
+"RoBo18630"	"Ronald"	"Bortliczek"	938	"938-568-49-55"	"mazowieckie"	"05-100"	"Warszawa"	"ul. Arctowskiego Henryka"	44
+"RoBo9562"	"Roman"	"Bondosz"	529	"529-415-91-73"	"podlaskie"	"67-210"	"Gora"	"ul. Antoniewska"	111
+"RoCh5913"	"Romualda"	"Christophersen"	362	"362-811-17-98"	"slaskie"	"34-340"	"Stare Kozlowo"	"ul. Bartla Wojciecha Marii (Profesora Wojciecha Marii Bartla)"	85
+"RoCy5575"	"Roscigniew"	"Cylinc"	348	"348-828-59-79"	"warminsko-mazurskie"	"02-969"	"Nowiny"	"Pl. Parkowy"	4
+"RoDr869"	"Roma"	"Dragunas"	139	"139-588-88-91"	"podkarpackie"	"66-600"	"Niwiska"	"ul. Armii Krajowej"	41
+"RoJa4966"	"Rozalia"	"Jasiora"	321	"321-823-65-14"	"pomorskie"	"04-772"	"Blazkow"	"Pl. Konstytucji 3 Maja"	36
+"RoJa8843"	"Rodryk"	"Jadanowski"	497	"497-867-32-70"	"slaskie"	"10-857"	"Wola Rzeplinska"	"ul. Andersa Wladyslawa (Generala Wladyslawa Andersa)"	69
+"RoOs1238"	"Rozalia"	"Osios"	156	"156-797-37-82"	"pomorskie"	"36-050"	"Wroclaw"	"Pl. Staszica Stanislawa"	55
+"RoPy15095"	"Robert"	"Pypke"	779	"779-368-49-90"	"dolnoslaskie"	"90-568"	"Krakow"	"Os. Zielone"	146
+"RoSi18063"	"Roza"	"Siewers"	913	"913-326-94-21"	"mazowieckie"	"73-130"	"Zascianki"	"ul. Barlickiego Norberta"	45
+"RoSi9565"	"Romeo"	"Sibiliski"	529	"529-535-78-54"	"mazowieckie"	"62-704"	"Czestochowa"	"Al. Gornikow Staszicowskich"	75
+"RoSt13236"	"Roscimir"	"Studentkowski"	696	"696-242-67-45"	"mazowieckie"	"66-307"	"Aleksandrowek"	"Pl. Wolnosci"	118
+"RoSz15470"	"Rozyna"	"Szczerbiak"	796	"796-381-78-24"	"zachodniopomorskie"	"59-305"	"Badkowo Jeziorne"	"Pl. Jana Pawla II"	135
+"RoTr15509"	"Roberta"	"Traeger"	797	"797-894-56-98"	"slaskie"	"87-410"	"Warszawa"	"ul. Akacjowa"	58
+"RoZa17693"	"Rozalia"	"Zachmyc"	895	"895-181-87-35"	"slaskie"	"00-082"	"Wola Skromowska"	"Al. Gornikow Staszicowskich"	9
+"RuDb19446"	"Rudolfina"	"Dbara"	975	"975-497-55-20"	"slaskie"	"41-219"	"Krzyzanowice"	"Pl. Zdrojowy"	30
+"RuFu14733"	"Ruben"	"Futyna"	764	"764-564-55-610"	"malopolskie"	"15-507"	"Plock"	"ul. 1 Maja"	112
+"RuMa13339"	"Rut"	"Matlakiewicz"	701	"701-748-53-13"	"podlaskie"	"03-612"	"Dabrowa"	"Al. Jana Pawla II"	54
+"RuPa12904"	"Rufus"	"Pazdziorska"	681	"681-145-14-61"	"kujawsko-pomorskie"	"16-200"	"Reguly"	"Planty Jana Kazimierza"	89
+"RuPy10429"	"Rufina"	"Pyrcidis"	568	"568-637-68-50"	"opolskie"	"57-340"	"Ruda"	"ul. Akademicka"	39
+"RuRz10747"	"Rudolf"	"Rzeszytek"	584	"584-131-54-66"	"slaskie"	"44-100"	"Bialystok"	"ul. Asfaltowa"	36
+"RuSz12608"	"Rudolfina"	"Sztembowski"	666	"666-972-87-61"	"slaskie"	"11-410"	"Lesna-Stara Wies"	"ul. Andyjska"	54
+"RuSz15611"	"Rufus"	"Szuwala"	802	"802-546-51-13"	"dolnoslaskie"	"42-270"	"Kaweczyn"	"Os. Pod Lipami"	107
+"RyMi15987"	"Ryszarda"	"Misdziol"	818	"818-813-24-21"	"malopolskie"	"83-221"	"Brodziszow"	"Os. Rzeczypospolitej"	38
+"RyPa13981"	"Ryszard"	"Parchaniak"	731	"731-743-23-38"	"wielkopolskie"	"99-434"	"Ostroleka"	"Pl. 1 Maja"	81
+"RyRo749"	"Rygobert"	"Rosiejewski"	133	"133-571-19-79"	"opolskie"	"27-641"	"Czerwonka"	"ul. Baldygi Antoniego"	84
+"SaBa10229"	"Saul"	"Barasiewicz"	559	"559-859-42-510"	"slaskie"	"85-788"	"Sadlowo"	"ul. Ametystowa"	64
+"SaBa11121"	"Sadomir"	"Barndt"	601	"601-472-79-85"	"dolnoslaskie"	"58-512"	"Gdansk"	"Al. Armii Krajowej"	51
+"SaBr8660"	"Saul"	"Brudlowska"	489	"489-682-69-39"	"mazowieckie"	"18-413"	"Ksiaznik"	"Al. Piastow"	150
+"SaFi18011"	"Sawa"	"Fiedonczuk"	911	"911-172-59-75"	"lubelskie"	"87-704"	"Godlewo-Warsze"	"ul. A8"	56
+"SaFi1956"	"Salome"	"Fiedukowski"	186	"186-988-17-310"	"mazowieckie"	"94-001"	"Marzysz"	"ul. Akademicka"	70
+"SaFr1539"	"Sadzimir"	"Fratkiewicz"	168	"168-979-25-50"	"mazowieckie"	"18-100"	"Opole"	"ul. Anielewicza Mordechaja"	98
+"SaGi9933"	"Samanta"	"Giewel"	545	"545-463-42-18"	"swietokrzyskie"	"54-701"	"Chociejow"	"Os. Mazurskie"	95
+"SaJu4182"	"Sabin"	"Juzaszek"	285	"285-768-26-22"	"mazowieckie"	"80-809"	"Przywoz"	"Al. Jerozolimskie"	138
+"SaKo17046"	"Salomon"	"Kobrynczuk"	866	"866-582-96-21"	"lubelskie"	"63-200"	"Bytom"	"Al. Jerozolimskie"	116
+"SaKu19039"	"Samanta"	"Kuflikowski"	956	"956-724-94-84"	"malopolskie"	"23-212"	"Siemianowo"	"Al. Klonowa"	67
+"SaLi19515"	"Samson"	"Lipowczyk"	978	"978-331-82-36"	"lodzkie"	"38-606"	"Jaworzno"	"Pl. Gladbeck"	66
+"SaLu2880"	"Sabina"	"Luboczynska"	227	"227-512-86-84"	"slaskie"	"43-100"	"Warszawa"	"ul. Akacjowa"	65
+"SaMu6964"	"Sabina"	"Mulbuj"	411	"411-112-15-210"	"kujawsko-pomorskie"	"05-504"	"Wysoka Lelowska"	"ul. 3 Maja"	150
+"SaSk11678"	"Samanta"	"Skowik"	624	"624-842-17-26"	"mazowieckie"	"33-314"	"Opole"	"ul. Bacewicz Grazyny"	44
+"SaSk19300"	"Samuel"	"Skoworoda"	968	"968-848-21-42"	"slaskie"	"39-110"	"Jelonek"	"ul. 3 Maja"	74
+"SaTr17725"	"Salomon"	"Trybulowicz"	896	"896-437-41-43"	"mazowieckie"	"22-540"	"Rogozewek"	"Al. Armii Krajowej"	73
+"SaWa14199"	"Sadomir"	"Waszaj"	739	"739-384-51-74"	"swietokrzyskie"	"05-505"	"Warszawa"	"ul. Andersa Wladyslawa (Generala Wladyslawa Andersa)"	2
+"SaWa8080"	"Salomon"	"Wakolowski"	462	"462-196-23-70"	"mazowieckie"	"31-580"	"Czestochowa"	"Os. Tysiaclecia"	78
+"SaWe12929"	"Sadoslaw"	"Weywer"	682	"682-216-42-80"	"slaskie"	"82-550"	"Dabrowa"	"Pl. Wolnosci"	26
+"ScDo6847"	"Scholastyka"	"Dolmant"	405	"405-212-93-34"	"zachodniopomorskie"	"30-737"	"Kucerz"	"Al. Pilsudskiego Jozefa (Marszalka Jozefa Pilsudskiego)"	55
+"scNa16747"	"scibora"	"Nadorkiewicz"	853	"853-222-24-49"	"mazowieckie"	"31-054"	"Pila"	"Os. Wichrowe Wzgorze"	88
+"scRa198"	"scibor"	"Radycha"	108	"108-728-75-78"	"wielkopolskie"	"26-060"	"Suwalki"	"Pl. Grunwaldzki"	16
+"ScWo11710"	"Scholastyka"	"Wolonik"	625	"625-678-39-61"	"mazowieckie"	"93-425"	"zory"	"Al. Kosciuszki Tadeusza"	139
+"SeBi3417"	"Sewera"	"Bichta"	251	"251-162-81-20"	"mazowieckie"	"05-800"	"Szczecin"	"Bulw. Elblaski"	97
+"SeCh5305"	"Selma"	"Chalminski"	337	"337-119-99-74"	"wielkopolskie"	"89-430"	"Tarnowskie Gory"	"ul. Bagienna"	104
+"SeDm15833"	"Sedzislaw"	"Dmitrjuk"	812	"812-199-91-210"	"podlaskie"	"32-410"	"Nowa Wies"	"Park Sobieskiego Jana III"	134
+"SeDy18668"	"Sebastian"	"Dyny"	941	"941-229-23-99"	"wielkopolskie"	"31-985"	"Koszalin"	"Al. 1 Maja"	8
+"SeKo18975"	"Sergiusz"	"Konopczyk"	954	"954-226-56-10"	"pomorskie"	"28-425"	"Stary Nart"	"ul. Asnyka Adama"	148
+"SeKo7581"	"Sewer"	"Korotarz"	438	"438-368-39-72"	"slaskie"	"60-461"	"Sienno"	"ul. 11 Listopada"	150
+"SeKr13240"	"Seweryna"	"Krychowicz"	696	"696-475-17-65"	"wielkopolskie"	"36-002"	"Konstantynowka"	"Os. 2 Pulku Lotniczego"	86
+"SeNe8837"	"Sedzislawa"	"Nemlek"	497	"497-768-22-29"	"lodzkie"	"52-311"	"Skotniki"	"ul. 1 Maja"	32
+"SePr12237"	"Selma"	"Przedpelka"	649	"649-817-61-82"	"swietokrzyskie"	"02-490"	"Puszczew"	"ul. 23 Stycznia"	18
+"SeRa7193"	"Sedziwoj"	"Radak"	421	"421-271-48-64"	"dolnoslaskie"	"44-251"	"Radom"	"Os. Kalinowe"	148
+"SeWe12811"	"Sergiusz"	"Wegners"	676	"676-133-69-52"	"mazowieckie"	"44-200"	"Lublin"	"ul. Asfaltowa"	67
+"SiAk5923"	"Siecieslawa"	"Aktorowicz"	363	"363-227-89-61"	"warminsko-mazurskie"	"49-314"	"Proszkow"	"Pl. Witosa Wincentego"	100
+"SiBa16966"	"Siemislaw"	"Balczewski"	863	"863-248-95-51"	"zachodniopomorskie"	"97-400"	"Bytom"	"ul. Armii Krajowej"	151
+"SiCh1033"	"Sieroslaw"	"Chabowski"	147	"147-263-43-79"	"mazowieckie"	"63-700"	"lynski Mlyn"	"Al. Przyjazni"	134
+"SiFa9985"	"Sieroslaw"	"Falger"	547	"547-481-22-32"	"lodzkie"	"74-210"	"Truskolasy-Olszyna"	"Pl. Powstancow Wielkopolskich"	49
+"SiGr7542"	"Siemislaw"	"Grenzlik"	436	"436-492-75-31"	"pomorskie"	"89-240"	"Czarna Gorna"	"ul. Armii Krajowej"	129
+"SiHu11027"	"Sieroslaw"	"Hurka"	596	"596-254-96-25"	"kujawsko-pomorskie"	"47-420"	"Zgierz"	"Pl. Skrzeka i Wojcika"	65
+"SiKr16020"	"Siemiodrog"	"Krzelewski"	821	"821-128-28-21"	"podlaskie"	"82-316"	"swietochlowice"	"ul. Artylerzystow"	139
+"SiNa2791"	"Sieroslawa"	"Nadziej"	223	"223-885-26-29"	"zachodniopomorskie"	"47-260"	"Olsztyn"	"Rynek Debnicki"	13
+"SiPl2714"	"Siecieslawa"	"Plastowski"	219	"219-371-36-20"	"podlaskie"	"32-600"	"Zator"	"Rynek Rynek"	152
+"SiSp19391"	"Siemowit"	"Spausta"	973	"973-758-54-310"	"slaskie"	"41-923"	"Golanki"	"ul. 1 Maja"	106
+"SiSt14941"	"Siemiodrog"	"Stempien"	773	"773-431-75-89"	"wielkopolskie"	"41-806"	"Stary sleszow"	"Al. Jerozolimskie"	49
+"SiSz10748"	"Siemirad"	"Szredzki"	584	"584-148-66-610"	"slaskie"	"02-301"	"Baranowo"	"ul. Bankowa"	115
+"SiTr9137"	"Siemowit"	"Trzcioka"	509	"509-764-13-97"	"warminsko-mazurskie"	"06-452"	"zywkowo"	"Al. 1 Maja"	79
+"SiWa17262"	"Siecieslawa"	"Walochnik"	875	"875-554-81-36"	"podlaskie"	"05-070"	"Krakow"	"Al. Jana Pawla II"	64
+"SlBr15324"	"Slawomir"	"Bromka"	789	"789-515-23-92"	"mazowieckie"	"04-410"	"Kowalew"	"Al. Kaliskiego Sylwestra (Profesora Sylwestra Kaliskiego)"	123
+"SlKo14396"	"Slawomira"	"Kosiorzemski"	749	"749-541-26-51"	"mazowieckie"	"42-209"	"Jerzmanice-Zdroj"	"ul. Anna"	46
+"SlKo9962"	"Slawomira"	"Kosydor"	546	"546-567-62-110"	"malopolskie"	"42-600"	"lodz"	"Al. Wojska Polskiego"	141
+"SlSm1721"	"Slawomira"	"Smazek"	177	"177-256-24-48"	"podlaskie"	"63-505"	"Grodzisko"	"Os. Szkolne"	126
+"SlSm9679"	"Slawosz"	"Smatek"	534	"534-617-38-84"	"dolnoslaskie"	"10-038"	"Dobroszow Maly"	"Al. Jerozolimskie"	72
+"SlZa263"	"Slawoj"	"Zastepinski"	112	"112-691-71-45"	"zachodniopomorskie"	"05-400"	"lapy"	"Rynek Rynek"	46
+"Slze9627"	"Slawomira"	"zerebna"	532	"532-832-74-89"	"opolskie"	"38-350"	"Wolka Kosowska"	"ul. Arnsztajnowej Franciszki"	1
+"SoBo12233"	"Sobieslawa"	"Bonczol"	649	"649-712-57-80"	"pomorskie"	"32-742"	"Rzyczkowo"	"Pl. Panny Marii"	53
+"SoNi4280"	"Sofroniusz"	"Niebiosa"	289	"289-114-16-47"	"dolnoslaskie"	"55-140"	"Mszczonow"	"Os. Armii Krajowej"	4
+"SoSl3541"	"Sobieslaw"	"Sloneczny"	257	"257-146-18-610"	"mazowieckie"	"41-940"	"Wloclawek"	"Os. Armii Krajowej"	133
+"SoSy268"	"Soter"	"Syryjczak"	113	"113-129-91-93"	"mazowieckie"	"97-217"	"Lublin"	"Os. Centrum C"	148
+"SoWa1144"	"Sobiesad"	"Wahala"	153	"153-238-52-910"	"podlaskie"	"41-205"	"Mackowa Ruda"	"Os. Bohaterow Tobruku"	128
+"SpHe12592"	"Spycimir"	"Hegedusz"	666	"666-371-79-57"	"dolnoslaskie"	"37-710"	"W Ogrodach"	"ul. Albatrosow"	102
+"StCi6131"	"Stanislawa"	"Cielechowicz"	372	"372-912-43-83"	"mazowieckie"	"73-110"	"Bialystok"	"Al. Sikorskiego Wladyslawa (Generala Wladyslawa Sikorskiego)"	47
+"StCz12784"	"Stojmir"	"Czyganowski"	674	"674-779-93-31"	"mazowieckie"	"05-140"	"Gdansk"	"ul. 2 Pazdziernika"	101
+"StDr11356"	"Stefania"	"Draczenko"	611	"611-284-89-39"	"wielkopolskie"	"32-800"	"Katy Wegierskie"	"Os. Zwyciestwa"	126
+"StGu7901"	"Stojslaw"	"Gunweniuk"	454	"454-419-16-81"	"mazowieckie"	"62-530"	"Lasmiady"	"Os. Widok"	37
+"StHa6340"	"Stefania"	"Harum"	382	"382-224-52-90"	"zachodniopomorskie"	"72-112"	"Bielice"	"ul. 3 Maja"	134
+"StHi13910"	"Stanislaw"	"Hilgartner"	728	"728-145-64-73"	"mazowieckie"	"98-240"	"Szczodrzykowo"	"ul. Amarantowa"	127
+"StIn2616"	"Stronislawa"	"Indrak"	215	"215-529-91-53"	"zachodniopomorskie"	"76-150"	"Ploskinia"	"ul. 6 Dywizji Piechoty"	99
+"StKa17102"	"Stronislawa"	"Kartyczko"	868	"868-724-77-11"	"slaskie"	"11-440"	"Trzebun"	"Al. 1 Maja"	56
+"StKi4995"	"Stanislawa"	"Kicinska vel Kita"	322	"322-942-75-910"	"podlaskie"	"56-100"	"Rzeszow"	"Al. Legionow"	55
+"StKl6198"	"Stojgniew"	"Klenczar"	375	"375-758-93-81"	"malopolskie"	"81-195"	"Opole"	"Rondo Giedroycia Jerzego"	42
+"StRe6109"	"Stojmir"	"Rejenko"	372	"372-269-72-210"	"mazowieckie"	"09-303"	"Ledziny"	"ul. 1 Maja"	144
+"Stsl1445"	"Stronislawa"	"slimak"	164	"164-914-51-52"	"malopolskie"	"30-225"	"Katowice"	"Kopiec Pilsudskiego Jozefa"	79
+"StSw955"	"Stronislawa"	"Swirydlo"	144	"144-321-94-94"	"lodzkie"	"26-612"	"Sopot"	"Pl. Wolnosci"	73
+"StSz11643"	"Stella"	"Szumilinska"	623	"623-453-49-23"	"malopolskie"	"09-400"	"Kotlice-Kolonia"	"Skw. Sybirakow"	57
+"StSz1460"	"Stronislaw"	"Szwajcarski"	165	"165-446-21-97"	"mazowieckie"	"41-803"	"Szczecin"	"ul. Atlasowa"	20
+"StWa17073"	"Stronislawa"	"Walendowski"	867	"867-411-27-91"	"slaskie"	"63-400"	"Poznan"	"ul. Baonu Zoska"	56
+"SuJa13984"	"Sulislaw"	"Jarmak"	731	"731-811-18-72"	"podkarpackie"	"63-021"	"Bydgoszcz"	"Pl. 11 Listopada"	52
+"SuKo1272"	"Sulimierz"	"Kosteniewicz"	157	"157-919-87-16"	"podlaskie"	"60-453"	"Jurkowice"	"ul. Arktyczna"	122
+"SuKr19942"	"Suliwoj"	"Krucynska"	997	"997-254-92-93"	"dolnoslaskie"	"19-404"	"Szczecin"	"ul. Anecinska"	67
+"SuMe9892"	"Sulislaw"	"Metusewicz"	543	"543-965-79-13"	"dolnoslaskie"	"98-350"	"Wyszki"	"ul. Bankowcow"	148
+"SuNy10291"	"Sulislaw"	"Nysiak"	563	"563-245-66-88"	"lubuskie"	"63-013"	"Wszewilki"	"ul. Arentowicza Zdzislawa"	102
+"SuPi2412"	"Sulislawa"	"Pierzchat"	206	"206-628-24-12"	"malopolskie"	"14-405"	"Budzigniew"	"Os. Pilsudskiego Jozefa"	31
+"SuSe996"	"Sulimiera"	"Seigerschmid"	145	"145-796-37-13"	"mazowieckie"	"85-790"	"Mokrosek"	"ul. Arnsztajnowej Franciszki"	66
+"SuWa19189"	"Sulimir"	"Waskul"	964	"964-616-41-76"	"zachodniopomorskie"	"76-036"	"Gdansk"	"ul. Bangowska"	155
+"swAz16214"	"swietomira"	"Azyan"	828	"828-235-23-80"	"mazowieckie"	"06-440"	"Plewnia"	"ul. 3 Maja"	15
+"swBa7769"	"swietomira"	"Babota"	447	"447-782-79-710"	"slaskie"	"42-510"	"Mlodoszowice"	"Os. Szarych Szeregow"	29
+"swEl8162"	"swietobor"	"Elbinski"	465	"465-878-76-87"	"swietokrzyskie"	"59-220"	"Krakow"	"Os. 1000 Lecia"	139
+"swGo18791"	"swietopelk"	"Gomulka"	945	"945-696-23-60"	"dolnoslaskie"	"65-507"	"lodz"	"ul. Albatrosow"	86
+"swIw6213"	"swiecimir"	"Iwanczewski"	376	"376-278-56-82"	"slaskie"	"32-305"	"Brzykow"	"ul. Akacjowa"	23
+"swKa10336"	"swietochna"	"Kapijasz"	564	"564-811-79-48"	"wielkopolskie"	"98-170"	"Zabrze"	"Os. Nowe Osiedle"	78
+"swKu2523"	"swiecimir"	"Kudypka"	211	"211-792-16-410"	"podkarpackie"	"54-516"	"Bystrzyca Klodzka"	"Os. Kopernika Mikolaja"	75
+"swMi2063"	"swietochna"	"Micalowska"	192	"192-162-54-68"	"kujawsko-pomorskie"	"08-322"	"Rzeszow"	"ul. Archimedesa"	93
+"swRy5953"	"swietochna"	"Rymisz"	364	"364-741-58-90"	"swietokrzyskie"	"78-460"	"Suszec"	"ul. Andyjska"	137
+"swSt14699"	"swietobor"	"Stejnig"	763	"763-175-68-28"	"mazowieckie"	"05-303"	"Gabin"	"ul. Akacjowa"	135
+"SyGl9833"	"Sylwia"	"Glaessner"	541	"541-654-26-55"	"slaskie"	"07-300"	"Grudziadz"	"Pl. Mazurski"	135
+"SyKa18685"	"Symeon"	"Kantan"	941	"941-741-57-31"	"mazowieckie"	"55-120"	"Pruszkow"	"Pl. Dominikanski"	70
+"Syla1329"	"Sylwana"	"laskow"	159	"159-892-58-15"	"podlaskie"	"45-533"	"Krakow"	"ul. Atlasa"	15
+"Syla6353"	"Sylwiusz"	"lancuchowski"	382	"382-635-16-46"	"mazowieckie"	"35-223"	"Radom"	"ul. Alberta"	78
+"SyLa8801"	"Sylwia"	"Lassau"	496	"496-423-63-67"	"opolskie"	"87-327"	"Morawica"	"Al. Gizyckiego Wladyslawa"	64
+"SyNe16352"	"Sybilla"	"Nedbalski"	835	"835-118-86-80"	"malopolskie"	"44-310"	"Przedwojewo"	"ul. Barcewicza Stanislawa"	133
+"SyPi7961"	"Sylwiusz"	"Piekurska"	456	"456-484-14-110"	"zachodniopomorskie"	"56-100"	"Bydgoszcz"	"Os. Czwartakow"	85
+"SyRa7166"	"Sylwia"	"Raczywska"	418	"418-735-76-610"	"lubelskie"	"21-109"	"Warszawa"	"Pl. Wolnosci"	128
+"Sysw3692"	"Sylwiusz"	"swirydon"	264	"264-218-18-66"	"dolnoslaskie"	"85-030"	"zory"	"Al. Lipowa"	35
+"SySz7231"	"Sylwery"	"Szmergal"	422	"422-827-74-32"	"warminsko-mazurskie"	"43-303"	"Kedzierzyn-Kozle"	"ul. Armii Krajowej"	15
+"SyWa6703"	"Sybilla"	"Warzych"	398	"398-718-46-76"	"mazowieckie"	"94-016"	"Koliszewo"	"Al. Jarzebinowa"	12
+"SyWy16378"	"Symforiana"	"Wyrzynowicz"	835	"835-864-58-18"	"lubelskie"	"21-136"	"swietochlowice"	"ul. 3 Maja"	64
+"SzBl13845"	"Szeliga"	"Blizat"	725	"725-717-55-23"	"zachodniopomorskie"	"18-100"	"Bialogard"	"ul. Armii Krajowej"	99
+"SzBl8188"	"Szymon"	"Blumenferd"	467	"467-196-32-42"	"mazowieckie"	"66-415"	"Dziobin"	"ul. Bachledy Klimka"	115
+"SzCh14770"	"Szwieciech"	"Chrenowski"	765	"765-845-42-52"	"podlaskie"	"61-758"	"lomy"	"Rynek Imienia Powstancow 1863"	24
+"SzMi2478"	"Szarlota"	"Miatello"	208	"208-828-11-99"	"podkarpackie"	"42-274"	"Modrzewie"	"Pl. Legionow"	74
+"SzOr3228"	"Szwieciech"	"Orof"	242	"242-453-51-25"	"malopolskie"	"62-604"	"Gustawow"	"ul. Aksamitna"	61
+"SzRe570"	"Szeliga"	"Reknis"	125	"125-587-42-48"	"dolnoslaskie"	"59-335"	"Poznan"	"Os. Norwida Cypriana Kamila"	55
+"SzSe18392"	"Szymon"	"Serduszko"	928	"928-555-74-410"	"wielkopolskie"	"20-045"	"Gdansk"	"ul. Armatorow"	55
+"TaBo7871"	"Tacjusz"	"Bogdanionek"	453	"453-346-21-59"	"wielkopolskie"	"62-561"	"Rybarzowice"	"ul. 15 Sierpnia"	99
+"TaBu6726"	"Taras"	"Bugdoll"	399	"399-442-55-23"	"zachodniopomorskie"	"85-554"	"Radom"	"ul. 3 Maja"	13
+"TaCz14000"	"Tamara"	"Czerpowacki"	732	"732-556-93-36"	"mazowieckie"	"43-503"	"Bydgoszcz"	"Al. Papieza Jana Pawla II"	2
+"TaCz4798"	"Tacjusz"	"Czuprys"	313	"313-672-58-85"	"pomorskie"	"28-210"	"Zielona Gora"	"Os. Robotnicze"	68
+"TaFe12203"	"Tamara"	"Fedyczek"	648	"648-621-92-62"	"slaskie"	"44-300"	"Jasieniec"	"ul. 3 Maja"	109
+"TaJa13799"	"Talita"	"Jaslan"	723	"723-535-95-81"	"podkarpackie"	"18-220"	"Gdansk"	"ul. Arkonska"	71
+"TaKa4551"	"Tadeusza"	"Kawulski"	302	"302-428-93-15"	"zachodniopomorskie"	"98-170"	"Surmacze"	"Skw. Wiecha Wiecheckiego Stefana"	91
+"TaMa15984"	"Tacjanna"	"Manturowicz"	818	"818-715-13-91"	"mazowieckie"	"13-306"	"Rososz"	"Al. IX Wiekow Kielc"	90
+"TaPr14674"	"Talita"	"Przadkiewicz"	762	"762-192-95-52"	"malopolskie"	"16-310"	"Ludow Polski"	"ul. Abrahama Romana (Generala Romana Abrahama)"	127
+"TaSc8639"	"Talita"	"Schweitzer"	488	"488-273-46-10"	"opolskie"	"41-706"	"Rogaczewo"	"Grobla Opatowicka"	2
+"TaSi9798"	"Tatiana"	"Simonajc"	539	"539-287-67-11"	"mazowieckie"	"41-948"	"Lublin"	"ul. Anielewicza Mordechaja"	103
+"TaSk6544"	"Tacjanna"	"Sklodzka"	391	"391-716-97-17"	"podlaskie"	"82-200"	"Izbiczno"	"ul. Asnyka Adama"	123
+"Taza4948"	"Tacjanna"	"zagdanska"	321	"321-348-65-25"	"mazowieckie"	"44-152"	"Wodzislaw slaski"	"Pl. Gwardii Ludowej"	118
+"TeBl11852"	"Tegomir"	"Bledowski"	632	"632-968-97-23"	"mazowieckie"	"78-500"	"Karsin"	"ul. Asnyka Adama"	45
+"TeCh12023"	"Teodora"	"Churchill"	641	"641-287-28-610"	"mazowieckie"	"96-503"	"Kepica"	"ul. Adama"	90
+"TeCz13169"	"Teodozja"	"Czeban"	693	"693-638-22-76"	"dolnoslaskie"	"11-210"	"lodz"	"Os. Podzamcze Sek. B"	104
+"TeKi1171"	"Teobald"	"Kimber"	154	"154-228-36-21"	"opolskie"	"40-219"	"Siedlce"	"ul. Augustianska"	41
+"TeKl261"	"Telimena"	"Klimczewski"	112	"112-649-39-17"	"lubelskie"	"27-500"	"Katowice"	"Os. Wladyslawa lokietka"	5
+"TeKu138"	"Tekla"	"Kudzinski"	106	"106-657-49-610"	"warminsko-mazurskie"	"07-322"	"Warszawa"	"Al. Niepodleglosci"	147
+"TeKu7790"	"Teresa"	"Kuricyna"	448	"448-693-59-39"	"malopolskie"	"38-710"	"Bosowice"	"ul. Andromedy"	79
+"TeLo2254"	"Telimena"	"Lokosz"	199	"199-263-72-66"	"swietokrzyskie"	"32-340"	"Plock"	"Al. Jerozolimskie"	142
+"TePe4563"	"Tegomir"	"Peglau"	302	"302-831-99-93"	"wielkopolskie"	"06-408"	"zalin"	"Skw. Sikorskiego Wladyslawa (Generala Wladyslawa Sikorskiego)"	153
+"TeRa897"	"Terencjusz"	"Rabiszewski"	141	"141-949-32-63"	"lubelskie"	"62-400"	"Parzynow"	"Al. Bohaterow Warszawy"	141
+"TeSo2845"	"Telislawa"	"Solmowski"	225	"225-992-81-48"	"lubuskie"	"42-290"	"Szklary-Huta"	"Pl. Obroncow Lublina"	101
+"TeSz17320"	"Tezeusz"	"Szepiczek"	877	"877-852-36-97"	"slaskie"	"10-192"	"Warszawa"	"Planty Ofiar Getta"	65
+"TeTa19731"	"Telesfor"	"Tawsznik"	988	"988-455-71-69"	"pomorskie"	"51-520"	"Kolebki"	"Pl. Warynskiego Ludwika"	65
+"TeTe12288"	"Teresa"	"Terejkowicz"	652	"652-796-44-43"	"wielkopolskie"	"81-837"	"Chwalow"	"Al. Powstancow Wielkopolskich"	89
+"TeZe15066"	"Teofila"	"Zelobowska"	778	"778-369-49-310"	"slaskie"	"55-200"	"Zabrze"	"Al. Politechniki"	14
+"ToCh3327"	"Tomira"	"Chliwa"	245	"245-713-81-74"	"kujawsko-pomorskie"	"41-814"	"Sosnowiec"	"ul. 3 Maja"	46
+"ToCz3432"	"Tomasz"	"Czirlok"	251	"251-646-34-39"	"kujawsko-pomorskie"	"99-232"	"Solina"	"ul. 3 Maja"	88
+"ToDu18244"	"Tomislaw"	"Dumakiewicz"	922	"922-338-26-35"	"zachodniopomorskie"	"27-100"	"Tychy"	"ul. Bacowa"	66
+"ToFr7985"	"Tomir"	"Fraj"	457	"457-213-56-910"	"malopolskie"	"80-843"	"Jaslo"	"Os. Pod Lipami"	94
+"ToKa5522"	"Tomira"	"Kaladkiewicz"	346	"346-385-68-51"	"mazowieckie"	"31-764"	"Olsztyn"	"ul. Albatrosowa"	29
+"ToKr14419"	"Tolislawa"	"Krupinski"	751	"751-571-77-45"	"malopolskie"	"59-223"	"Zalipie"	"ul. Akacjowa"	139
+"ToMe15109"	"Tolislawa"	"Mentelewicz"	781	"781-212-19-810"	"podkarpackie"	"78-506"	"Opole"	"ul. Akacjowa"	10
+"ToMh5878"	"Tolislawa"	"Mhlicka"	361	"361-669-46-53"	"slaskie"	"97-200"	"Darlowo"	"Os. Korczaka Janusza"	17
+"ToMi10516"	"Torpet"	"Misiolecka"	573	"573-323-86-39"	"kujawsko-pomorskie"	"67-210"	"Ruda slaska"	"Pl. Obroncow Poczty Polskiej"	87
+"ToNa3671"	"Tomislawa"	"Napierkowski"	263	"263-357-49-74"	"dolnoslaskie"	"81-157"	"zurawiec"	"ul. Akacjowa"	116
+"ToRu7210"	"Tomir"	"Ruttar"	421	"421-818-61-36"	"zachodniopomorskie"	"60-438"	"Jastrzebie-Zdroj"	"ul. 1 Maja"	87
+"ToSo3211"	"Toska"	"Somerling"	241	"241-856-98-310"	"podkarpackie"	"98-100"	"Arcugowo"	"Pl. Inwalidow"	110
+"Tosw8220"	"Tobiasz"	"switelinska"	468	"468-577-79-910"	"lodzkie"	"93-452"	"Jelenia Gora"	"ul. Armii Krajowej"	54
+"ToWi4276"	"Tobiasz"	"Wizenberg"	288	"288-826-38-43"	"zachodniopomorskie"	"15-521"	"Zielona Gora"	"Al. Kijowska"	150
+"TrGa18137"	"Trzebomysl"	"Gabrusewicz"	916	"916-664-18-19"	"podlaskie"	"42-217"	"Warszawa"	"ul. 6 Dywizji Piechoty"	18
+"TrKl3619"	"Trofim"	"Klaus"	261	"261-496-82-58"	"lodzkie"	"80-130"	"Grodzisk Mazowiecki"	"ul. Arystofanesa"	48
+"TrPr17196"	"Trzebimir"	"Prymo"	872	"872-849-75-35"	"mazowieckie"	"38-607"	"Warszawa"	"Al. Armii Ludowej"	130
+"TrWi11240"	"Trofim"	"Windera"	605	"605-622-36-34"	"mazowieckie"	"08-330"	"Warszawa"	"Os. Leskowka"	108
+"TrZa7713"	"Trzebislaw"	"Zawadzicz"	445	"445-737-47-11"	"slaskie"	"63-200"	"Olsztyn"	"ul. 10 Lutego"	65
+"TwGe756"	"Twardoslaw"	"Gesikiewicz"	133	"133-921-37-70"	"slaskie"	"86-031"	"Nowe Iganie"	"Al. Wojska Polskiego"	131
+"TwRo2251"	"Tworzyslawa"	"Romanuszko"	199	"199-199-38-510"	"dolnoslaskie"	"43-600"	"Nysa"	"Al. Pasjonistow"	131
+"TyBr12550"	"Tymoteusz"	"Brandegger"	664	"664-737-85-84"	"mazowieckie"	"80-119"	"Koszalin"	"Pl. Gwardii Ludowej"	51
+"TyCh2190"	"Tyberiusz"	"Chrzeszcz"	196	"196-885-92-73"	"wielkopolskie"	"21-404"	"Nowe Mieczyslawy"	"Al. Zaglebia Dabrowskiego"	12
+"TyDa11495"	"Tytus"	"Davy"	616	"616-351-12-27"	"kujawsko-pomorskie"	"97-561"	"Krakow"	"ul. 3 Maja"	47
+"TyDe12980"	"Tymon"	"Deckas"	684	"684-168-25-50"	"mazowieckie"	"01-848"	"zytowo"	"Pl. Wolnosci"	118
+"TyGa7757"	"Tymoteusz"	"Gardzielewski"	447	"447-373-87-910"	"lubelskie"	"62-010"	"Lubin"	"ul. Bartoka Beli"	56
+"TyGl9218"	"Tytus"	"Glodzial"	513	"513-924-88-14"	"podlaskie"	"83-000"	"lodz"	"Pl. Wojska Polskiego"	48
+"TyKu6092"	"Tycjan"	"Kuznierska"	371	"371-475-96-26"	"lodzkie"	"51-501"	"Dobrzejewice"	"Al. Slowackiego Juliusza"	140
+"TyPa4817"	"Tycjan"	"Parobi"	314	"314-598-49-71"	"podlaskie"	"32-540"	"Ludmierzyce"	"Al. Astronomow"	43
+"TyPi15539"	"Tymoteusz"	"Pietryszka"	798	"798-883-39-66"	"podkarpackie"	"42-100"	"Idzikowice"	"Al. Zwyciestwa"	141
+"TyTe8204"	"Tymoteusz"	"Tetler"	467	"467-524-62-18"	"lodzkie"	"33-121"	"Gdansk"	"ul. 3 Maja"	138
+"UlBa5212"	"Ulryk"	"Bazarnik"	333	"333-239-55-62"	"wielkopolskie"	"63-325"	"Bocien"	"ul. Andersena Christiana"	139
+"UlKi16951"	"Ulryka"	"Kiri"	862	"862-541-85-18"	"mazowieckie"	"66-510"	"Bytom"	"Pl. Wyzwolenia"	137
+"UlPo2388"	"Ulrych"	"Podlaszewski"	205	"205-581-23-90"	"pomorskie"	"57-120"	"Przewloka"	"Al. Pilsudskiego Jozefa"	52
+"UlWa10923"	"Ulryka"	"Wasylke"	591	"591-948-96-83"	"lubelskie"	"41-936"	"Neryngowo"	"Os. Wichrowe Wzgorze"	124
+"UnKa7827"	"Uniegost"	"Kaziukianiec"	451	"451-527-44-76"	"wielkopolskie"	"57-400"	"Zabrze"	"Al. Jana Pawla II"	46
+"UrDo15145"	"Ursyn"	"Dorociok"	782	"782-615-16-42"	"mazowieckie"	"20-142"	"Biale Blota"	"Pl. Oddzialow Mlodziezy Powstanczej"	100
+"UrMa17316"	"Urlyk"	"Matiuszek"	877	"877-561-72-19"	"malopolskie"	"52-123"	"Bugaj"	"ul. Andersa Wladyslawa (Generala Wladyslawa Andersa)"	102
+"UrOk10639"	"Urszula"	"Okolowski"	578	"578-387-31-19"	"mazowieckie"	"71-474"	"Lublin"	"Os. Dywizjonu 303"	137
+"UrSz17783"	"Urban"	"Szpurko"	898	"898-979-84-80"	"pomorskie"	"11-500"	"Jasionka"	"ul. Asnyka Adama"	55
+"WaBi19319"	"Waleria"	"Biczynska vel Bicz"	969	"969-763-52-57"	"malopolskie"	"28-530"	"Suwalki"	"Pl. Konstytucji 3 Maja"	68
+"WaCh2106"	"Walerian"	"Chadzynski"	193	"193-327-44-48"	"podkarpackie"	"89-311"	"Poznan"	"ul. Bajkowa"	96
+"WaCz15453"	"Walenty"	"Czerczun"	795	"795-619-81-51"	"mazowieckie"	"87-603"	"Gizyce"	"Skw. Niepodleglosci"	27
+"WaGi1556"	"Waleriusz"	"Giermaziak"	169	"169-839-96-65"	"dolnoslaskie"	"62-619"	"Glodowo"	"Os. Centrum A"	63
+"WaHo13763"	"Wanda"	"Hotewicz"	721	"721-978-56-33"	"lodzkie"	"88-100"	"Ruda slaska"	"ul. Balinskiego Karola"	88
+"WaIl7948"	"Walery"	"Ilkowicz"	456	"456-111-75-52"	"slaskie"	"73-108"	"Bydgoszcz"	"ul. Akurat"	41
+"WaJa14596"	"Wanda"	"Jarmul"	757	"757-924-21-210"	"lodzkie"	"41-946"	"Bielsko-Biala"	"ul. 1 Maja"	63
+"WaJa17792"	"Walentyna"	"Jahiel"	899	"899-489-38-810"	"malopolskie"	"56-100"	"Pruszkow"	"ul. Astrow"	66
+"WaKi7069"	"Waldemara"	"Kilinski"	414	"414-967-97-39"	"zachodniopomorskie"	"00-166"	"Waplewo"	"ul. Baczynskiego Krzysztofa Kamila"	120
+"WaKo7660"	"Wanda"	"Korzwiszer"	443	"443-762-89-47"	"lodzkie"	"62-543"	"Lublin"	"Pl. Ofiar Katynia"	85
+"WaKr11111"	"Wanda"	"Krysztoforski V.Chryszto"	599	"599-917-12-84"	"pomorskie"	"41-100"	"Wolka Okraglik"	"ul. 26 Marca"	53
+"WaNa11639"	"Waleria"	"Najgodzki"	623	"623-285-66-40"	"kujawsko-pomorskie"	"26-220"	"Witoszow Gorny"	"ul. Armii Krajowej"	48
+"WaPu17462"	"Walenty"	"Punzel"	884	"884-837-57-910"	"swietokrzyskie"	"27-515"	"Granice"	"Al. Grottgera Artura"	99
+"WaRa2411"	"Wawrzyniec"	"Rakowski vel Rydzynski"	206	"206-545-19-18"	"opolskie"	"13-111"	"Gliwice"	"Al. Rynek"	55
+"WaSt8077"	"Walerian"	"Strachocki"	461	"461-985-73-81"	"lodzkie"	"99-300"	"Cetki"	"ul. Adriatycka"	121
+"WaSz11922"	"Wasyl"	"Szwarcberg"	636	"636-316-97-82"	"wielkopolskie"	"41-800"	"Kisiny"	"Pl. Stare Miasto"	60
+"WaSz19509"	"Walter"	"Szakolej"	978	"978-241-61-49"	"wielkopolskie"	"59-200"	"Czechowizna"	"Al. Jerozolimskie"	139
+"WaTu12375"	"Wanda"	"Turmaszczyk"	656	"656-313-78-87"	"opolskie"	"93-345"	"Dabrowki Kobylanskie"	"Al. 3 Maja"	5
+"WaTu16643"	"Wawrzyn"	"Turewicz"	847	"847-873-87-26"	"dolnoslaskie"	"93-404"	"Cytrynowo"	"ul. Bankowa"	90
+"WaWy13861"	"Waldemara"	"Wypuszynska"	726	"726-315-65-42"	"lodzkie"	"43-382"	"Nowa Ruda"	"Pl. Wyzwolenia"	5
+"WaZa10634"	"Walentyna"	"Zabczuk"	577	"577-972-87-67"	"lodzkie"	"59-220"	"Gibalka"	"Al. Powstancow Wielkopolskich"	18
+"Wazu5396"	"Waclaw"	"zuwala"	341	"341-469-99-92"	"wielkopolskie"	"83-314"	"Mokronos"	"ul. Bacciarellego Marcelego"	27
+"WeJa8848"	"Werner"	"Januczek"	497	"497-988-63-58"	"mazowieckie"	"97-225"	"Kartuzy"	"Al. Wyzwolenia"	120
+"WeKi10171"	"Wenesa"	"Kissk"	557	"557-477-24-510"	"mazowieckie"	"39-310"	"Kamieniec"	"ul. Armii Krajowej"	152
+"Wela19619"	"Wenesa"	"lapka vel lapa"	983	"983-719-49-20"	"slaskie"	"42-350"	"Wymyslanka"	"Al. Wojska Polskiego"	127
+"WeSm3474"	"Wespazjan"	"Smodla"	254	"254-115-83-28"	"dolnoslaskie"	"63-304"	"lodz"	"ul. Baltycka"	28
+"WeWa17525"	"Wendelin"	"Wasylkowicz"	887	"887-313-27-810"	"lubuskie"	"34-113"	"Piekary slaskie"	"Pl. swietego Maksymiliana Meczennika"	151
+"WiAl7074"	"Wilhelm"	"Alfirenko"	415	"415-218-28-13"	"mazowieckie"	"93-304"	"Chorzow"	"Al. Wlokniarzy"	18
+"WiDa18286"	"Wioletta"	"Dadaczynski"	924	"924-327-42-68"	"lodzkie"	"67-210"	"Siemiatycze"	"Os. Kosciuszkowskie"	50
+"WiDo6473"	"Wierzchoslaw"	"Dobrzanski"	387	"387-914-33-610"	"wielkopolskie"	"85-473"	"Kotlarnia"	"ul. 9 Maja"	130
+"WiDr3435"	"Wiera"	"Drzedowska"	251	"251-848-49-77"	"dolnoslaskie"	"00-669"	"Nowa Sol"	"ul. 17 Marca"	61
+"WiFa6237"	"Witold"	"Farganas"	377	"377-246-87-99"	"zachodniopomorskie"	"59-300"	"zrobki"	"ul. Arciszewskiego Krzysztofa"	152
+"WiGa17237"	"Witalis"	"Gagierowa"	874	"874-328-91-66"	"zachodniopomorskie"	"39-332"	"Plock"	"Grobla laniewska"	127
+"WiGd102"	"Witomil"	"Gdul"	105	"105-122-31-47"	"dolnoslaskie"	"88-106"	"swidnica"	"ul. Agrestowa"	75
+"WiGo1183"	"Witoslawa"	"Goliszek"	154	"154-532-77-38"	"warminsko-mazurskie"	"60-242"	"Koszoly"	"ul. Babiogorska"	12
+"WiGo6240"	"Wiktoryna"	"Gomet"	377	"377-466-81-95"	"swietokrzyskie"	"18-400"	"Branew"	"Os. Lesisko"	111
+"WiGr12197"	"Wioletta"	"Gritzman"	648	"648-221-92-71"	"malopolskie"	"73-110"	"Szpice-Chojnowo"	"Pl. Inwalidow"	111
+"WiGr12472"	"Wiaczeslaw"	"Grewkiewicz"	659	"659-894-41-310"	"zachodniopomorskie"	"63-700"	"Wyszyna Falkowska"	"Schr. Schronisko Perla Zachodu"	38
+"WiGr18300"	"Wiktoryn"	"Grzuchowski"	924	"924-686-21-110"	"swietokrzyskie"	"26-604"	"Drygulec"	"Al. Jerozolimskie"	51
+"WiHe15287"	"Wieceslaw"	"Hereza"	788	"788-175-63-87"	"podlaskie"	"61-108"	"zytnik"	"Skw. Osiedlowy"	109
+"WiIg11172"	"Wilhelmina"	"Ignor"	602	"602-677-35-19"	"podkarpackie"	"20-079"	"Mostowo"	"ul. 1 Maja"	68
+"WiJa1706"	"Witold"	"Janykiewicz"	176	"176-664-13-67"	"podlaskie"	"41-300"	"Opole"	"Pl. Brama Portowa"	84
+"WiKo17605"	"Wiecemila"	"Kolodziec"	891	"891-913-54-35"	"dolnoslaskie"	"43-250"	"Mozgowina"	"ul. Ariadny"	129
+"WiKo7338"	"Wiktorian"	"Kochen"	426	"426-949-35-98"	"wielkopolskie"	"99-300"	"Niedzialy"	"Droga Kreta"	63
+"WiKo9686"	"Wiaczeslaw"	"Korac"	534	"534-817-84-43"	"slaskie"	"72-343"	"Poznan"	"Pl. Mariacki"	53
+"WiKo9817"	"Wilhelmina"	"Kozuszonek"	541	"541-113-57-15"	"pomorskie"	"69-113"	"Gliwice"	"Al. Raclawickie"	83
+"WiKu16502"	"Wilibald"	"Kuniega"	842	"842-412-81-27"	"podlaskie"	"01-452"	"Ranty"	"Os. Piastow"	52
+"WiKu437"	"Wiwanna"	"Kumelski"	119	"119-381-76-84"	"slaskie"	"39-340"	"Strzegowo"	"Os. Mistrzejowice Nowe"	116
+"WiLu9228"	"Wiktoryna"	"Lueftner"	514	"514-342-18-16"	"swietokrzyskie"	"06-430"	"Helenow"	"ul. Bajana Jerzego"	106
+"WiMa8361"	"Winicjusz"	"Marciniewski"	475	"475-584-81-32"	"opolskie"	"13-230"	"Szydlowiec"	"ul. Artylerzystow"	27
+"WiMi15495"	"Wielislaw"	"Michla"	797	"797-371-54-36"	"malopolskie"	"47-100"	"Jaslo"	"Al. Palki Grzegorza"	4
+"WiMu17922"	"Witomil"	"Musztafa"	906	"906-529-46-35"	"opolskie"	"04-533"	"Dziadow Most"	"Pl. Dabrowskiego Jaroslawa"	77
+"WiMy8747"	"Wiwanna"	"Mylych"	493	"493-864-35-50"	"pomorskie"	"83-240"	"Zabrze"	"ul. 1000-Lecia"	79
+"WiNi3572"	"Wieslawa"	"Nielubszyc"	258	"258-326-41-610"	"wielkopolskie"	"41-303"	"Darlowo"	"ul. Bajeczna"	18
+"WiOt6029"	"Wit"	"Ottenlinger"	367	"367-937-99-58"	"slaskie"	"42-674"	"Siaszyce"	"ul. Armii Krajowej"	122
+"WiPi16211"	"Wilibald"	"Pierzca"	828	"828-139-89-51"	"podkarpackie"	"66-218"	"Branew"	"ul. 11 Listopada"	141
+"WiPo7245"	"Wielislawa"	"Porzbot"	423	"423-414-45-81"	"mazowieckie"	"22-174"	"Krakow"	"Os. Tysiaclecia"	108
+"WiPr19246"	"Wiktoryn"	"Przecherka"	966	"966-492-72-36"	"mazowieckie"	"27-400"	"Zbrudzewo"	"Al. Jana Pawla II"	112
+"WiPu9534"	"Wierzchoslawa"	"Pupin"	528	"528-241-78-53"	"lodzkie"	"06-540"	"Kosewo"	"Al. Ossolinskich"	92
+"WiRo6396"	"Wierzchoslawa"	"Rozej"	384	"384-372-31-68"	"lubuskie"	"05-400"	"Zabrze"	"Pl. Wyzwolenia"	66
+"WiSk19277"	"Winicjusz"	"Skiernik"	967	"967-699-53-64"	"wielkopolskie"	"83-324"	"Krakow"	"ul. Andersa Wladyslawa"	59
+"WiSt14064"	"Wit"	"Stompur"	734	"734-781-51-91"	"swietokrzyskie"	"37-620"	"lodz"	"ul. Astronomiczna"	103
+"WiSt14563"	"Wierzchoslaw"	"Stubba"	756	"756-622-85-13"	"dolnoslaskie"	"80-041"	"Dobrzyn"	"Os. Tysiaclecia"	43
+"WiSt15519"	"Wiera"	"Stroniarczyk"	798	"798-336-83-87"	"podkarpackie"	"86-320"	"Zielona Gora"	"Park 3 Maja"	102
+"WiSt6556"	"Wielislawa"	"Stal"	392	"392-157-48-78"	"malopolskie"	"55-340"	"swietochlowice"	"Pl. Sloneczny"	6
+"WiSz8044"	"Wincenta"	"Szirmak"	459	"459-493-54-88"	"podlaskie"	"22-664"	"Glaznow"	"Os. Tysiaclecia"	124
+"WiTa13870"	"Witalis"	"Tatyrata"	726	"726-536-94-14"	"mazowieckie"	"97-512"	"zeromin"	"Os. Piastowskie"	63
+"WiWi19048"	"Wilibald"	"Windakiewicz"	957	"957-221-48-18"	"dolnoslaskie"	"99-235"	"lodz"	"Os. Czecha"	117
+"WlBl218"	"Wlodziwoj"	"Blazeczyk"	109	"109-335-46-35"	"podkarpackie"	"78-627"	"Lipiny Dolne"	"Al. Gen. Sikorskiego Wladyslawa"	50
+"WlFl11057"	"Wlodzislawa"	"Flockton"	597	"597-537-64-40"	"mazowieckie"	"63-708"	"Gliwice"	"ul. 23 Marca"	58
+"WlGr19642"	"Wlodzislawa"	"Grosnik"	984	"984-685-69-93"	"slaskie"	"11-220"	"Kowalewo-Solectwo"	"ul. 11 Listopada"	59
+"WlKa553"	"Wladyslaw"	"Karatowicz"	125	"125-225-78-45"	"dolnoslaskie"	"43-230"	"Bachmackie Kolonie"	"ul. Akacjowa"	142
+"WlKn19880"	"Wladyslaw"	"Knebajska"	995	"995-376-67-47"	"podkarpackie"	"96-512"	"Ruda slaska"	"Pl. Dabrowskiego Jana Henryka (Generala Jana Henryka Dabrowskiego)"	113
+"WlKo18184"	"Wlodzislaw"	"Kowzalow"	918	"918-653-84-21"	"malopolskie"	"03-238"	"Nysa"	"ul. Armii Krajowej"	32
+"WlKu15070"	"Wloscislawa"	"Kuciolek"	778	"778-522-67-58"	"lubelskie"	"87-630"	"Budy Gizynskie"	"Os. Sloneczne"	18
+"WlSt6333"	"Wlodzimir"	"Stupakiewicz"	382	"382-172-93-99"	"mazowieckie"	"62-053"	"Sosnowiec"	"ul. Armii Krajowej"	137
+"WlSw11292"	"Wloscibor"	"Swiezanska"	607	"607-472-74-57"	"pomorskie"	"47-100"	"Przewloka"	"Os. Na Stoku"	111
+"WlZa6019"	"Wladyslaw"	"Zahajewicz"	367	"367-248-85-12"	"wielkopolskie"	"70-806"	"Glinno"	"Al. Stanow Zjednoczonych"	112
+"WoCz10882"	"Wojmir"	"Czlokowska"	589	"589-516-87-13"	"dolnoslaskie"	"84-312"	"Kolobrzeg"	"Os. Kazimierzowskie"	109
+"WoGi10128"	"Wolmar"	"Ginkowski"	555	"555-455-12-36"	"warminsko-mazurskie"	"11-400"	"Widok"	"ul. Baczynskiego Krzysztofa Kamila"	117
+"WoJa5408"	"Wojciecha"	"Jadlos"	341	"341-696-55-810"	"malopolskie"	"15-628"	"Polkajny"	"Al. Wojska Polskiego"	155
+"WoLu2406"	"Wojslawa"	"Lungocz"	206	"206-353-45-86"	"slaskie"	"67-400"	"Doly"	"ul. Akacjowa"	128
+"WrBr17012"	"Wrzeslawa"	"Brylecki"	864	"864-943-95-69"	"lodzkie"	"16-420"	"Pinczyn"	"Park zeromskiego Stefana"	154
+"WrGr10946"	"Wrocislaw"	"Grzedziela"	592	"592-852-88-85"	"dolnoslaskie"	"97-320"	"Adelinow"	"ul. Augustow"	72
+"WrLa9864"	"Wrocimir"	"Lasowert"	542	"542-882-45-14"	"podkarpackie"	"63-507"	"Bydgoszcz"	"Os. Na Skarpie"	5
+"WrMi6228"	"Wrzeslawa"	"Milonski"	376	"376-813-96-87"	"lodzkie"	"33-314"	"Katowice"	"ul. Barlickiego Norberta"	144
+"WrPe4206"	"Wrocislawa"	"Pergulak"	286	"286-691-53-91"	"dolnoslaskie"	"05-504"	"Lublin"	"Al. Jaworowa"	77
+"WrRo7615"	"Wrzeslawa"	"Rogzik"	441	"441-215-89-71"	"slaskie"	"43-187"	"Wroclaw"	"Al. Okulickiego Leopolda (Generala Leopolda Okulickiego)"	23
+"WrSi14335"	"Wrocislaw"	"Siernianis"	746	"746-934-95-31"	"mazowieckie"	"43-503"	"Dzialdowo"	"ul. Baltycka"	85
+"WrSz11546"	"Wrocimir"	"Szymaik"	618	"618-812-59-28"	"lodzkie"	"62-070"	"Mosciska Male"	"ul. Akacjowa"	122
+"WrSz6274"	"Wrzeslawa"	"Szygocki"	378	"378-763-27-65"	"dolnoslaskie"	"99-435"	"Gniewowo"	"Skw. Niepodleglosci"	153
+"Wrza14298"	"Wrocimir"	"zarudna"	745	"745-276-86-80"	"malopolskie"	"49-156"	"Starczewo-Pobodze"	"Pl. Uniwersytecki"	11
+"WsGo3473"	"Wszebora"	"Gorki"	253	"253-889-82-97"	"kujawsko-pomorskie"	"99-320"	"Poznan"	"ul. Barcza Franciszka"	139
+"WsKr5176"	"Wszebor"	"Kropis"	331	"331-558-42-43"	"podlaskie"	"05-555"	"Debowka"	"Pl. zwirki i Wigury"	62
+"WsMa17721"	"Wszeciech"	"Malanczyn"	896	"896-339-21-410"	"dolnoslaskie"	"75-108"	"Wegleszyn-Ogrody"	"Pl. Wolnosci"	147
+"WsMi18013"	"Wszemil"	"Milion"	911	"911-289-91-86"	"mazowieckie"	"88-100"	"Krakow"	"ul. Bardowskiego Piotra"	62
+"WsPa12908"	"Wszemil"	"Pasztur"	681	"681-263-82-33"	"podkarpackie"	"44-330"	"Wegorzewo Koszalinskie"	"ul. 14 Lutego"	63
+"WsRu15369"	"Wszerad"	"Rupiewicz"	791	"791-813-85-510"	"zachodniopomorskie"	"55-330"	"Gdynia"	"ul. Adwentowicza Karola"	50
+"WsTo5554"	"Wszebad"	"Tolino"	347	"347-849-22-37"	"zachodniopomorskie"	"87-404"	"Pila"	"ul. Barlickiego Norberta"	25
+"WyCa15839"	"Wyszeniega"	"Catko"	812	"812-382-89-96"	"mazowieckie"	"21-222"	"Sokolka"	"Stacja Metra swietokrzyska"	155
+"WyFr3254"	"Wyszeslawa"	"Frelikowski"	243	"243-261-74-93"	"zachodniopomorskie"	"12-130"	"Czachy"	"ul. Andersa Wladyslawa (Generala Wladyslawa Andersa)"	89
+"WyGa1806"	"Wyszeniega"	"Galkowski"	179	"179-913-85-67"	"wielkopolskie"	"32-210"	"zmijowiec"	"Al. Karkonoska"	138
+"zaBl12860"	"zalina"	"Blejzyk"	678	"678-633-91-97"	"lodzkie"	"96-200"	"Bydgoszcz"	"Os. Zlota Podkowa"	102
+"zaBr4406"	"zaklina"	"Brozda"	295	"295-268-49-46"	"kujawsko-pomorskie"	"47-300"	"Rybnik"	"ul. 1 Maja"	12
+"ZaJa18241"	"Zachariasz"	"Jagiello vel Jagielska"	922	"922-166-77-82"	"mazowieckie"	"41-819"	"Rzeszow"	"ul. 11 Listopada"	122
+"zaKo15891"	"zalina"	"Kozwial"	815	"815-229-35-90"	"malopolskie"	"28-305"	"Gliwice"	"Schr. Debowiec"	149
+"zaMi9845"	"zalina"	"Misiewski"	542	"542-228-11-88"	"mazowieckie"	"16-040"	"Ostrow Wielkopolski"	"ul. 15 Sierpnia"	138
+"zaMo4111"	"zanna"	"Mokszanski"	282	"282-939-83-23"	"lubelskie"	"43-382"	"Siewierz"	"ul. 1 Maja"	106
+"ZaNi18823"	"Zawisza"	"Niczweda"	947	"947-172-94-52"	"zachodniopomorskie"	"95-069"	"Glubczyce"	"ul. Agrestowa"	134
+"ZbBo5890"	"Zbislaw"	"Bogdon"	361	"361-962-97-51"	"kujawsko-pomorskie"	"41-400"	"Tarnobrzeg"	"Al. Jana Pawla II"	100
+"ZbBu15357"	"Zbigniewa"	"Budnar"	791	"791-464-88-33"	"slaskie"	"89-110"	"Pila"	"ul. Alvy Edisona Thomasa"	14
+"ZbDo19848"	"Zbyslawa"	"Dolarski"	993	"993-944-18-51"	"lodzkie"	"41-506"	"Nadroz"	"ul. Archimedesa"	145
+"ZbFa6468"	"Zbigniewa"	"Faterkowski"	387	"387-598-45-55"	"dolnoslaskie"	"40-855"	"Warszawa"	"ul. Baranowicka"	36
+"ZbKa18575"	"Zbigniew"	"Kajraniec"	935	"935-985-64-89"	"mazowieckie"	"62-850"	"Warenka"	"ul. Ametystowa"	110
+"ZbKl14288"	"Zbigniewa"	"Klokoc"	744	"744-912-41-83"	"lubuskie"	"05-807"	"Druzykowa"	"ul. Adamczyka Ferdynanda"	28
+"ZbLa2984"	"Zbroslaw"	"Lamenta"	232	"232-485-71-77"	"kujawsko-pomorskie"	"03-540"	"Warszawa"	"ul. 1 Maja"	19
+"ZbPa6501"	"Zbislaw"	"Pagonowski"	388	"388-968-65-72"	"malopolskie"	"61-407"	"Stara Wies Trzecia"	"ul. Balkanska"	99
+"ZbSp7717"	"Zbyszko"	"Spryndrakis"	445	"445-886-86-94"	"slaskie"	"28-100"	"Warszawa"	"ul. 1 Maja"	67
+"ZdDo2118"	"Zdzimir"	"Dobrynczuk"	193	"193-691-53-62"	"slaskie"	"55-200"	"Wilcze Jary"	"Stacja Metra Marymont"	84
+"ZdSt1299"	"Zdobyslaw"	"Steen"	158	"158-893-78-83"	"warminsko-mazurskie"	"63-006"	"Kamionka"	"ul. Akacjowa"	116
+"ZeKo549"	"Zelmira"	"Kowla"	124	"124-971-94-31"	"warminsko-mazurskie"	"14-241"	"Plock"	"Al. Debowa"	60
+"ZeNi4768"	"Zenobiusz"	"Niszczezewska"	312	"312-668-21-34"	"zachodniopomorskie"	"43-180"	"Nieklonice"	"Al. Karkonoska"	145
+"ZePe3625"	"Zelmira"	"Penczyk"	261	"261-583-59-96"	"warminsko-mazurskie"	"32-300"	"zyrardow"	"ul. 20 Stycznia"	118
+"Zesw16716"	"Zenobia"	"swidryk"	852	"852-112-59-90"	"lubelskie"	"83-230"	"Wroclaw"	"Al. Pilsudskiego Jozefa (Marszalka Jozefa Pilsudskiego)"	76
+"ZiCi18673"	"Ziemowit"	"Ciuciera"	941	"941-335-65-98"	"lodzkie"	"11-135"	"Nowe Orzechowo"	"Skw. Modrzejewskiej Heleny"	130
+"ZiCz7188"	"Ziemowit"	"Czaprowicz"	419	"419-842-72-45"	"mazowieckie"	"55-300"	"Bozydar"	"ul. 1 Maja"	133
+"ZiWd11652"	"Ziemislaw"	"Wdowka"	623	"623-665-99-79"	"wielkopolskie"	"58-300"	"Rzeszow"	"Pl. Mieszka I"	141
+"ZoKo8574"	"Zofia"	"Kolobko"	485	"485-513-52-42"	"slaskie"	"62-430"	"Szalsza"	"ul. Asnyka Adama"	19
+"ZoMe946"	"Zorian"	"Melonik"	143	"143-952-74-33"	"wielkopolskie"	"95-080"	"Drogomysl"	"ul. Albatrosow"	84
+"ZoOl8820"	"Zorian"	"Olej"	497	"497-241-75-11"	"wielkopolskie"	"71-003"	"Warszawa"	"Os. Piastowskie"	142
+"ZyGo15964"	"Zygmunt"	"Gohra"	817	"817-987-92-58"	"lubuskie"	"16-400"	"Wroblowice"	"Pl. Pod Lipami"	83
+"zyKo18491"	"zywia"	"Konutek"	933	"933-153-54-55"	"zachodniopomorskie"	"63-410"	"Legnica"	"ul. A18"	129
+"zyMa14868"	"zywislaw"	"Marszowicka"	769	"769-558-82-68"	"wielkopolskie"	"58-562"	"Emilianow"	"ul. Akacjowa"	146
+"zySz3896"	"zytomir"	"Szkabrat"	273	"273-263-16-23"	"dolnoslaskie"	"11-731"	"Babsk"	"Al. Jana Pawla II"	84

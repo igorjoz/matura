@@ -1,0 +1,9 @@
+"id_asortymentu"	"nazwa_asortymentu"	"cena_jenostkowa"
+"EG"	"Wegiel Eko Groszek PROMETEUSZ (tona)"	859,00 z³
+"EGE"	"Wegiel Eko Groszek MAGNUM (tona)"	799,00 z³
+"EGS"	"Wegiel Eko Groszek SILESIAN (tona)"	919,00 z³
+"K"	"Wegiel - Koks (tona)"	1159,00 z³
+"M"	"Mial weglowy (tona)"	569,00 z³
+"O"	"Wegiel asortymentu Orzech (tona)"	819,00 z³
+"OO"	"Olej opalowy (1000 litrow)"	3520,00 z³
+"PE"	"Pellet drzewny (tona)"	880,00 z³

@@ -1,0 +1,28 @@
+5.1.:
+nigero-kongijska	137
+austronezyjska	65
+indoeuropejska	63
+sino-tybetanska	43
+nilo-saharyjska	30
+afroazjatycka	28
+dajska	23
+austroazjatycka	20
+turecka	15
+drawidyjska	15
+jezyk izolowany	8
+polnocno-wschodniokaukaska	7
+otomang	7
+mongolska	5
+majanska	5
+hmong-mien	4
+abchasko-adygijska	3
+uralska	3
+tupi	1
+keczua	1
+algijska	1
+uto-aztecka	1
+na-dene	1
+tungusko-mandzurska	1
+
+5.2.:
+445 - tyle jest języków które nie są językami urzędowymi w żadnym państwie

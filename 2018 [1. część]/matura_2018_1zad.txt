@@ -1,0 +1,16 @@
+﻿1:
+dla n=28: 4
+dla n=64: 4
+dla n=80: 5
+	*Najlepiej zrobić z pomocą tabelki
+
+2:
+dla wyniku p=10
+Najmniejsza możliwa n: 730
+Najwieksza możliwa n:  1000
+	*A potem zauważyć korelację między wynikami
+
+3: Odp.: A - poniżej 2*log(2)n
+	*Wszystkie inne odpowiedzi są na pewno fałszywe, więc można dojść do tego metodą eliminacji.
+	Albo obliczyć logarytm - dla n=64, będzie to 2*log(2)64 = 2*log(2) 2^6;
+	2 * log(2) 2^6 = 2x; 2^x = 2^6; x = 6; 2x = 12; Czyli odp. A to poniżej 12 razy, co się zgadza (była wykonana w tabelce około 5 razy)
