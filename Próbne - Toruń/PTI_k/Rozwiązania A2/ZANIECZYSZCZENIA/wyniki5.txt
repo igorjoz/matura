@@ -1,0 +1,62 @@
+5.1
+ma³opolskie	PL1203	strefa ma³opolska  MpBrzeszKosc	64,3
+
+5.2
+œl¹skie	1585,48
+2016	943,576
+2017	1585,48
+kujawsko-pomorskie	1386,3
+2016	765,2
+2017	1386,3
+³ódzkie	941,38
+2016	614,68
+2017	941,38
+wielkopolskie	749,96
+2016	440,4
+2017	749,96
+dolnoœl¹skie	676,057
+2016	676,057
+2017	664,586
+ma³opolskie	659,1
+2016	630,655
+2017	659,1
+œwiêtokrzyskie	626
+2016	346
+2017	626
+podkarpackie	601,101
+2016	314,034
+2017	601,101
+lubelskie	560,232
+2016	551,0615
+2017	560,232
+mazowieckie	552,7412
+2016	552,7412
+2017	399,273002
+opolskie	526,711
+2016	297,454
+2017	526,711
+pomorskie	488
+2016	488
+2017	351,908
+podlaskie	486,7
+2016	486,7
+2017	383,8
+zachodniopomorskie	451,36
+2016	286,525
+2017	451,36
+lubuskie	410,36
+2016	337,333
+2017	410,36
+warmiñsko-mazurskie	368,058
+2016	264,509
+2017	368,058
+
+
+5.4
+wg pomiarów œrednich stê¿eñ py³u PM10 
+województwo pomorskie, najlepszy odnotowany indeks stanu jakoœci powietrza – bardzo dobry, 
+liczba odczytów – 11
+
+wg pomiarów maksymalnych stê¿eñ py³u PM10 
+województwo œl¹skie, najgorszy odnotowany indeks stanu jakoœci powietrza – bardzo z³y, 
+liczba odczytów – 32

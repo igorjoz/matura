@@ -1,0 +1,5 @@
+6.1.:
+	Najjasniejszy piksel: 221
+	Najciemniejszy piksel: 7
+------------------------------------
+

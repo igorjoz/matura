@@ -1,0 +1,11 @@
+4.1
+942
+
+4.2
+Numer gracza: 812
+Wynik: 265
+
+4.3
+Maksimum: 15
+Numery graczy:
+774

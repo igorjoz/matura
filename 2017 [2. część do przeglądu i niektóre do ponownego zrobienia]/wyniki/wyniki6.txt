@@ -1,0 +1,8 @@
+6.1.:	Najjasniejszy piksel: 221
+	Najciemniejszy piksel: 7
+
+6.2.:	Minimalna liczba wierszy do usuniecie: 149
+
+6.3.:	Ilosc kontrastujacych pikseli: 753
+
+6.4.:	Najdluzsza linia pionowa zlozona z pikseli tej samej jasnosci: 5
