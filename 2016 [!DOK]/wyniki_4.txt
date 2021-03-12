@@ -1,0 +1,12 @@
+4.1:
+punkty: (256, 8) i (200, 400)
+suma punktów wewnątrz koła: 7852
+
+4.2:
+pierwsze 1000: 3,2280
+pierwsze 5000: 3,1656
+wszystkie: 3,1416
+
+4.3
+e1000: 0,0864
+e1700: 0,0184
