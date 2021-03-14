@@ -1,15 +1,14 @@
 2.1.
-tablica po użyciu funkcji przestaw (A)
-dla A = {4, 6, 3, 5, 2, 1}
-wygląda następująco:
+tablica po użyciu funkcji przestaw (A) dla A = {4, 6, 3, 5, 2, 1}:
 A = {3, 2, 1, 5, 6, 4}
 
 2.2.
 Funkcja przestaw(A) 5 razy wykona zamień (siedmioelementowa tablica)
-A = {6, 7, 5, 4, 3, 2, 1}
+A = {10, 20, 1, 2, 3, 4, 5}
 
 2.3
 Pierwsze trzy elementy tablicy:
+w = 10
 A[1] == 9
 A[2] == 8
 A[3] == 7
