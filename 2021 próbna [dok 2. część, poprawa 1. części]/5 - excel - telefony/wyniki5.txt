@@ -1,0 +1,18 @@
+5.1.:
+numer	liczba_polaczen
+4546455	8
+3505978	7
+4657345	6
+
+5.2.: wykres w pliku 5.xlsx
+
+5.3:
+21 połączeń, trwających łącznie:
+3h i 12 minut
+
+5.4.:
+zagraniczne	967
+stały abonament	50
+komórkowe	240
+stacjonarne	610
+razem	1867
