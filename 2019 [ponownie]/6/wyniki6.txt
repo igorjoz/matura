@@ -1,28 +1,28 @@
-6.1:
+6.1.:
 Oyal Priather
 Ologne D'oud
 Uelques FleuE
 
-6.2:
-rodzina_zapachow	cena	nazwa_p
-aromatyczna	124	Ibrary Ollec D'amore
-orientalna	113	Anille La Tosca
-orientalna lagodna	122	Ndy Warhol S Rose
-kwiatowo-orientalna	103	Arla : Vivace
-cytrusowa	259	Sian Grad
-wodna	146	Ilver Mounaya
-owocowa	154	Ake Perfucturne
-skorzana	112	Ui Mare
-cytrusowo-aromatyczna	178	Re Nostrum,ir
-drzewna	123	Pperlee Bouquet
-pudrowa	139	Ivm Cristal
-kwiatowo-drzewna	104	Rougna
-orientalno-drzewna	138	LackNight
-zielona	406	EOman
-szyprowo-skorzana	158	Uir OtPlace
-kwiatowo-szyprowa	287	Etish Pothal
-szyprowa	226	Usk ti 1888
-kwiatowa	110	Ose Deurmaline
+6.2.:
+nazwa_p	family	min_price
+Ibrary Ollec D'amore	aromatyczna	124
+Anille La Tosca	orientalna	113
+Ndy Warhol S Rose	orientalna lagodna	122
+Arla : Vivace	kwiatowo-orientalna	103
+Sian Grad	cytrusowa	259
+Ilver Mounaya	wodna	146
+Ake Perfucturne	owocowa	154
+Ui Mare	skorzana	112
+Re Nostrum,ir	cytrusowo-aromatyczna	178
+Pperlee Bouquet	drzewna	123
+Ivm Cristal	pudrowa	139
+Rougna	kwiatowo-drzewna	104
+LackNight	orientalno-drzewna	138
+EOman	zielona	406
+Uir OtPlace	szyprowo-skorzana	158
+Etish Pothal	kwiatowo-szyprowa	287
+Usk ti 1888	szyprowa	226
+Ose Deurmaline	kwiatowa	110
 
 6.3:
 Aison Eranciro
@@ -31,8 +31,8 @@ Embert Lucas
 Enmith
 Nnick a Kieffo
 
-6.4:
-nazwa_p	po_obnizeniu_cenu
+6.4.:
+nazwa_p	new_price
 Ourn Boise	141,95
 Onou Back	222,7
 Pic An	230,35
@@ -42,8 +42,8 @@ Ibrary Ollec D'or	489,6
 Ate An	544,85
 Elov & Musc	660,45
 
-6.5:
-nazwa_m	rodzina_zapachow
+6.5.:
+marka	rodzina_zapachow
 Enmith	kwiatowo-orientalna
 Ightce	aromatyczna
 Issmkunstwerke	orientalna
