@@ -1,0 +1,28 @@
+5.1.: 2015 r.
+
+5.2.: 55 dni, od 17.03.2015 do 10.05.2015
+
+5.3.:
+miesiąc	dopływ
+styczeń	95433
+luty	94730
+marzec	109439
+kwiecień	632931
+maj	329203
+czerwiec	85628
+lipiec	166597
+sierpień	139747
+wrzesień	282342
+październik	170729
+listopad	222440
+grudzień	172072
+
+wykres w arkuszu "5.3 - wykres"
+
+5.4.:
+a) 19.04.2015
+b) 188
+c) 1399242
+
+
+*Uwaga w 5.4. b) --> formuła: =JEŻELI(C2-D2+B2<=1000000;C2-D2+B2;1000000*0,98+B2) --> po przepełnieniu trzeba jeszcze dodać dopływ
