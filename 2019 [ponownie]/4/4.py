@@ -1,92 +1,86 @@
-# 4.1 - ilość liczb, które są potęgami 3
-# alternatywne rozwiązanie zadania: stworzenie tablicy z potęgami liczby 3 do potrzebnego zakresu i sprawdzenie, czy liczba się w nim zawiera
-def isPowerOf3(number):
-    if number % 3 == 0 or number == 1:
-        while (True):
-            if number == 1:
-                return True
-            elif number < 1:
-                return False
-            else:
-                number /= 3
+from math import gcd
 
 
-# 4.2 - Silnia liczby
-def factorial(number):
-    result = 1
-    for i in range(1, number + 1):
-        result *= i
-    return result
+factorials = []
+factorialValue = 1
+factorials.append(1)
+for i in range(1, 10):
+    factorialValue *= i
+    factorials.append(factorialValue)
+print("factorials: ", factorials)
 
 
-# 4.2 - Czy liczba jest równa sumie silni cyfr
-def isNumberEqualToSumOfDigitsFactorials(number):
-    sum = 0
-    for letter in str(number):
-        sum += factorial(int(letter))
-    return sum == number
+def getSumOfFactorialsOfDigitsSum(num):
+    numStr = str(num)
+    sumValue = 0
+    for digit in numStr:
+        sumValue += factorials[int(digit)]
+    return sumValue
 
 
-# 4.3 - NWD - największy wspólny dzielnik
-def nwd(a, b):
-    while b:
-        a, b = b, a % b
-    return a
+outputFile = open("wyniki4.txt", "w")
 
+with open("liczby.txt") as inputFile:
+    nums = []
+    for line in inputFile.readlines():
+        nums.append(int(line.strip()))
+    print(nums)
 
-with open("liczby.txt", "r") as file:
-    lines = file.readlines()
-    # print(lines)
-    numbers = list(map(lambda string: int(string), lines))
-    # można tak, ale wystarczy sama zmiana na int
-    # numbers = list(map(lambda str: int(str[:-1]), lines))
-    # print(numbers)
+    # 4.1
+    powsOfThree = set()
+    powOfThree = 1
+    while powOfThree < 100000:
+        powsOfThree.add(powOfThree)
+        powOfThree *= 3
+    print(powsOfThree)
 
-    print("--- 4.1")
     counter = 0
-    for number in numbers:
-        if isPowerOf3(number):
+    for num in nums:
+        if num in powsOfThree:
             counter += 1
-            print(number, counter)
-    print("ilość liczb, które są potęgami 3:", counter)
+    print(counter)
 
-    print("--- 4.2")
-    print("liczby, które są równe sumie silni jej cyfr")
-    for number in numbers:
-        if isNumberEqualToSumOfDigitsFactorials(number):
-            print(number)
+    outputFile.write("4.1.: ")
+    outputFile.write(str(counter))
+    outputFile.write("\n\n")
 
-    print("---4.3")
-    counter = 1
-    streakStartNumber = 0
-    divider = 0
+    # 4.2
+    result2 = []
+    for num in nums:
+        sumOfFactorialsOfDigitsSum = getSumOfFactorialsOfDigitsSum(num)
+        if num == sumOfFactorialsOfDigitsSum:
+            print(num, sumOfFactorialsOfDigitsSum)
+            result2.append(num)
+    outputFile.write("4.2.:\n")
+    for num in result2:
+        outputFile.write(str(num))
+        outputFile.write("\n")
+    outputFile.write("\n")
 
-    maxCounter = 1
-    maxStreakStartNumber = 0
-    maxDivider = 0
+    # 4.3
+    maxSequenceLength = -1
+    maxFirstValue = -1
+    maxGcdValue = -1
 
-    i = 2
-    while i < len(numbers):
-        if counter == 1 and nwd(numbers[i - 1], numbers[i]) != 1:
-            i -= 1
-            streakStartNumber = numbers[i - 1]
-            divider = nwd(numbers[i - 1], numbers[i])
-            counter += 1
-        elif nwd(divider, nwd(numbers[i - 1], numbers[i])) != 1:
-            counter += 1
-            divider = nwd(divider, nwd(numbers[i - 1], numbers[i]))
-            # print(nwd(divider, nwd(numbers[i - 1], numbers[i])), "---", numbers[i - 1], numbers[i], "---", counter)
-        else:
-            if maxCounter < counter:
-                maxCounter = counter
-                maxStreakStartNumber = streakStartNumber
-                maxDivider = divider
-            counter = 1
-        i += 1
-    if maxCounter < counter:
-        maxCounter = counter
-        maxStreakStartNumber = streakStartNumber
-        maxDivider = divider
-    print("początek:", maxStreakStartNumber)
-    print("streak:", maxCounter)
-    print("divider:", maxDivider)
+    # brute solution, but matura practical part doesn't care about time complexity
+    for i in range(len(nums) - 1):
+        firstValue = nums[i]
+        sequenceLength = 2
+        gcdValue = gcd(nums[i], nums[i + 1])
+
+        for j in range(i + 2, len(nums)):
+            if gcd(gcdValue, nums[j]) == 1:
+                break
+            else:
+                sequenceLength += 1
+                gcdValue = gcd(gcdValue, nums[j])
+
+        if sequenceLength > maxSequenceLength:
+            maxSequenceLength = sequenceLength
+            maxFirstValue = firstValue
+            maxGcdValue = gcdValue
+
+    print(maxFirstValue, maxSequenceLength, maxGcdValue)
+    result3 = str(maxFirstValue) + " " + str(maxSequenceLength) + " " + str(maxGcdValue)
+    outputFile.write("4.3.: ")
+    outputFile.write(result3)

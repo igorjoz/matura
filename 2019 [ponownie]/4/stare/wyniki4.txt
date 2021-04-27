@@ -5,3 +5,8 @@
 145
 1
 40585
+
+4.3:
+pierwsza liczba ciągu: 31968
+długość: 150
+największy wspólny dzielnik: 74
