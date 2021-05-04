@@ -1,0 +1,23 @@
+5.1.:
+a)
+Rodzaj_meczu	ilość_meczów
+L	113
+P	25
+T	6
+
+b)
+rok	ilość_meczów
+2007	21
+
+5.2.:
+Nocne Pumy
+Zwinne Mewy
+
+5.3.:
+status	ilość
+draw	170
+lose	452
+win	579
+
+5.4.:
+22

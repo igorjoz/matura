@@ -1,0 +1,12 @@
+6.1.:
+najjasniejszy: 221
+najciemniejszy: 7
+
+6.2.:
+149
+
+6.3.:
+753
+
+6.4.:
+5
