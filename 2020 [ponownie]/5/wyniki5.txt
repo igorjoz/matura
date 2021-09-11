@@ -1,4 +1,5 @@
-5.1.:
+5.1:
+Rodzina	ilosc_jezykow
 nigero-kongijska	137
 austronezyjska	65
 indoeuropejska	63
@@ -17,12 +18,33 @@ majanska	5
 hmong-mien	4
 abchasko-adygijska	3
 uralska	3
-tupi	1
-keczua	1
-algijska	1
 uto-aztecka	1
 na-dene	1
 tungusko-mandzurska	1
+tupi	1
+algijska	1
+keczua	1
 
-5.2.:
-445 - tyle jest języków które nie są językami urzędowymi w żadnym państwie
+5.2:
+445
+
+5.3:
+angielski
+arabski
+gudzaracki
+tamilski
+
+5.4:
+Jezyk	Rodzina	ilosc_uzytkownikow_w_ameryce
+mandarynski	sino-tybetanska	3,1
+arabski	afroazjatycka	2,7
+tagalog	austronezyjska	1,9
+wietnamski	austroazjatycka	1,5
+nahuatl	uto-aztecka	1,4
+koreanski	jezyk izolowany	1,2
+
+5.5:
+Panstwo	Jezyk	percent_of_population
+Indonezja	jawajski	32,73
+Pakistan	pendzabski	40,44
+Etiopia	oromo	35,51
