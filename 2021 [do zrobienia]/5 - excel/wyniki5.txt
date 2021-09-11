@@ -1,5 +1,5 @@
-5.1.
-numer klienta	średnie zużycie na jedną osobę
+5.1:
+numer klienta	średnie zużycie na osobę
 07935	41,33
 05080	40
 00645	39,75
@@ -11,8 +11,9 @@ numer klienta	średnie zużycie na jedną osobę
 09468	37,75
 06866	36,75
 
-5.2.
-kod dzielnicy	suma
+* wcześniejszy błąd - średnie miesięczne zużycie zamiast sumy zużycia w ciągu roku
+
+5.2:
 BEM	54080
 BIA	61614
 BIE	56368
@@ -31,8 +32,8 @@ WLO	66372
 WOL	60523
 ZOL	62312
 
-5.3.
-kod dzielnicy	max
+5.3:
+dzielnica	maksymalne zużycie w ciągu miesiąca
 BEM	8108
 BIA	9274
 BIE	8475
@@ -51,8 +52,144 @@ WLO	9966
 WOL	9117
 ZOL	9417
 
-5.4.
-wykres w pliku
+5.4:
+wody zabraknie: lipiec 2026
 
-5.5.
-lipiec 2035 roku
+zestawienie:
+sty.20	54081
+lut.20	53807
+mar.20	53727
+kwi.20	86603
+maj.20	86484
+cze.20	118728
+lip.20	151022
+sie.20	118672
+wrz.20	86480
+paź.20	86386
+lis.20	54052
+gru.20	54143
+sty.21	54622
+lut.21	54346
+mar.21	54265
+kwi.21	87470
+maj.21	87349
+cze.21	119916
+lip.21	152533
+sie.21	119859
+wrz.21	87345
+paź.21	87250
+lis.21	54593
+gru.21	54685
+sty.22	55169
+lut.22	54890
+mar.22	54808
+kwi.22	88345
+maj.22	88223
+cze.22	121116
+lip.22	154059
+sie.22	121058
+wrz.22	88219
+paź.22	88123
+lis.22	55139
+gru.22	55232
+sty.23	55721
+lut.23	55439
+mar.23	55357
+kwi.23	89229
+maj.23	89106
+cze.23	122328
+lip.23	155600
+sie.23	122269
+wrz.23	89102
+paź.23	89005
+lis.23	55691
+gru.23	55785
+sty.24	56279
+lut.24	55994
+mar.24	55911
+kwi.24	90122
+maj.24	89998
+cze.24	123552
+lip.24	157156
+sie.24	123492
+wrz.24	89994
+paź.24	89896
+lis.24	56248
+gru.24	56343
+sty.25	56842
+lut.25	56554
+mar.25	56471
+kwi.25	91024
+maj.25	90898
+cze.25	124788
+lip.25	158728
+sie.25	124727
+wrz.25	90894
+paź.25	90795
+lis.25	56811
+gru.25	56907
+sty.26	57411
+lut.26	57120
+mar.26	57036
+kwi.26	91935
+maj.26	91807
+cze.26	126036
+lip.26	160316
+sie.26	125975
+wrz.26	91803
+paź.26	91703
+lis.26	57380
+gru.26	57477
+sty.27	57986
+lut.27	57692
+mar.27	57607
+kwi.27	92855
+maj.27	92726
+cze.27	127297
+lip.27	161920
+sie.27	127235
+wrz.27	92722
+paź.27	92621
+lis.27	57954
+gru.27	58052
+sty.28	58566
+lut.28	58269
+mar.28	58184
+kwi.28	93784
+maj.28	93654
+cze.28	128570
+lip.28	163540
+sie.28	128508
+wrz.28	93650
+paź.28	93548
+lis.28	58534
+gru.28	58633
+sty.29	59152
+lut.29	58852
+mar.29	58766
+kwi.29	94722
+maj.29	94591
+cze.29	129856
+lip.29	165176
+sie.29	129794
+wrz.29	94587
+paź.29	94484
+lis.29	59120
+gru.29	59220
+sty.30	59744
+lut.30	59441
+mar.30	59354
+kwi.30	95670
+maj.30	95537
+cze.30	131155
+lip.30	166828
+sie.30	131092
+wrz.30	95533
+paź.30	95429
+lis.30	59712
+gru.30	59813
+
+wykres w pliku z rozwiązaniem
+
+5.5:
+po uwzględnieniu inwestycji wody zabraknie: lipiec 2035
