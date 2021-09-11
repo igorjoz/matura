@@ -1,0 +1,13 @@
+6.1.: T4 był załadowany największą ilość razy; łączna masa załadunku T4 wynosi 905 ton
+
+6.2.: Ilość dni, gdy statek przebywał więcej niż 20 pełnych dni na morzu, bez zawijania do portów, to 22
+
+6.3.:
+W dniu 2016-02-01: najwięcej T2 - 48 ton; najmniej T4 - 24 tony
+W dniu 2018-08-01: najwięcej T5 - 125 ton; najmniej T1 - 3 tony
+
+6.4.: wykres w pliku wykres.png
+
+6.5.:
+a) 18 grudnia 2018 roku kapitan miał 545844 talarów; 08.10.2018 r. miał najwięcej talarów i ta suma wynosiła 550079 talarów
+b) aby zapłacić za każdy załadunek każdego dnia, kapitan powinien mieć przed pierwszym rejsem 6399 talarów
