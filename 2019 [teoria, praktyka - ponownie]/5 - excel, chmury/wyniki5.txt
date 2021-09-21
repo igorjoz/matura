@@ -1,0 +1,22 @@
+5.1:
+63
+
+5.2:
+pierwszy dzień: 448
+ostatni dzień: 455
+
+5.3:
+wykres w pliku excel
+
+5.4:
+a)
+wielkość chmury	ilość dni
+0	34
+1	102
+2	102
+3	102
+4	100
+5	60
+
+b) 296
+c) 286
