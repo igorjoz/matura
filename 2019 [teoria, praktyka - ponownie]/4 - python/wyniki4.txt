@@ -1,0 +1,13 @@
+4.1:
+18
+
+4.2:
+2
+145
+1
+40585
+
+4.3:
+pierwsza liczba ciagu 31968
+dlugosc 150
+najwiekszy wspolny dzielnik 74
