@@ -1,0 +1,33 @@
+6.1:
+Pojemnosc_dysku	count
+300	173
+200	31
+500	31
+800	29
+700	28
+600	26
+400	20
+290	11
+160	10
+220	10
+
+6.2:
+Numer_komputera	liczba_wymian
+42	11
+123	11
+171	12
+202	12
+
+6.3:
+sekcja: Q
+data: 23.12.2015
+
+6.4:
+numer zgłoszenia: 2087
+czas wystąpienia awarii: 06.11.2015 12:38:46
+czas zakończenia ostatniej naprawy: 13.11.2015 12:38:32
+
+* wcześniejszy błąd - obliczenie różnicy czasu między najwcześniejszą i najpóźniejszą naprawą, a nie różnicy między awarią, a ostatnią naprawą
+
+6.5:
+149
