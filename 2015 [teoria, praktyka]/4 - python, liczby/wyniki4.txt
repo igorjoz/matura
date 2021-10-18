@@ -1,0 +1,9 @@
+4.1: 422
+
+4.2:
+Podzielne przez 2: 500
+Podzielne przez 8: 123
+
+4.3:
+wiersz najmniejszej wartoœci: 859
+wiersz najwiêkszej wartoœci: 925
