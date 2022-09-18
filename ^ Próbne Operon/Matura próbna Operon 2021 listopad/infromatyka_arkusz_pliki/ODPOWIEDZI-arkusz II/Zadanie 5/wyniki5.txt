@@ -1,0 +1,62 @@
+5.1.
+A  95052600643
+B  95100700282
+C  95121002200
+H  94063002080
+
+5.2
+przedmiot	liczba zdających	średnia
+Biologia-R	40			66,60
+Chemia-R	33			59,55
+Fizyka-R	27			63,26
+Geografia-R	32			65,56
+Historia-R	20			77,80
+Informatyka-R	5			77,20
+Angielski-P	146			92,71
+Angielski-R	101			77,64
+Francuski-P	5			79,40
+Francuski-R	2			80,50
+Hiszpański-P	19			89,89
+Hiszpański-R	20			70,20
+Niemiecki-P	5			98,40
+Niemiecki-R	2			79,50
+Matematyka-P	152			73,79
+Matematyka-R	61			59,44
+Polski-P	152			61,91
+Polski-R	53			67,55
+WOS-R		19			56,32
+
+5.3
+p. punktowy	liczba osób	procent uczniów
+0-30	0	0,00%
+31-50	17	11,18%
+51-75	59	38,82%
+76-90	42	27,63%
+91-99	27	17,76%
+100	7	4,61%
+
+5.4
+	Matematyka-P	Polski-P
+K	71,49	 	62,41
+M	77,94	 	60,79
+
+5.5
+A		12
+	K	11
+	M	1
+
+B		25
+	K	18
+	M	7
+
+C		12
+	K	9
+	M	3
+
+E		27
+	K	6
+	M	21
+
+H		14
+	K	13
+	M	1

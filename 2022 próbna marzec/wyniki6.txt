@@ -1,0 +1,113 @@
+6.1:
+1a	30,00%
+1e	27,27%
+1h	27,27%
+1i	29,03%
+
+6.2:
+najmniej punktów:
+Imie	Nazwisko	Klasa	Suma
+Dominika	Złotowska	1a	12
+
+najwięcej punktów:
+Imie	Nazwisko	Klasa	Suma
+Marta	Błachnio	1g	50
+Maciej	Lebioda	1a	50
+Dagmara	Różańska	1b	50
+Lidia	Zmitrowicz	1e	50
+
+6.3:
+ID_pytania	Punkty	Count
+p_1	1	35
+p_1	2	41
+p_1	3	47
+p_1	4	51
+p_1	5	47
+p_1	6	42
+p_10	1	37
+p_10	2	47
+p_10	3	38
+p_10	4	48
+p_10	5	46
+p_10	6	47
+p_2	1	51
+p_2	2	55
+p_2	3	62
+p_2	4	43
+p_2	5	52
+p_3	1	64
+p_3	2	52
+p_3	3	50
+p_3	4	43
+p_3	5	54
+p_4	1	69
+p_4	2	62
+p_4	3	62
+p_4	4	70
+p_5	1	60
+p_5	2	46
+p_5	3	42
+p_5	4	57
+p_5	5	58
+p_6	1	79
+p_6	2	62
+p_6	3	62
+p_6	4	60
+p_7	1	67
+p_7	2	66
+p_7	3	69
+p_7	4	61
+p_8	1	37
+p_8	2	40
+p_8	3	63
+p_8	4	38
+p_8	5	42
+p_8	6	43
+p_9	1	63
+p_9	2	63
+p_9	3	40
+p_9	4	49
+p_9	5	48
+
+6.5:
+najłatwiejsze pytanie:
+ID_pytania	procent
+p_4	63%
+
+najtrudniejsze pytanie:
+ID_pytania	procent
+p_9	56,65
+
+6.6:
+Agnieszka Witt 1f	52
+Marta Szews 1e	49
+Róża Fac 1h	47
+Marika Maszudzińska 1c	43
+Monika Komisarek 1j	41
+Zuzanna Rywak 1e	39
+Agata Nowicka 1h	38
+Dominika Urbańska 1f	38
+Magdalena Gaca 1g	37
+Patrycja Kempka 1f	36
+Stefania Zduńczuk 1c	32
+Anna Urbańska 1g	31
+Agata Krasińska 1e	31
+Magdalena Sawczuk 1f	30
+Dorota Jurek 1c	30
+Mateusz Mikołajczak 1h	28
+Aleksander Szews 1a	24
+Stefan Perszka 1c	24
+Michał Chojnacki 1d	24
+Justyna Bartoszek 1b	24
+Arkadiusz Czerniak 1b	23
+Wojciech Marciniak 1i	22
+Natalia Maćkowska 1h	22
+Maja Augustyńska 1g	22
+Karolina Kaptur 1f	19
+Aleksandra Garczyńska 1a	19
+Tomasz Chmielewski 1e	15
+Mateusz Kamiński 1j	15
+Miriam Dąbrowska 1i	11
+Aleksandra Sztejka 1f	9
+Małgorzata Łobocka 1b	5
+Kacper Tabaka 1i	5

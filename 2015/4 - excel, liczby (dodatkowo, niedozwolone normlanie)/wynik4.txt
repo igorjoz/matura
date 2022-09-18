@@ -1,0 +1,9 @@
+4.1: 422
+
+4.2:
+podzielne przez 2: 500
+podzielne przez 8: 123
+
+4.3:
+wiersz największej liczby: 925
+wiersz najmniejszej liczby: 859

@@ -1,0 +1,30 @@
+6.1
+RODZAJ_UMOWY	ILOŚĆ
+D		29
+N		150
+P		19
+Z		43
+
+6.2
+Julita Winkowska
+
+6.3
+Martyna Kawczyńska
+
+6.4
+Michał Chmielarski
+Krzysztof Gębski
+Daria Grzelak
+Magdalena Kaca
+Anna Kaźmierczak
+Patrycja Kempka
+Marta Kęsikowska
+Monika Komisarek
+Robert Konitz
+Hanna Lejer
+Monika Masiakowska
+Bogumiła Mazurkiewicz
+Natalia Żbikowska
+
+6.5
+50700 zł

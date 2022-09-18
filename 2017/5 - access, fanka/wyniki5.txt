@@ -1,0 +1,24 @@
+5.1:
+a)
+Rodzaj_meczu	ilosc
+L	113
+P	25
+T	6
+
+b)
+rok	ilosc
+2007	21
+
+5.2:
+Nocne Pumy
+Zwinne Mewy
+
+5.3:
+wynik	ilosc_meczow
+przegrana	452
+remis	170
+wygrana	579
+
+5.4:
+ilosc_sedziow
+22

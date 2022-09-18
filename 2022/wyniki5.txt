@@ -1,0 +1,28 @@
+5.1.:
+Gniezno	152
+Malbork	183
+Ogrodzieniec	222
+Przemysl	198
+(razem 755 zamówień)
+
+5.2.:
+8 dni
+początek: 07.10.2021
+ostatni dzień okresu: 14.10.2021
+
+5.3.:
+Nazwa magazynu	Łączna wielkość zamówień
+Gniezno	819000
+Malbork	944240
+Ogrodzieniec	1115560
+Przemysl	1062920
+
+5.4.:
+data: 19.03.2021
+numer zamówienia: 154
+ilość zamówień oddanych do wykonania przez filię: 37
+ilość butelek przekazanych przez filię: 285230
+
+5.5.: 6580240
+
+

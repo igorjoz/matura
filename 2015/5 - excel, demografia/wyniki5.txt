@@ -1,0 +1,20 @@
+5.1:
+region	mieszkańcy
+A	33 929 579
+B	41 736 619
+C	57 649 017
+D	36 530 387
+
+5.2:
+suma województw: 19
+
+region	suma
+A	3
+B	4
+C	8
+D	4
+
+5.3:
+ilość wszystkich mieszkańców: 125 930 205
+najwięcej mieszkańców w wojewódźtwie: w12C
+ilość przeludnionych wojewódźtw: 18

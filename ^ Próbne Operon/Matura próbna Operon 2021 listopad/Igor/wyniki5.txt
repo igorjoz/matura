@@ -1,0 +1,18 @@
+5.1:
+numer lotu: 10
+czas trwania w minutach: 259,65 minut
+
+5.2.: 3 razy przekroczono ³adownoœæ samolotu (przekroczono 40 ton)
+
+5.3.:
+najkrócej w powietrzu: 30.09.2021
+najd³u¿ej w powietrzu: 05.09.2021
+
+5.4.: 15.09.2021 powinien przejœæ przegl¹d (tego dnia minê³o 200 godzin)
+
+5.5.:
+najwiêkszy zysk jednego dnia: 05.09.2021, 230000 z³
+dzienny zysk (ca³oœæ / 30 dni wrzeœnia): 150966,67 z³
+ca³kowity zysk: 4529000 z³
+
+5.6.: 12

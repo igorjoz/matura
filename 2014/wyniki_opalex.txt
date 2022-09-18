@@ -1,0 +1,19 @@
+6.1:
+całkowita łączność transakcji: 22263,18 zł
+nazwisko	wartość_zakupów
+Bogdzio	7434,71
+Opyrchlo	5872,41
+Ottenlinger	4449,58
+Tananko	4506,48
+
+6.2:
+
+
+6.3:
+klient, który kupił największą ilość koksu (30,68 ton): Abdiasz Eleryk
+
+6.4:
+
+
+6.5:
+

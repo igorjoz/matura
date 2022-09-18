@@ -1,0 +1,10 @@
+5.1:
+11
+
+5.2:
+Najkrótszy skok: 401, dzieñ: 17
+Najd³u¿szy skok: 601, dzieñ: 176
+
+5.3:
+Iloœæ dni: 6
+Poprawa wyniku o: 158cm

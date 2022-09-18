@@ -1,0 +1,22 @@
+6.1: rok 2010, Australia
+
+6.2: Indie
+
+6.3:
+Nazwisko	Imie	Rok	Suma
+Vettel	Sebastian	2012	281
+Alonso	Fernando	2006	134
+Schumacher	Michael	2000	108
+
+6.4:
+Kraj	ilosc_reprezentantow
+Australia	2
+Brazylia	2
+Finlandia	1
+Francja	2
+Hiszpania	1
+Japonia	1
+Meksyk	1
+Niemcy	4
+Wenezuela	1
+Wielka Brytania	3

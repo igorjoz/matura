@@ -1,0 +1,20 @@
+5.1:
+a)
+L (ligowe):	113
+P (pucharowe):	25
+T (towarzyskie):	6
+
+b) 2007 r.: 21 meczów
+
+5.2:
+Nocne Pumy
+Zwinne Mewy
+
+5.3:
+przegrana	452
+remis	170
+wygrana	579
+
+5.4:
+ilość sędziów niesędziujących żadnego pucharowego meczu: 22
+

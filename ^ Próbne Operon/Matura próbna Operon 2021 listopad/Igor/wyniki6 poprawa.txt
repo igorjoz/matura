@@ -1,0 +1,235 @@
+6.1.:
+imiê i nazwisko: Markus EISENBICHLER
+kraj: Niemcy
+iloœæ punktów: 117,1
+
+6.2.:
+najwiêcej zawodników i loœæ zawodników: Austria	15
+najmniej zawodników i loœæ zawodników - 4 kraje, po 1 zawodniku:
+W³ochy	1
+Kanada	1
+Estonia	1
+Bu³garia	1
+
+6.3.:
+nazwisko_imie	kraj	suma
+KOBAYASHI Ryoyu	Japonia	5726,5
+
+6.4.:
+nazwisko_imie	nazwa_kraju	suma_punktow
+STOCH Kamil	Polska	1094
+KOBAYASHI Ryoyu	Japonia	928
+GRANERUD Halvor Egner	Norwegia	853
+
+6.5.:
+nazwisko_imie	nazwa_kraju	suma_punktow
+GRANERUD Halvor Egner	Norwegia	853
+
+6.6.:
+nazwa	miasto	ilosc_zawodnikow
+Austria	Wis³a	4
+Austria	Zakopane	4
+Austria	Lahti	4
+Austria	Willingen	4
+Austria	Klingenthal	5
+Austria	Rasnov	4
+Austria	Predazzo	5
+Austria	Sapporo	5
+Austria	Oslo	6
+Austria	Lillehammer	5
+Austria	Trondheim	4
+Austria	Ruka	3
+Austria	Vikersund	3
+Austria	Planica	4
+Austria	Ni¿ny Tagi³	4
+Austria	Engelberg	5
+Austria	Garmisch-Partenkirchen	5
+Austria	Oberstdorf	3
+Austria	Insbruk	6
+Austria	Bischofshofen	7
+Austria	Titisee-Neustadt	5
+Bu³garia	Willingen	1
+Bu³garia	Rasnov	1
+Bu³garia	Predazzo	1
+Bu³garia	Titisee-Neustadt	1
+Czechy	Predazzo	1
+Czechy	Sapporo	2
+Czechy	Oslo	3
+Czechy	Lillehammer	1
+Czechy	Trondheim	2
+Czechy	Oberstdorf	2
+Estonia	Ruka	1
+Estonia	Titisee-Neustadt	1
+Finlandia	Zakopane	1
+Finlandia	Lahti	1
+Finlandia	Klingenthal	1
+Finlandia	Predazzo	1
+Finlandia	Oslo	1
+Finlandia	Lillehammer	1
+Finlandia	Trondheim	1
+Finlandia	Ruka	1
+Finlandia	Vikersund	1
+Finlandia	Engelberg	1
+Finlandia	Garmisch-Partenkirchen	1
+Finlandia	Oberstdorf	2
+Finlandia	Insbruk	2
+Finlandia	Bischofshofen	1
+Finlandia	Titisee-Neustadt	2
+Japonia	Wis³a	4
+Japonia	Zakopane	4
+Japonia	Lahti	3
+Japonia	Willingen	5
+Japonia	Klingenthal	4
+Japonia	Rasnov	2
+Japonia	Predazzo	3
+Japonia	Sapporo	6
+Japonia	Oslo	4
+Japonia	Lillehammer	3
+Japonia	Trondheim	5
+Japonia	Ruka	3
+Japonia	Vikersund	3
+Japonia	Planica	6
+Japonia	Ni¿ny Tagi³	4
+Japonia	Engelberg	4
+Japonia	Garmisch-Partenkirchen	4
+Japonia	Oberstdorf	5
+Japonia	Insbruk	3
+Japonia	Bischofshofen	4
+Japonia	Titisee-Neustadt	2
+Kanada	Zakopane	1
+Kanada	Lahti	1
+Kanada	Willingen	1
+Kanada	Lillehammer	1
+Kanada	Vikersund	1
+Kanada	Engelberg	1
+Kanada	Garmisch-Partenkirchen	1
+Kanada	Insbruk	1
+Kanada	Titisee-Neustadt	1
+Niemcy	Wis³a	4
+Niemcy	Zakopane	5
+Niemcy	Lahti	5
+Niemcy	Willingen	3
+Niemcy	Klingenthal	4
+Niemcy	Rasnov	5
+Niemcy	Predazzo	5
+Niemcy	Sapporo	4
+Niemcy	Oslo	3
+Niemcy	Lillehammer	5
+Niemcy	Trondheim	4
+Niemcy	Ruka	6
+Niemcy	Vikersund	5
+Niemcy	Planica	5
+Niemcy	Ni¿ny Tagi³	3
+Niemcy	Engelberg	4
+Niemcy	Garmisch-Partenkirchen	5
+Niemcy	Oberstdorf	4
+Niemcy	Insbruk	3
+Niemcy	Bischofshofen	4
+Niemcy	Titisee-Neustadt	6
+Norwegia	Wis³a	4
+Norwegia	Zakopane	4
+Norwegia	Lahti	5
+Norwegia	Willingen	5
+Norwegia	Klingenthal	4
+Norwegia	Rasnov	4
+Norwegia	Predazzo	4
+Norwegia	Sapporo	3
+Norwegia	Oslo	3
+Norwegia	Lillehammer	5
+Norwegia	Trondheim	5
+Norwegia	Ruka	4
+Norwegia	Vikersund	5
+Norwegia	Planica	3
+Norwegia	Ni¿ny Tagi³	6
+Norwegia	Engelberg	4
+Norwegia	Garmisch-Partenkirchen	4
+Norwegia	Oberstdorf	4
+Norwegia	Insbruk	4
+Norwegia	Bischofshofen	5
+Norwegia	Titisee-Neustadt	4
+Polska	Wis³a	4
+Polska	Zakopane	5
+Polska	Lahti	6
+Polska	Willingen	5
+Polska	Klingenthal	6
+Polska	Rasnov	6
+Polska	Predazzo	4
+Polska	Sapporo	4
+Polska	Oslo	4
+Polska	Lillehammer	4
+Polska	Trondheim	4
+Polska	Ruka	6
+Polska	Vikersund	4
+Polska	Planica	4
+Polska	Ni¿ny Tagi³	4
+Polska	Engelberg	5
+Polska	Garmisch-Partenkirchen	5
+Polska	Oberstdorf	4
+Polska	Insbruk	5
+Polska	Bischofshofen	5
+Polska	Titisee-Neustadt	6
+Rosja	Wis³a	3
+Rosja	Willingen	1
+Rosja	Klingenthal	1
+Rosja	Rasnov	2
+Rosja	Oslo	1
+Rosja	Lillehammer	1
+Rosja	Trondheim	1
+Rosja	Vikersund	3
+Rosja	Planica	2
+Rosja	Ni¿ny Tagi³	3
+Rosja	Engelberg	1
+Rosja	Garmisch-Partenkirchen	1
+Rosja	Oberstdorf	1
+Rosja	Insbruk	1
+Rosja	Bischofshofen	2
+S³owenia	Wis³a	4
+S³owenia	Zakopane	5
+S³owenia	Lahti	4
+S³owenia	Willingen	3
+S³owenia	Klingenthal	4
+S³owenia	Rasnov	4
+S³owenia	Predazzo	4
+S³owenia	Sapporo	5
+S³owenia	Oslo	3
+S³owenia	Lillehammer	2
+S³owenia	Trondheim	2
+S³owenia	Ruka	4
+S³owenia	Vikersund	4
+S³owenia	Planica	5
+S³owenia	Ni¿ny Tagi³	4
+S³owenia	Engelberg	4
+S³owenia	Garmisch-Partenkirchen	3
+S³owenia	Oberstdorf	4
+S³owenia	Insbruk	4
+S³owenia	Bischofshofen	2
+S³owenia	Titisee-Neustadt	2
+Szwajcaria	Wis³a	3
+Szwajcaria	Lahti	1
+Szwajcaria	Willingen	2
+Szwajcaria	Klingenthal	1
+Szwajcaria	Rasnov	2
+Szwajcaria	Predazzo	2
+Szwajcaria	Sapporo	1
+Szwajcaria	Oslo	2
+Szwajcaria	Lillehammer	2
+Szwajcaria	Trondheim	2
+Szwajcaria	Ruka	2
+Szwajcaria	Vikersund	1
+Szwajcaria	Planica	1
+Szwajcaria	Ni¿ny Tagi³	2
+Szwajcaria	Engelberg	1
+Szwajcaria	Garmisch-Partenkirchen	1
+Szwajcaria	Oberstdorf	1
+Szwajcaria	Insbruk	1
+W³ochy	Zakopane	1
+
+6.7.:
+a)
+miasto	kod_skoczni	ilosc_przekroczen
+Insbruk	s7	7
+
+b)
+nazwisko_imie	ilosc_przekroczen
+KOBAYASHI Ryoyu	5
+

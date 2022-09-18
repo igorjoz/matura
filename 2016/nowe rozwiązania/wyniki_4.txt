@@ -1,0 +1,18 @@
+4.1.:
+punkty leżące na okręgu:
+(200, 400)
+(256, 8)
+ilość punktów wewnątrz okręgu: 7852
+
+4.2.:
+dla 1000 punktów: 3,228
+dla 5000 punktów: 3,1656
+dla wszystkich punktów: 3,1416
+
+4.3.:
+błąd bezwzględny liczby PI
+dla pierwszych 1000 punktów: 0,0864
+dla pierwszych 1700 punktów: 0,0179
+
+wykres do zadania 4.3 w pliku 4.xlsx, arkusz "zadanie 4.3"
+
