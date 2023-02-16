@@ -1,0 +1,28 @@
+Id_przedmiotu	Nazwa_przedmiotu
+1	j.polski
+2	j.angielski
+3	j.niemiecki
+4	matematyka
+5	fizyka
+6	historia
+7	geografia
+8	biologia
+9	chemia
+10	informatyka
+11	wiedza o spoleczenstwie
+12	wiedza o kulturze
+13	edukacja dla bezpieczenstwa
+14	podstawy przedsiebiorczosci
+15	wychowanie fizyczne
+16	historia i spoleczenstwo - przedmiot uzupelniajacy
+17	systemy operacyjne
+18	urzadzenia techniki komputerowej
+19	diagnostyka i naprawa urzadzen techniki komputerowej
+20	jezyk angielski zawodowy w branzy informatycznej
+21	sieci komputerowe
+22	witryny i aplikacje internetowe
+23	administracja sieciowymi systemami operacyjnymi
+24	projektowanie i montaz lokalnych sieci komputerowych
+25	systemy baz danych
+26	administracja bazami danych
+27	programowanie aplikacji internetowych

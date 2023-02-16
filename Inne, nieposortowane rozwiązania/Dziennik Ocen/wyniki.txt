@@ -1,0 +1,121 @@
+1: I A, I C
+
+2: 14.10.2014, 11.11.2014
+
+3:
+Klasa	Średnia
+IV A	3,53
+IV B	3,45
+IV C	3,4
+IV D	3,9
+IV E	3,51
+
+4:
+Nazwa_przedmiotu	miesiac	liczba_piatek
+administracja bazami danych	9	3
+administracja bazami danych	10	13
+administracja bazami danych	11	7
+administracja bazami danych	12	1
+administracja sieciowymi systemami operacyjnymi	12	2
+biologia	9	8
+biologia	10	20
+biologia	11	9
+biologia	12	5
+chemia	9	18
+chemia	10	31
+chemia	11	31
+chemia	12	13
+diagnostyka i naprawa urzadzen techniki komputerowej	9	8
+diagnostyka i naprawa urzadzen techniki komputerowej	10	13
+diagnostyka i naprawa urzadzen techniki komputerowej	11	9
+diagnostyka i naprawa urzadzen techniki komputerowej	12	13
+edukacja dla bezpieczenstwa	9	9
+edukacja dla bezpieczenstwa	10	15
+edukacja dla bezpieczenstwa	11	14
+edukacja dla bezpieczenstwa	12	8
+fizyka	9	14
+fizyka	10	21
+fizyka	11	31
+fizyka	12	9
+geografia	10	1
+geografia	11	1
+historia	9	2
+historia	10	2
+historia i spoleczenstwo - przedmiot uzupelniajacy	9	8
+historia i spoleczenstwo - przedmiot uzupelniajacy	10	4
+historia i spoleczenstwo - przedmiot uzupelniajacy	11	6
+historia i spoleczenstwo - przedmiot uzupelniajacy	12	3
+informatyka	9	33
+informatyka	10	31
+informatyka	11	34
+informatyka	12	25
+j.angielski	9	50
+j.angielski	10	85
+j.angielski	11	72
+j.angielski	12	50
+j.niemiecki	9	66
+j.niemiecki	10	106
+j.niemiecki	11	84
+j.niemiecki	12	53
+j.polski	9	37
+j.polski	10	81
+j.polski	11	62
+j.polski	12	41
+jezyk angielski zawodowy w branzy informatycznej	9	1
+jezyk angielski zawodowy w branzy informatycznej	10	1
+jezyk angielski zawodowy w branzy informatycznej	11	1
+matematyka	9	32
+matematyka	10	39
+matematyka	11	48
+matematyka	12	35
+podstawy przedsiebiorczosci	9	6
+podstawy przedsiebiorczosci	10	16
+podstawy przedsiebiorczosci	11	16
+podstawy przedsiebiorczosci	12	12
+projektowanie i montaz lokalnych sieci komputerowych	9	10
+projektowanie i montaz lokalnych sieci komputerowych	10	11
+projektowanie i montaz lokalnych sieci komputerowych	11	11
+projektowanie i montaz lokalnych sieci komputerowych	12	6
+sieci komputerowe	10	2
+systemy baz danych	9	6
+systemy baz danych	10	5
+systemy baz danych	11	8
+systemy baz danych	12	5
+systemy operacyjne	9	4
+systemy operacyjne	10	19
+systemy operacyjne	11	12
+systemy operacyjne	12	9
+urzadzenia techniki komputerowej	9	8
+urzadzenia techniki komputerowej	10	18
+urzadzenia techniki komputerowej	11	19
+urzadzenia techniki komputerowej	12	15
+wiedza o kulturze	9	7
+wiedza o kulturze	10	16
+wiedza o kulturze	11	13
+wiedza o kulturze	12	10
+wiedza o spoleczenstwie	9	7
+wiedza o spoleczenstwie	10	15
+wiedza o spoleczenstwie	11	9
+wiedza o spoleczenstwie	12	7
+witryny i aplikacje internetowe	9	5
+witryny i aplikacje internetowe	10	6
+witryny i aplikacje internetowe	11	9
+witryny i aplikacje internetowe	12	3
+wychowanie fizyczne	9	23
+wychowanie fizyczne	10	39
+wychowanie fizyczne	11	34
+wychowanie fizyczne	12	15
+
+5:
+Id_ucznia	Imie	Nazwisko
+674/2013	Aneta	Duda
+676/2013	Miroslaw	Gorski
+678/2013	Lukasz	Kostoczko
+680/2013	Donald	Krychowski
+684/2013	Adrian	Lubaczewski
+686/2013	Piotr	Nawrocki
+688/2013	Michal	Nowakowski
+690/2013	Piotr	Prusinski
+696/2013	Grzegorz	Tomkow
+698/2013	Radoslaw	Wojciechowski
+700/2013	Mariusz	Wojtyra
