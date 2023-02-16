@@ -1,0 +1,17 @@
+Zadanie 1:
+- sprzedane: 592 choinki
+- pozosta³e: 8 choinek
+
+Zadanie 2:
+w pliku wykres.xlsx
+
+Zadanie 3:
+11 grudnia
+
+Zadanie 4:
+17 dostaw od 1 do 17 grudnia
+sprzedanych zostanie 819 choinek
+
+Zadanie 5:
+24 dostawy po 35 choinek ka¿da
+Pozostanie niesprzedanych 21 choinek

@@ -1,0 +1,26 @@
+Zadanie 1
+LPP 7485,84
+WAWEL 960,06
+PZU 481,56
+
+Zadanie 2
+MILKILAND 27,85%
+
+Zadanie 3
+rodzaj		licznik	obrot_zl
+krajowa		418	2427046811
+zagraniczna	52	29736190
+
+udzia³ obrotów spó³ek krajowych = 98,79%
+
+Zadanie 4
+data		M		WIG
+2015-01-21	281091498490,00	50 987,13    
+2015-01-22	284219170040,00	51 554,46    
+2015-01-23	285297764160,00	51 750,07
+
+Zadanie 5
+kup		53
+sprzedaj	20
+obserwuj	397
+

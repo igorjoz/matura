@@ -1,0 +1,27 @@
+Zadanie 94.1.
+Przyrost procentowy: 270%
+Identyfikator dziecka: ID_dz: 718
+
+Zadanie 94.2.
+od 10 lat do 13 lat
+
+Zadanie 94.3.
+17 dzieci
+
+Zadanie 94.4.
+dla dziewcz¹t: w ósmym roku ¿ycia
+dla ch³opców: w jedenastym roku ¿ycia
+
+Zadanie 94.5.	
+
+		1rok	10lat	19lat
+centyl 5.	68	128	166
+centyl 95.	80	147	187
+
+Zadanie 94.6.	
+	dlugosc_ur	1rok	2lata	3lata	4lata	5lat	6lat	7lat	8lat	9lat	10lat
+mediana	52		74	87	96	103	110	116	121	127	132	138
+
+	11lat	12lat	13lat	14lat	15lat	16lat	17 lat	18lat	19lat
+mediana	143	149	156	163	169	173	175	176	176
+

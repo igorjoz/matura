@@ -1,0 +1,50 @@
+Zadanie 1:
+913
+
+Zadanie 2:
+Typ miejscowosci	Liczba miejscowosci
+wies			148
+osada			47
+osada lesna		12
+kolonia			10
+miasto			3
+przysiolek		1
+
+Zadanie 3:
+Nazwa powiatu	Nazwa wojewodztwa
+bielski		podlaskie
+bielski		slaskie
+brzeski		ma³opolskie
+brzeski		opolskie
+grodziski	mazowieckie
+grodziski	wielkopolskie
+krosnienski	podkarpackie
+krosnienski	lubuskie
+nowodworski	pomorskie
+nowodworski	mazowieckie
+opolski		lubelskie
+opolski		opolskie
+ostrowski	mazowieckie
+ostrowski	wielkopolskie
+sredzki		dolnoœl¹skie
+sredzki		wielkopolskie
+swidnicki	lubelskie
+swidnicki	dolnoœl¹skie
+tomaszowski	lubelskie
+tomaszowski	lodzkie
+
+Zadanie 4:
+92
+
+Zadanie 5:
+Nazwa gminy		Nazwa powiatu		Nazwa wojewodztwa
+Jaroslaw		jaroslawski		podkarpackie
+Jaslo			jasielski		podkarpackie
+Jastarnia		pucki			pomorskie
+Jastrzebie-Zdroj	Jastrzebie-Zdroj	slaskie
+Jawor			jaworski		dolnoslaskie
+Jaworzno		Jaworzno		slaskie
+Jedlina-Zdroj		walbrzyski		dolnoslaskie
+Jelenia Gora		Jelenia Gora		dolnoslaskie
+Jordanow		suski			malopolskie
+Jozefow			otwocki			mazowieckie

@@ -1,0 +1,25 @@
+Slowa zaczynajace sie i konczace na 'd':
+did
+desired
+destroyed
+devised
+Zaszyfrowane slowa o co najmniej 10 literach:
+wkqoocjqwo
+iujolqzzwr
+udwjtljuip
+tlcpgujurjqk
+yplcjdwotwr
+kqrrfwwcjtl
+mupmwjpqpg
+kqrrfwwcjtl
+wotchfqolwr
+Klucz szyfrujacy numer 1: (3,7)
+Klucz deszyfrujacy numer 1: (9,15)
+Klucz szyfrujacy numer 2: (1,3)
+Klucz deszyfrujacy numer 2: (1,23)
+Klucz szyfrujacy numer 3: (17,14)
+Klucz deszyfrujacy numer 3: (23,16)
+Klucz szyfrujacy numer 4: (7,0)
+Klucz deszyfrujacy numer 4: (15,0)
+Klucz szyfrujacy numer 5: (25,13)
+Klucz deszyfrujacy numer 5: (25,13)

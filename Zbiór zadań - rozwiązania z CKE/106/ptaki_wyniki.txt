@@ -1,0 +1,41 @@
+Zadanie 1
+bogatka, sroka, myszolow
+
+Zadanie 2
+Miesi¹c	liczba remizów
+5	2
+6	9
+7	3
+8	12
+9	2 
+
+Zadanie 3
+nazwa_zwyczajowa  liczba_lokalizacji_miejskich
+gawron		  7
+kawka		  16
+kruk		  7
+wrona siwa	  20
+
+Zadanie 4a
+lokalizacja	data		  czas	£¹czna_liczebnosc
+Tadzino		2014-07-18	  960		13
+
+Zadanie 4b
+lokalizacja		  data		sprawnoœæ
+Jezioro Zarnowieckie	  2014-12-03	143,875
+
+Zadanie 5a
+1624 osobników zurawia
+
+Zadanie 5b
+powiat		brak_inf	gniazduje	leci	odpoczywa	zeruje
+chojnicki								2
+gdanski		7				35	3		8
+kartuski					1	6	
+koscierski					120		
+malborski	5				
+pucki		111				580			90
+starogardzki	307				
+wejherowski			22		243	17		67
+
+

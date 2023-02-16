@@ -1,0 +1,59 @@
+Zadanie 90.1. 
+Katowice, 57 studentów, 
+najpopularniejsza uczelnia to Politechnika Informatyczno-Elektroniczna
+
+Zadanie 90.2.
+143 miejsca
+<=2256 lub <2257denarów
+
+Zadanie 90.3.
+Uczelnia					œredni_dochód
+Uniwersytet Krolewski				1832,22
+Akademia Sztuk Pieknych				1985,98
+Politechnika Krolewska				1947,34
+Politechnika Informatyczno-Elektroniczna	1814,20
+Uniwersytet Sportu i Turystyki			1923,81
+Wyzsza Szko³a Techniczna			1871,07
+Uniwersytet Muzyczny				2124,00
+Uniwersytet Pedagogiczny			1858,47
+Uniwersytet Ekonomiczny				1921,06
+Uniwersytet Rolniczy				1898,49
+
+ 
+Zadanie 90.4.
+Uczelnie					I	II	III	IV	V
+Akademia Sztuk Pieknych				32	10	6	2	5
+Politechnika Informatyczno-Elektroniczna	299	108	48	54	54
+Politechnika Krolewska				168	59	28	31	25
+Uniwersytet Sportu i Turystyki			24	5	6	3	5
+Uniwersytet Ekonomiczny				32	9	3	2	7
+Uniwersytet Krolewski				233	77	53	32	61
+Uniwersytet Muzyczny				5	2	0	1	0
+Uniwersytet Pedagogiczny			31	11	4	2	5
+Uniwersytet Rolniczy				27	14	7	5	6
+Wyzsza Szko³a Techniczna			8	1	1	0	5
+
+
+Zadanie 90.5.
+Imie		Nazwisko	Miejsce_zam		Dochod_na_osobe
+Iwona		Andrzejewska	Ruda Slaska		2241
+Jacek		Andrzejewski	Ruda Slaska		2241
+Anna		Barska		Ogrodzieniec		1047
+Barbara		Barska		Ogrodzieniec		1047
+Krzysztof	Barski		Ogrodzieniec		1047
+Joanna		Bilska		Kedzierzyn-Kozle	2807
+Michal		Bilski		Kedzierzyn-Kozle	2807
+Waclawa		Borkowska	Szczyrk			1683
+Sylwester	Borkowski	Szczyrk			1683
+Piotr		Jablonski	Sanok			1185
+Zygmunt		Jablonski	Sanok			1185
+Tomasz		Kaczmarek	WodzislawSlaski		1140
+Weronika	Kaczmarek	WodzislawSlaski		1140
+Przemyslaw	Kaczmarek	WodzislawSlaski		1140
+Klaudia		Kotowicz	Katowice		1950
+Tadeusz		Kotowicz	Katowice		1950
+Felicja		Ostrowska	Tarnowskie Gory		2466
+Boguslawa	Ostrowska	Tarnowskie Gory		2466
+Robert		Tomaszewski	Wisla			1511
+Bartosz		Tomaszewski	Wisla			1511
+

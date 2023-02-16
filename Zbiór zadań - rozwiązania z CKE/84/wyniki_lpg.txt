@@ -1,0 +1,20 @@
+Zadanie 1:
+
+Pan Binarny:
+43 razy tankowa³ Pb95.
+78 razy tankowa³ LPG
+200 dni jecha³ korzystaj¹c tylko z LPG.
+
+Zadanie 2:
+
+26.01.2014 r.
+
+Zadanie 3:
+
+Wykres w arkuszu oraz w pliku wykre_lpg.jpg
+
+Zadanie 4:
+
+Wydatki na Pb95 i LPG (wraz z kosztem instalacji): 8316,97 
+Wydatki na Pb95: 8965,23 
+

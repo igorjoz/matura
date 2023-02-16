@@ -1,0 +1,48 @@
+Zadanie 1.
+
+Warszawa	83
+Dusseldorf	78
+Warszawa Modlin	68
+
+Zadanie 2.
+
+Krankowska Joanna	16
+Lipinski Artur		16
+Wilkonska Marta	18
+Wirowski Marcin	16
+Wronikowska Magdalena	19
+
+Zadanie 3.
+
+4	77
+5	87
+6	95
+
+
+Zadanie 4.
+
+Gumowska Anna
+Hanke Amelia
+Kowal Waldemar
+Krupa Jan
+Krupa Mariola
+Kupinski Jakub
+Lipinski Artur
+Lis Krystyna
+Pawlikowska Beata
+Sibilska Monika
+Tobera Jowita
+Waruszewska Agnieszka
+Wilczek Agata 
+Wirowski Marcin
+Wojtas Sylwester
+Zawadzka Monika
+
+
+Zadanie 5.
+
+21 Bolonia
+99 Barcelona
+316 Warszawa
+522 Liverpool
+987 Oslo Torp

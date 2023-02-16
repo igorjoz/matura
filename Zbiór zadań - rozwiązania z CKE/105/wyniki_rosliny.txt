@@ -1,0 +1,44 @@
+1)
+Sklep wystawi³ 540 faktur. 
+Najwiêksza wartoœæ faktury wynosi 1250. 
+Wiêcej ni¿ jedna fakturê dosta³o 33 klientów.
+
+2)
+Miasto	Liczba zamówieñ
+Bielawa		5
+Jelenia Gora	5
+Olawa		1
+Olesnica	1
+Sobotka		8
+Trzebnica	4
+Walbrzych	5
+Wolow		13
+Wroclaw		33
+Zlotoryja	3
+
+3)
+Nazwisko	Imie	Liczba sadzonek		Nazwa
+Gryczka		Nina		12		Symphytum grandiflorum Goldsmith
+Gorska		Oliwia		14		Symphytum grandiflorum Goldsmith
+Gondek		Oliwia		12		Symphytum grandiflorum Goldsmith
+Szubarczyk	Dawid		11		Symphytum grandiflorum Goldsmith
+Mezynska	Lena		14		Symphytum x uplandicum Axmister s Gold
+Boleski		Tymon		12		Symphytum x uplandicum Axmister s Gold
+Jezierska	Nadia		12		Symphytum x uplandicum Axmister s Gold
+Bzówka		Szymon		13		Symphytum x uplandicum Axmister s Gold
+
+4)
+Primula japonica
+Carex Comans
+Echinacea Tomato Soup
+Echinacea Black Beauty
+
+5)
+Rozmiary doniczki	Liczba zamówieñ
+10x10x20		85
+11x11x11		355
+13x13x13		96
+9x9x12			429
+9x9x9			1051
+
+

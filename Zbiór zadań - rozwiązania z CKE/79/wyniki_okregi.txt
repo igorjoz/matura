@@ -1,0 +1,46 @@
+------------------
+Zadanie 1
+Cwiartka 1 : 1339
+Cwiartka 2 : 274
+Cwiartka 3 : 166
+Cwiartka 4 : 218
+pozostale okregi : 3
+------------------
+Zadanie 2
+Liczba lustrzanych par : 158
+------------------
+Zadanie 3
+Liczba par prostopadlych : 231
+------------------
+Zadanie 4
+Dlugosc kolejnego lancucha = 6
+Dlugosc kolejnego lancucha = 3
+Dlugosc kolejnego lancucha = 11
+Dlugosc kolejnego lancucha = 7
+Dlugosc kolejnego lancucha = 4
+Dlugosc kolejnego lancucha = 5
+Dlugosc kolejnego lancucha = 12
+Dlugosc kolejnego lancucha = 36
+Dlugosc kolejnego lancucha = 18
+Dlugosc kolejnego lancucha = 53
+Dlugosc kolejnego lancucha = 87
+Dlugosc kolejnego lancucha = 21
+Dlugosc kolejnego lancucha = 73
+Dlugosc kolejnego lancucha = 39
+Dlugosc kolejnego lancucha = 31
+Dlugosc kolejnego lancucha = 12
+Dlugosc kolejnego lancucha = 41
+Dlugosc kolejnego lancucha = 10
+Dlugosc kolejnego lancucha = 64
+Dlugosc kolejnego lancucha = 22
+Dlugosc kolejnego lancucha = 57
+Dlugosc kolejnego lancucha = 31
+Dlugosc kolejnego lancucha = 41
+Dlugosc kolejnego lancucha = 50
+Dlugosc kolejnego lancucha = 65
+Dlugosc kolejnego lancucha = 73
+Dlugosc kolejnego lancucha = 45
+Dlugosc kolejnego lancucha = 18
+Dlugosc kolejnego lancucha = 37
+Dlugosc kolejnego lancucha = 28
+Dlugosc najdluzszego lancucha = 87

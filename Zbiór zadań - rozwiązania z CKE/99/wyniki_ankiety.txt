@@ -1,0 +1,51 @@
+Zadanie 1
+k	2779
+m	2781
+
+zadanie 2
+G	2,73
+LO	2,74
+SP	2,80
+SZ	2,74
+T	2,70
+
+zadanie 3
+GM07	3,63
+GM08	3,37
+GM17	3,28
+GM01	3,26
+GM15	3,18
+GM12	3,13
+GM11	3,12
+GM09	3,11
+GM02	3,09
+GM06	3,09
+GM13	3,08
+GM16	3,07
+GM19	3,05
+GM03	3,05
+GM10	3,03
+GM04	3,02
+GM05	2,98
+GM20	2,96
+GM18	2,96
+GM14	2,92
+
+zadnie 4
+G	80
+LO	94
+SP	70
+SZ	12
+T	35
+
+zadanie 5
+Lipcowa Rosa	390
+
+zadanie 6
+Rodzaj_szkoly	k	m
+G	130	119
+LO	116	108
+SP	276	307
+SZ	19	35
+T	77	65
+

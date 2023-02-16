@@ -1,0 +1,47 @@
+a)
+Ewelina	Adamska
+
+b)
+Budzianowska	Zofia	41
+Kolarski	Andrzej	41
+Laska	Justyna	41
+Maskor	Paulina	41
+Rzepka	Tomasz	42
+Rzymski	Jan	42
+
+c)
+Radom	27599,50
+Siedlce	34215,40
+Zgierz	38263,50
+Kutno	43372,80
+Kielce	48014,70
+Olsztyn	50606,60
+Kalisz	51099,00
+Lublin	53209,50
+Mielec	54144,00
+Bydgoszcz	63932,00
+Krakow	80344,50
+Katowice	81486,30
+Malbork	84280,00
+
+d)
+styczeñ	130
+luty	68
+marzec	63
+kwiecieñ	32
+maj	31
+czerwiec	63
+lipiec	70
+sierpieñ	54
+wrzesieñ	121
+paŸdziernik	103
+listopad	134
+grudzieñ	130
+
+e)
+Œrednia liczba noclegów z wszystkich noclegów
+1,64
+Œrednia liczba noclegów z delegacji co najmniej 2-dniowych
+2,25
+
+

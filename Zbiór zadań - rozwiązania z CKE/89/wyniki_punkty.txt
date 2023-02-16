@@ -1,0 +1,34 @@
+1)
+Bialaszewski	Wiktor
+Cicherski	Szymon
+Florek		Sandra
+Kaminski	Mikolaj
+Krol		Malgorzata
+
+2)
+Najczêœciej wystêpuj¹ca liczba punktów 55,6
+Majtas	Lucja
+Broszkow Zofia
+Sokolnicka Inga
+Sochacka Inka
+Murczynska Laura
+Odya	Kacper
+
+3)
+Grzelecki	Oliwier
+Wojcicki	Aleks
+Rembiewski	Jakub
+Przytula	Jakub
+
+4)
+Ocen		JP	Mat	Biol	Geog
+dopuszczaj¹cych	95	110	101	112
+dostatecznych	96	106	105	97
+dobrych		101	100	94	96
+bardzo dobrych	108	97	110	97
+celuj¹cych	114	101	104	112
+
+5)
+300 uczniów
+
+

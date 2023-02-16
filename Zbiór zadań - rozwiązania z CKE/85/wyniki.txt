@@ -1,0 +1,31 @@
+Zadanie 85.1.
+41 406 l
+
+Zadanie 85.2.
+8 360 sztuk
+
+Zadanie 85.3.
+2014-05-04
+50 dni
+
+Zadanie 85.4.
+
+		liczba serów
+miesi¹c		sprzedanych
+kwiecieñ	72
+maj		1626
+czerwiec	1656
+lipiec		1628
+sierpieñ	1243
+wrzesieñ	586
+ 
+
+Zadanie 85.5.
+744
+
+Zadanie 85.6.
+
+mieszanka mlek	liczba oscypków
+tylko owcze	6811
+20% krowiego	8470
+40% krowiego	11298

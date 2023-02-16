@@ -1,0 +1,47 @@
+Zadanie 109.1
+Rusztowanie aluminiowe wys. 5m	
+Liczba_wypozyczen: 28
+
+Zadanie 109.2
+1 750 z³
+
+Zadanie 109.3
+Imiê		Nazwisko
+Marcin		Budzisz
+Wojciech	Dudek
+Izabela		Kusz
+
+
+Zadanie 109.4
+Poprawna odpowiedŸ:68
+
+Zadanie 109.5
+Miesi¹c	Zysk z wynajmu
+1	43 307,00 z³
+2	35 441,00 z³
+3	46 181,00 z³
+4	54 162,00 z³
+5	81 019,00 z³
+6	95 315,00 z³
+7	111 173,00 z³
+8	96 436,00 z³
+9	101 491,00 z³
+10	66 041,00 z³
+11	47 754,00 z³
+12	36 435,00 z³
+
+
+Miesi¹c	Zysk z transportu
+1	850,00 z³
+2	900,00 z³
+3	1 200,00 z³
+4	1 300,00 z³
+5	1 950,00 z³
+6	1 600,00 z³
+7	2 450,00 z³
+8	2 600,00 z³
+9	1 800,00 z³
+10	850,00 z³
+11	700,00 z³
+12	900,00 z³
+

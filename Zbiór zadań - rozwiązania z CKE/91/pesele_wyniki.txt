@@ -1,0 +1,57 @@
+1)
+Beatrycze
+Doris
+Ines
+
+2)
+08321103754	Wizniewski	Andrzej
+09321501177	Wizniewski	Andrzej
+08322201772	Michalak	Krzysztof
+09311310792	Michalak	Krzysztof
+66100294134	Kowalczyk	Mateusz
+59031152059	Kowalczyk	Mateusz
+09211700664	Kozlowska	Malgorzata
+09313003607	Kozlowska	Malgorzata
+67112966668	Kozlowska	Malgorzata
+
+3)
+Najwiêksza liczba porz¹dkowa: Piotr Dzierzak
+Najmniejsza liczba porz¹dkowa: Amelia Wendt
+
+4)
+Liczba osób urodzonych w miesi¹cu:
+styczeñ		68
+luty		33
+marzec		9
+kwiecieñ	16
+maj		13
+czerwiec	15
+lipiec		19
+sierpieñ	22
+wrzesieñ	32
+paŸdziernik	67
+listopad	99
+grudzieñ	101
+
+5)
+AWie3
+AWit4
+AWoj0
+AWoj2
+AWoj8
+BWas9
+JPod4
+KMic2
+LMar4
+MKoc9
+MKor0
+MKow4
+MLub7
+NJak2
+NJan3
+NJan6
+SCie9
+SDab7
+ZAda1
+
+

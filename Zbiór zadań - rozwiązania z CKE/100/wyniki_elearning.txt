@@ -1,0 +1,46 @@
+Zadanie 1.
+
+lista	œrednia liczba punktów
+C1	11,80
+C2	11,07
+C3	9,67
+C4	10,62
+C5	10,02
+C6	10,55
+C7	11,13
+P1	17,95
+P2	19,65
+P3	19,98
+P4	20,83
+
+Zadanie 2.
+
+Albert Mikos
+Lukasz Rdzanek
+Dawid Zajaczkowski
+
+Zadanie 3.
+
+ocena	liczba uczniów
+1	0
+2	1
+3	5
+4	18
+5	36
+
+Zadanie 4.
+
+punkty	G1	G2	G3	G4	G5
+10	12	9	20	21	14
+11	11	17	39	15	14
+12	25	33	43	50	31
+
+
+Zadanie 5.
+
+Robert Czaja
+Bartlomiej Gosk
+Albert Mikos
+Krzysztof Plata
+Igor Rybarczyk
+Karol Wojciul

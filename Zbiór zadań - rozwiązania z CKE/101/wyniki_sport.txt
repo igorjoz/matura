@@ -1,0 +1,36 @@
+1)
+90 kobiet i 45 mê¿czyzn
+
+2)
+Obiekt			Wartoœæ
+Active			3334
+Aqua Park		2218
+Bodyfit			2180
+Lady Fitness Club	924
+Platinium Center	1419
+Pure Jatomi		1771
+Redeco			3613
+Spartan			3173
+Top-Gym			1804
+
+3)
+Nazwisko	Imie
+Kowalska	Maria
+Olech		Klaudia
+Pozarzycka	Justyna
+
+4)
+127 osób, Silownia, Spartan
+
+5)
+Obiekt			Liczba osób
+Active			339
+Aqua Park		226
+Bodyfit			223
+Lady Fitness Club	84
+Platinium Center	120
+Pure Jatomi		161
+Redeco			383
+Spartan			300
+Top-Gym			164
+

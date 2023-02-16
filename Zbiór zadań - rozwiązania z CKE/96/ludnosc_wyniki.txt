@@ -1,0 +1,99 @@
+Zadanie 1
+wykres w arkuszu kalkulacyjnym lub w osobnym pliku graficznym
+
+Zadanie 2
+stosunek liczby ludnoœci w miastach do liczby ludnoœci wsi:
+w roku 2013 :  1,53
+w roku 2050 :  1,24
+
+Zadanie 3
+œredni wiek mê¿czyzny zamieszka³ego w mieœcie:
+w roku 2013 :  39
+w roku 2050 :  48
+
+Zadanie 4
+rok	wiek w którym kobiety zaczynaj¹ przewa¿aæ liczebnie nad mê¿czyznami
+2013	49
+2014	49
+2015	49
+2016	49
+2017	48
+2018	49
+2019	48
+2020	49
+2021	50
+2022	51
+2023	50
+2024	51
+2025	52
+2026	51
+2027	51
+2028	52
+2029	53
+2030	53
+2031	53
+2032	52
+2033	53
+2034	53
+2035	54
+2036	55
+2037	54
+2038	55
+2039	56
+2040	57
+2041	56
+2042	57
+2043	57
+2044	58
+2045	59
+2046	60
+2047	59
+2048	60
+2049	61
+2050	61
+
+Zadanie 5
+wykres w arkuszu lub w osobnym pliku graficznym
+
+rok	% ludnosci w wieku produkcyjnym
+2013	69%
+2014	69%
+2015	69%
+2016	69%
+2017	68%
+2018	68%
+2019	67%
+2020	67%
+2021	66%
+2022	66%
+2023	65%
+2024	64%
+2025	64%
+2026	64%
+2027	63%
+2028	63%
+2029	63%
+2030	63%
+2031	63%
+2032	63%
+2033	63%
+2034	63%
+2035	63%
+2036	63%
+2037	63%
+2038	62%
+2039	62%
+2040	62%
+2041	62%
+2042	61%
+2043	61%
+2044	61%
+2045	60%
+2046	60%
+2047	59%
+2048	58%
+2049	58%
+2050	57%
+
+
+

@@ -1,0 +1,59 @@
+Zadanie 98.1
+Klasa
+I A
+I C
+
+Zadanie 98.2 
+2014-11-11
+2014-10-14
+
+Zadanie 98.3 
+Klasa	Œrednia
+IV A	3,53
+IV B	3,45
+IV C	3,40
+IV D	3,90
+IV E	3,51
+
+Zadanie 98.4 
+Nazwa_przedmiotu					wrz	paz	lis	gru
+administracja bazami danych				3	13	7	1
+administracja sieciowymi systemami operacyjnymi				2
+biologia						8	20	9	5
+chemia							18	31	31	13
+diagnostyka i naprawa urzadzen techniki komputerowej	8	13	9	13
+edukacja dla bezpieczenstwa				9	15	14	8
+fizyka							14	21	31	9
+geografia							1	1	
+historia						2	2		
+historia i spoleczenstwo - przedmiot uzupelniajacy	8	4	6	3
+informatyka						33	31	34	25
+j.angielski						50	85	72	50
+j.niemiecki						66	106	84	53
+j.polski						37	81	62	41
+jezyk angielski zawodowy w branzy informatycznej	1	1	1	
+matematyka						32	39	48	35
+podstawy przedsiebiorczosci				6	16	16	12
+projektowanie i montaz lokalnych sieci komputerowych	10	11	11	6
+sieci komputerowe						2		
+systemy baz danych					6	5	8	5
+systemy operacyjne					4	19	12	9
+urzadzenia techniki komputerowej			8	18	19	15
+wiedza o kulturze					7	16	13	10
+wiedza o spoleczenstwie					7	15	9	7
+witryny i aplikacje internetowe				5	6	9	3
+wychowanie fizyczne					23	39	34	15
+
+Zadanie 98.5 
+Imie		Nazwisko
+Aneta		Duda
+Miroslaw	Gorski
+Lukasz		Kostoczko
+Donald		Krychowski
+Adrian		Lubaczewski
+Piotr		Nawrocki
+Michal		Nowakowski
+Piotr		Prusinski
+Grzegorz	Tomkow
+Radoslaw	Wojciechowski
+Mariusz		Wojtyra

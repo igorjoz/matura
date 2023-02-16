@@ -1,0 +1,16 @@
+Zadanie 1: 
+Liczba gatunkow: 207
+Rozmiar najwiekszego gatunku: 20
+Zadanie 2A 
+A: 17065
+B: 16828
+C: 16667
+D: 16497
+E: 16670
+Zadanie 2B: 8
+Zadanie 3: 
+Najwieksza liczba genow w genotypie: 11
+Najdluzszy gen: 189
+Zadanie 4: 
+Liczba odpornych: 249
+Liczba silnie odpornych: 187

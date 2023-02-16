@@ -1,0 +1,10 @@
+Zad 1: 
+Min temp w stacji S1: -1011
+Min temp w stacji S2: -1001100
+Min temp w stacji S3: -1001011
+Zad 2: 
+Liczba dni z blednymi zegarami: 182
+Zad 3: 
+Liczba rekordow: 42
+Zad 4: 
+Najwiekszy skok: 25

@@ -1,0 +1,13 @@
+-----------------------
+Zadanie 1
+f(1.5) = 2.09032
+-----------------------
+Zadanie 2
+x = 4.092  albo  x = 4.093
+f(x)=3.06495
+-----------------------
+Zadanie 3
+Miejsce zerowe :  0.53656
+Miejsce zerowe :  2.52073
+Miejsce zerowe :  3.31769
+Miejsce zerowe :  4.84971

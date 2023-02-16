@@ -1,0 +1,32 @@
+Zadanie 1
+30.03.2015, 56 recept
+
+Zadanie 2 
+Leki przeciwnowotworowe i immunomodulujace - inhibitory enzymow - doustne inhibitory aromatazy
+
+Zadanie 3 
+Miesi¹c	Liczba recept	Wartoœæ wszystkich lekarstw
+1	800		71 698,64 z³
+2	742		61522,39 z³
+3	936		75 405,95 z³
+
+
+Zadanie 4 
+Cena_detaliczna	Nazwa_grupy
+4770,46		Hormony przysadki i podwzgorza - inhibitory hormonu wzrostu
+
+
+Zadanie 5
+ID_recepty	Data
+28/2015		2015-01-02
+64/2015		2015-01-05
+655/2015	2015-01-27
+673/2015	2015-01-27
+710/2015	2015-01-28
+1133/2015	2015-02-12
+1274/2015	2015-02-18
+1289/2015	2015-02-18
+1517/2015	2015-02-27
+2014/2015	2015-03-17
+2209/2015	2015-03-24
+

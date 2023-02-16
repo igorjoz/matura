@@ -1,0 +1,24 @@
+Zadanie 1:
+45 171
+
+Zadanie 2:
+DW990, 13 km
+
+Zadanie 3:
+22, Berlinka, 8,2 km
+
+Zadanie 4:
+- Autostrada Toruñska
+- Gliwicka Autostrada
+
+Zadanie 5:
+ 			autostrada	droga ekspresowa	droga krajowa	droga wojewódzka
+Blisko od szosy		23		50			136		233
+Czysta Nafta		25		44			105		235
+Dobre Paliwo		22		56			112		223
+Dyskont paliwowy	21		46			117		230
+Green Fuel		19		40			120		261
+Najpierw Ropa		23		45			128		217
+Nitrogaz		31		52			120		205
+Petrochemia Centralna	21		42			120		213
+Standard Oil		21		50			127		241

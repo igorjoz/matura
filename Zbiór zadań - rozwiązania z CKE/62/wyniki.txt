@@ -1,0 +1,15 @@
+Zadanie 1:
+- najmniejsza: 1002
+- najwiêksza: 777044
+
+Zadanie 2:
+- pierwszy element: 639
+- liczba elementów: 6
+
+Zadanie 3:
+- liczby o tych samych wartoœciach - 639 wierszy
+- liczba z pierwszego pliku jest wiêksza - 357 wierszy
+
+Zadanie 4:
+- w zapisie dziesiêtnym - 625
+- w zapiesie ósemkowym - 411

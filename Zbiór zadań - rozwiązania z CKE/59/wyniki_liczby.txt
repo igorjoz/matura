@@ -1,0 +1,21 @@
+Zadanie 1: 
+114
+
+
+zadanie 2:
+181
+
+
+zadanie 3:
+Moc   Liczba liczb
+1   381
+2   344
+3   171
+4   76
+5   22
+6   4
+7   0
+8   2
+
+Minimalna liczba o mocy jeden jest rowna: 11
+Maksymalna liczba o mocy jeden jest rowna: 999342708

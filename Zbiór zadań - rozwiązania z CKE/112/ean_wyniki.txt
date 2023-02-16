@@ -1,0 +1,64 @@
+Zadanie 1
+rodzaj	ile_krajow
+bakalie		2
+baton		5
+bombonierka	4
+ciastka		3
+ciasto		1
+cukierki	4
+czekolada	9
+deser		2
+dodatki		1
+miod		1
+napoje		2
+przekaska	2
+przetwory zbozowe	3
+uzywki		5
+
+Zadanie 2
+nazwa_firmy	lokalizacja
+Hoop		Brno
+Kraft-Foods	Praha, Rohansky Ostrov
+Kraft-Foods	Praha, Karolinska
+Mokate		Votice
+Pacific		Antwerpia
+
+Zadanie 3
+rodzaj	najmniejsza masa	nazwa towaru
+bakalie	50	MIGDALY BLANSZOWANE
+baton	28	MARCEPAN
+bombonierka	37,5	ROCHER T3X16X6 FLO B POL 11
+ciastka	17	PRINCE POLO ORZECHOWE
+ciasto	40	FIX DO KARPATEK
+cukierki	6	FIGURKA
+czekolada	15	MLECZNA
+deser	25	KREM O`LADA SCOOBY DOO
+dodatki	3	BARWNIKI DO JAJEK
+miod	15	MIOD PORCJOWANY
+napoje	300	JUPIK BANAN
+przekaska	37	NIC NAC'S
+przetwory zbozowe	20	FITNESS Z CZEKOLADA I POMARANCZA 6-PAK PLATKI I MLEKO
+uzywki	12	LA MATTINA CAPPUCCINO Z MAGNEZEM PALUCH
+
+Zadanie 4
+nazwa	masa	nazwa_firmy	kraj
+KINDER DUPLO T	364	Ferrero	Niemcy
+NUTELLA G670X6 VT PR POL 11	670	Ferrero	Polska
+BANG BANG	1200	Millano Baron	Polska
+MILKA ALPEJSKIE MLECZKO WANILIOWE	350	Kraft-Foods	Szwajcaria
+MILKA ALPEJSKIE MLECZKO CZEKOLADOWE	350	Kraft-Foods	Szwajcaria
+KINDER DELICE KAKAO	420	Ferrero	Wlochy
+
+Zadanie 5
+kraj		0,05	0,08	0,23
+Austria		3	4	
+Belgia				7
+Czechy		20		9
+Francja		1		3
+Hiszpania			1
+Niemcy		3	16	28
+Polska		146	220	496
+Slowacja			4
+Szwajcaria			57
+Wegry				3
+Wlochy				24
