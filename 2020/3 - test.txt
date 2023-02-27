@@ -1,3 +1,0 @@
-nie robiłem sieci
-
-oprócz tego wszystko dobrze (analiza skryptu, zegar binarny, SQL)
