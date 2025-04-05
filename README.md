@@ -1,49 +1,137 @@
-# **What does this repository contain?**
+🇵🇱 **Polska Wersja**
 
-## **My solutions for matura exams tasks & problems**, excatly saying:
+Witaj w moim repozytorium! Tutaj znajdziesz kompleksowe rozwiązania różnych zadań maturalnych z informatyki. Z pasją podchodzę do programowania i edukacji – zdobyłem solidne **90%** na **maturze 2022** 🎉, dzięki czemu obecnie studiuję Informatykę na Politechnice Gdańskiej (6. semestr). Oprócz tego pracuję jako Full-stack Developer (Laravel, PHP), jestem nauczycielem programowania i też prowadzę korepetycje - dużo tego wszystkiego! Jeśli masz pytania lub chcesz się ze mną skontaktować, napisz maila na **igor@jozefowicz.pl** 📧. Dodatkowo, zapraszam do odwiedzenia mojej strony internetowej: [igorjoz.com](https://igorjoz.com) 🌐.
 
-- proper matura exams
-- preparatory exams
-- CKE collection of tasks
+---
 
-## **Matura exam structure**:
+### **Co znajdziesz w tym repozytorium? 🤓**
 
-1. **part &ndash; theory**
-   - **anylyze an algorithm** &ndash; usually not some well known
-   - **write an algorithm**, allowed notations are:
-     - step list
-     - pseudocode
-     - real programming language
-   - **general IT knowledge** like:
-     - number systems &ndash; calculations
-     - network, IPv4
+- **Moje rozwiązania zadań maturalnych:**
+  - Arkusze maturalne - z terminów podstawowych i poprawkowych
+  - Egzaminy przygotowawcze
+  - Zadania ze zbioru zadań CKE
+
+---
+
+### **Struktura egzaminu maturalnego 📚**
+
+1. **Część teoretyczna**  
+   Obejmuje:
+   - **Analizę algorytmów** – często nietypowych, mniej znanych przykładów
+   - **Pisanie algorytmów** – dozwolone notacje:
+     - Lista kroków
+     - Pseudokod
+     - Język programowania
+   - **Ogólna wiedza informatyczna**, m.in.:
+     - Systemy liczbowe i obliczenia
+     - Sieci komputerowe (IPv4 itp.)
      - SQL
      - Excel
-     - systems (Windows, Linux)
-     - hardware (CPU, GPU, etc.)
-     - file extensions
-     - images, colors
-     - other
-2. **part &ndash; practice and real use of IT tools**
-   - **analyze big sets od related data** &ndash; usually 3 or 4 files
-   - **calculate and analyze smaller sets of data** &ndash; usually 1 or 2 files
-   - **write a programme**, allowed languages are:
-     - **Python** + Pycharm
-     - **C++** + MS Visual Studio
+     - Systemy operacyjne (Windows, Linux)
+     - Sprzęt komputerowy (CPU, GPU itp.)
+     - Rozszerzenia plików
+     - Format obrazów, teoria kolorów
+     - I wiele innych!
+
+2. **Część praktyczna**  
+   Skupia się na praktycznym wykorzystaniu narzędzi IT:
+   - **Analiza dużych zbiorów powiązanych danych** – zazwyczaj z 3 lub 4 plików
+   - **Analiza mniejszych zbiorów danych** – zwykle z 1 lub 2 plików
+   - **Programowanie**, gdzie możesz używać:
+     - **Python** (z PyCharm)
+     - **C++** (z MS Visual Studio)
      - **Java**
-     - Pascal
+     - **Pascal**
 
-## **Practical tasks are solved with:**
+---
 
-- **Python** &ndash; I'm going to use it during the proper exam
-- **C++** &ndash; my first and main "algorithmic" programming language
-- **Excel** &ndash; to analyze
-- **Access + SQL** &ndash; to analyze big sets of data
+### **Narzędzia & języki programowania, z których korzystam 💻**
 
-### Besides of practical tasks I also upload my solutions for theory tasks
+- **Python** – niezbędny podczas egzaminu oraz do szybkiego prototypowania
+- **C++** – mój pierwszy i główny język programowania do algorytmiki
+- **Excel** – niezastąpiony przy analizie danych (mniej tabel / danych)
+- **Access + SQL** – idealne do analizy dużych zbiorów danych (więcej tabel)
 
-Alert! They might contain errors, but usually are marked in red.
+---
 
-## Btw, **what is matura exam**?
+### **Rozwiązania teoretyczne i ostrzeżenie o potencjalnych błędach ⚠️**
 
-It's a state exam in Poland, quite important if you want to study at some nice university of technology, but not only. In my opinion it's great if we consider advantages of preparing to it. You don't have to learn useless stuff just for an exam, because actually it's useful in real life &ndash; programming & algorithms, Excel, SQL, general knowledge.
+Wgrywam również moje rozwiązania zadań teoretycznych. Uwaga! Mogą one zawierać błędy – zazwyczaj są oznaczone na czerwono.
+
+---
+
+### **Czym jest egzamin maturalny? 🎓**
+
+Matura to egzamin państwowy w Polsce, niezwykle ważny, jeśli chcesz studiować na renomowanym uniwersytecie technicznym – ale nie tylko. Według mnie przygotowanie do matury ma ogromne zalety, bo uczy praktycznych umiejętności, takich jak programowanie, algorytmy, Excel, SQL oraz ogólna wiedza informatyczna – wszystko to przydatne w codziennym życiu!
+
+---
+
+🇬🇧 **English Version**
+
+Welcome to my repository! Here you'll find comprehensive solutions for various matura exam tasks and problems. I'm passionate about programming and education – I scored **90%** on the **2022 matura exam** 🎉. Currently, I'm a programming teacher and I also conduct private classes. If you have any questions or want to reach out, feel free to email me at **igor@jozefowicz.pl** 📧. Additionally, check out my website: [igorjoz.com](https://igorjoz.com) 🌐.
+
+---
+
+### **What Does This Repository Contain? 🤓**
+
+- **My Solutions for Matura Exam Tasks & Problems:**
+  - Official matura exams
+  - Preparatory exams
+  - CKE collection of tasks
+
+---
+
+### **Matura Exam Structure 📚**
+
+1. **Theory Part**  
+   This section covers:
+   - **Algorithm Analysis** – often with unique, lesser-known examples
+   - **Algorithm Design** – allowed formats include:
+     - Step lists
+     - Pseudocode
+     - Any real programming language
+   - **General IT Knowledge**, including:
+     - Number systems and calculations
+     - Computer networks (e.g., IPv4)
+     - SQL
+     - Excel
+     - Operating systems (Windows, Linux)
+     - Computer hardware (CPU, GPU, etc.)
+     - File extensions
+     - Image formats and color theory
+     - And much more!
+
+2. **Practical Part**  
+   This section focuses on the real use of IT tools:
+   - **Analyzing large sets of related data** – typically using 3 or 4 files
+   - **Analyzing smaller data sets** – usually using 1 or 2 files
+   - **Programming tasks**, where you can use:
+     - **Python** (with PyCharm)
+     - **C++** (with MS Visual Studio)
+     - **Java**
+     - **Pascal**
+
+---
+
+### **Tools & Technologies I Use 💻**
+
+- **Python** – Essential during exams and for rapid prototyping.
+- **C++** – My first and primary programming language for algorithms.
+- **Excel** – Indispensable for data analysis.
+- **Access + SQL** – Perfect for analyzing large data sets.
+
+---
+
+### **Theory Solutions & Error Alerts ⚠️**
+
+I also upload my solutions for theory tasks. Note: They might contain errors, which are usually highlighted in red.
+
+---
+
+### **What is the Matura Exam? 🎓**
+
+The matura exam is a state exam in Poland, crucial if you plan to study at a prestigious technical university – and beyond. In my view, preparing for the matura is highly beneficial, as it teaches practical skills like programming, algorithms, Excel, SQL, and general IT knowledge – all of which are useful in everyday life!
+
+---
+
+Happy coding and happy learning! 😎👍
